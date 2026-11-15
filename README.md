@@ -33,6 +33,12 @@ the sets that come after them alphabetically to different mules.
 To change the grid sizes, edit `GRIDS` in `build.py`. The page's look lives in
 `mules.template.html`; `build.py` fills in the data to produce `mules.html`.
 
+## Hosting
+
+`build.py` also writes `site/index.html`, a standalone copy of the viewer.
+On every push to `main`, `.github/workflows/pages.yml` runs the build and
+deploys `site/` to GitHub Pages (enable Pages with source "GitHub Actions").
+
 ## Data source
 
 Game data is from [`@blizzhackers/d2data`](https://www.npmjs.com/package/@blizzhackers/d2data),

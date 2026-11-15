@@ -172,6 +172,17 @@ def main():
     html = html.replace("/*ITEMS*/", json.dumps(items, ensure_ascii=False))
     html = html.replace("/*PLAN*/", json.dumps(plan, ensure_ascii=False))
     (OUT / "mules.html").write_text(html, encoding="utf-8")
+    # Standalone copy for static hosting (GitHub Pages); mules.html is a
+    # fragment that the Artifact viewer wraps in its own document.
+    site = OUT / "site"
+    site.mkdir(exist_ok=True)
+    (site / "index.html").write_text(
+        '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+        '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
+        '<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>\n'
+        '</head>\n<body>\n' + html + '\n</body>\n</html>\n',
+        encoding="utf-8",
+    )
     plan = plan["mules"]
 
     sets = {i["set"] for i in items}
