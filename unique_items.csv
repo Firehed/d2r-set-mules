@@ -1,0 +1,404 @@
+name,type,group,base,tier,width,height,req_level,mule,grid,col,row
+Biggin's Bonnet,Helm,Helms & Circlets,Cap,Normal,2,2,3,1,Stash,1,1
+Coif of Glory,Helm,Helms & Circlets,Helm,Normal,2,2,14,1,Stash,1,3
+Tarnhelm,Helm,Helms & Circlets,Skull Cap,Normal,2,2,15,1,Stash,1,5
+Duskdeep,Helm,Helms & Circlets,Full Helm,Normal,2,2,17,1,Stash,1,7
+The Face of Horror,Helm,Helms & Circlets,Mask,Normal,2,2,20,1,Stash,1,9
+Wormskull,Helm,Helms & Circlets,Bone Helm,Normal,2,2,21,1,Stash,3,1
+Howltusk,Helm,Helms & Circlets,Great Helm,Normal,2,2,25,1,Stash,3,3
+Undead Crown,Helm,Helms & Circlets,Crown,Normal,2,2,29,1,Stash,3,5
+Peasant Crown,Helm,Helms & Circlets,War Hat,Exceptional,2,2,28,1,Stash,3,7
+Rockstopper,Helm,Helms & Circlets,Sallet,Exceptional,2,2,31,1,Stash,3,9
+Stealskull,Helm,Helms & Circlets,Casque,Exceptional,2,2,35,1,Stash,5,1
+Darksight Helm,Helm,Helms & Circlets,Basinet,Exceptional,2,2,38,1,Stash,5,3
+Blackhorn's Face,Helm,Helms & Circlets,Death Mask,Exceptional,2,2,41,1,Stash,5,5
+Vampire Gaze,Helm,Helms & Circlets,Grim Helm,Exceptional,2,2,41,1,Stash,5,7
+Valkyrie Wing,Helm,Helms & Circlets,Winged Helm,Exceptional,2,2,44,1,Stash,5,9
+Crown of Thieves,Helm,Helms & Circlets,Grand Crown,Exceptional,2,2,49,1,Stash,7,1
+Hellwarden's Will,Helm,Helms & Circlets,Death Mask,Exceptional,2,2,50,1,Stash,7,3
+Harlequin Crest,Helm,Helms & Circlets,Shako,Elite,2,2,62,1,Stash,7,5
+Steel Shade,Helm,Helms & Circlets,Armet,Elite,2,2,62,1,Stash,7,7
+Giant Skull,Helm,Helms & Circlets,Bone Visage,Elite,2,2,65,1,Stash,7,9
+Nightwing's Veil,Helm,Helms & Circlets,Spired Helm,Elite,2,2,67,1,Stash,9,1
+Veil of Steel,Helm,Helms & Circlets,Spired Helm,Elite,2,2,73,1,Stash,9,3
+Crown of Ages,Helm,Helms & Circlets,Corona,Elite,2,2,82,1,Stash,9,5
+Andariel's Visage,Helm,Helms & Circlets,Demonhead,Elite,2,2,83,1,Stash,9,7
+Kira's Guardian,Circlet,Helms & Circlets,Tiara,Exceptional,2,2,77,1,Stash,9,9
+Griffon's Eye,Circlet,Helms & Circlets,Diadem,Elite,2,2,76,1,Inventory,1,1
+Jalal's Mane,Druid Pelt,Helms & Circlets,Totemic Mask,Exceptional,2,2,42,1,Inventory,1,3
+Cerebus' Bite,Druid Pelt,Helms & Circlets,Blood Spirit,Elite,2,2,63,1,Inventory,3,1
+Spirit Keeper,Druid Pelt,Helms & Circlets,Earth Spirit,Elite,2,2,67,1,Inventory,3,3
+Ravenlore,Druid Pelt,Helms & Circlets,Sky Spirit,Elite,2,2,74,1,Inventory,5,1
+Arreat's Face,Barbarian Helm,Helms & Circlets,Slayer Guard,Exceptional,2,2,42,1,Inventory,5,3
+Demonhorn's Edge,Barbarian Helm,Helms & Circlets,Destroyer Helm,Elite,2,2,61,1,Inventory,7,1
+Halaberd's Reign,Barbarian Helm,Helms & Circlets,Conqueror Crown,Elite,2,2,77,1,Inventory,7,3
+Wolfhowl,Barbarian Helm,Helms & Circlets,Fury Visor,Elite,2,2,79,1,Inventory,9,1
+Greyform,Body Armor,Body Armor,Quilted Armor,Normal,2,3,7,2,Stash,1,1
+Blinkbat's Form,Body Armor,Body Armor,Leather Armor,Normal,2,3,12,2,Stash,1,4
+Darkglow,Body Armor,Body Armor,Ring Mail,Normal,2,3,14,2,Stash,1,7
+The Centurion,Body Armor,Body Armor,Hard Leather Armor,Normal,2,3,14,2,Stash,3,1
+Hawkmail,Body Armor,Body Armor,Scale Mail,Normal,2,3,15,2,Stash,3,4
+Twitchthroe,Body Armor,Body Armor,Studded Leather,Normal,2,3,16,2,Stash,3,7
+Sparking Mail,Body Armor,Body Armor,Chain Mail,Normal,2,3,17,2,Stash,5,1
+Venom Ward,Body Armor,Body Armor,Breast Plate,Normal,2,3,20,2,Stash,5,4
+Iceblink,Body Armor,Body Armor,Splint Mail,Normal,2,3,22,2,Stash,5,7
+Boneflesh,Body Armor,Body Armor,Plate Mail,Normal,2,3,26,2,Stash,7,1
+Goldskin,Body Armor,Body Armor,Full Plate Mail,Normal,2,3,28,2,Stash,7,4
+Rockfleece,Body Armor,Body Armor,Field Plate,Normal,2,3,28,2,Stash,7,7
+Silks of the Victor,Body Armor,Body Armor,Ancient Armor,Normal,2,3,28,2,Stash,9,1
+Heavenly Garb,Body Armor,Body Armor,Light Plate,Normal,2,3,29,2,Stash,9,4
+Rattlecage,Body Armor,Body Armor,Gothic Plate,Normal,2,3,29,2,Stash,9,7
+The Spirit Shroud,Body Armor,Body Armor,Ghost Armor,Exceptional,2,3,28,2,Inventory,1,1
+Skin of the Vipermagi,Body Armor,Body Armor,Serpentskin Armor,Exceptional,2,3,29,2,Inventory,3,1
+Skin of the Flayed One,Body Armor,Body Armor,Demonhide Armor,Exceptional,2,3,31,2,Inventory,5,1
+Iron Pelt,Body Armor,Body Armor,Trellised Armor,Exceptional,2,3,33,2,Inventory,7,1
+Spirit Forge,Body Armor,Body Armor,Linked Mail,Exceptional,2,3,35,2,Inventory,9,1
+Crow Caw,Body Armor,Body Armor,Tigulated Mail,Exceptional,2,3,37,3,Stash,1,1
+Shaftstop,Body Armor,Body Armor,Mesh Armor,Exceptional,2,3,38,3,Stash,1,4
+Duriel's Shell,Body Armor,Body Armor,Cuirass,Exceptional,2,3,41,3,Stash,1,7
+Skullder's Ire,Body Armor,Body Armor,Russet Armor,Exceptional,2,3,42,3,Stash,3,1
+Guardian Angel,Body Armor,Body Armor,Templar Coat,Exceptional,2,3,45,3,Stash,3,4
+Toothrow,Body Armor,Body Armor,Sharktooth Armor,Exceptional,2,3,48,3,Stash,3,7
+Atma's Wail,Body Armor,Body Armor,Embossed Plate,Exceptional,2,3,51,3,Stash,5,1
+Que-Hegan's Wisdom,Body Armor,Body Armor,Mage Plate,Exceptional,2,3,51,3,Stash,5,4
+Black Hades,Body Armor,Body Armor,Chaos Armor,Exceptional,2,3,53,3,Stash,5,7
+Corpsemourn,Body Armor,Body Armor,Ornate Plate,Exceptional,2,3,55,3,Stash,7,1
+Leviathan,Body Armor,Body Armor,Kraken Shell,Elite,2,3,65,3,Stash,7,4
+Steel Carapace,Body Armor,Body Armor,Shadow Plate,Elite,2,3,66,3,Stash,7,7
+Templar's Might,Body Armor,Body Armor,Sacred Armor,Elite,2,3,74,3,Stash,9,1
+Ormus' Robes,Body Armor,Body Armor,Dusk Shroud,Elite,2,3,75,3,Stash,9,4
+Tyrael's Might,Body Armor,Body Armor,Sacred Armor,Elite,2,3,84,3,Stash,9,7
+Arkaine's Valor,Body Armor,Body Armor,Balrog Skin,Elite,2,3,85,3,Inventory,1,1
+The Gladiator's Bane,Body Armor,Body Armor,Wire Fleece,Elite,2,3,85,3,Inventory,3,1
+Pelta Lunata,Shield,Shields,Buckler,Normal,2,2,2,4,Stash,1,9
+Umbral Disk,Shield,Shields,Small Shield,Normal,2,2,9,4,Inventory,7,1
+Stormguild,Shield,Shields,Large Shield,Normal,2,3,13,4,Stash,3,5
+Swordback Hold,Shield,Shields,Spiked Shield,Normal,2,3,15,4,Stash,3,8
+Steelclash,Shield,Shields,Kite Shield,Normal,2,3,17,4,Stash,5,1
+Bverrit Keep,Shield,Shields,Tower Shield,Normal,2,3,19,4,Stash,5,4
+Wall of the Eyeless,Shield,Shields,Bone Shield,Normal,2,3,20,4,Stash,5,7
+The Ward,Shield,Shields,Gothic Shield,Normal,2,4,26,4,Stash,1,1
+Visceratuant,Shield,Shields,Defender,Exceptional,2,2,28,4,Inventory,7,3
+Moser's Blessed Circle,Shield,Shields,Round Shield,Exceptional,2,2,31,4,Inventory,9,1
+Lance Guard,Shield,Shields,Barbed Shield,Exceptional,2,3,35,4,Stash,7,1
+Stormchaser,Shield,Shields,Scutum,Exceptional,2,3,35,4,Stash,7,4
+Tiamat's Rebuke,Shield,Shields,Dragon Shield,Exceptional,2,3,38,4,Stash,7,7
+Lidless Wall,Shield,Shields,Grim Shield,Exceptional,2,3,41,4,Stash,9,1
+Gerke's Sanctuary,Shield,Shields,Pavise,Exceptional,2,3,44,4,Stash,9,4
+Radament's Sphere,Shield,Shields,Ancient Shield,Exceptional,2,4,50,4,Stash,1,5
+Blackoak Shield,Shield,Shields,Luna,Elite,2,2,61,4,Inventory,9,3
+Spirit Ward,Shield,Shields,Ward,Elite,2,4,68,4,Stash,3,1
+Spike Thorn,Shield,Shields,Blade Barrier,Elite,2,3,70,4,Stash,9,7
+Stormshield,Shield,Shields,Monarch,Elite,2,3,73,4,Inventory,1,1
+Head Hunter's Glory,Shield,Shields,Troll Nest,Elite,2,3,75,4,Inventory,3,1
+Medusa's Gaze,Shield,Shields,Aegis,Elite,2,3,76,4,Inventory,5,1
+Herald of Zakarum,Paladin Shield,Class Shields,Gilded Shield,Exceptional,2,4,42,5,Stash,1,1
+Alma Negra,Paladin Shield,Class Shields,Sacred Rondache,Elite,2,2,77,5,Stash,1,9
+Dragonscale,Paladin Shield,Class Shields,Zakarum Shield,Elite,2,4,80,5,Stash,1,5
+Homunculus,Necromancer Head,Class Shields,Hierophant Trophy,Exceptional,2,2,42,5,Stash,3,1
+Darkforce Spawn,Necromancer Head,Class Shields,Bloodlord Skull,Elite,2,2,64,5,Stash,3,3
+Boneflame,Necromancer Head,Class Shields,Succubus Skull,Elite,2,2,72,5,Stash,3,5
+Measured Wrath,Warlock Grimoire,Class Shields,Burnt Text,Exceptional,2,2,52,5,Stash,3,7
+Ars Tor'Baalos,Warlock Grimoire,Class Shields,Blasphemous Compendium,Elite,2,2,73,5,Stash,3,9
+Ars Dul'Mephistos,Warlock Grimoire,Class Shields,Occult Tome,Elite,2,2,78,5,Stash,5,1
+Ars Al'Diabolos,Warlock Grimoire,Class Shields,Blasphemous Grimoire,Elite,2,2,80,5,Stash,5,3
+The Hand of Broc,Gloves,"Gloves, Boots & Belts",Leather Gloves,Normal,2,2,5,6,Stash,1,1
+Bloodfist,Gloves,"Gloves, Boots & Belts",Heavy Gloves,Normal,2,2,9,6,Stash,1,3
+Chance Guards,Gloves,"Gloves, Boots & Belts",Chain Gloves,Normal,2,2,15,6,Stash,1,5
+Magefist,Gloves,"Gloves, Boots & Belts",Light Gauntlets,Normal,2,2,23,6,Stash,1,7
+Frostburn,Gloves,"Gloves, Boots & Belts",Gauntlets,Normal,2,2,29,6,Stash,1,9
+Venom Grip,Gloves,"Gloves, Boots & Belts",Demonhide Gloves,Exceptional,2,2,29,6,Stash,3,1
+Gravepalm,Gloves,"Gloves, Boots & Belts",Sharkskin Gloves,Exceptional,2,2,32,6,Stash,3,3
+Ghoulhide,Gloves,"Gloves, Boots & Belts",Heavy Bracers,Exceptional,2,2,36,6,Stash,3,5
+Lava Gout,Gloves,"Gloves, Boots & Belts",Battle Gauntlets,Exceptional,2,2,42,6,Stash,3,7
+Hellmouth,Gloves,"Gloves, Boots & Belts",War Gauntlets,Exceptional,2,2,47,6,Stash,3,9
+Steelrend,Gloves,"Gloves, Boots & Belts",Ogre Gauntlets,Elite,2,2,70,6,Stash,5,1
+Soul Drainer,Gloves,"Gloves, Boots & Belts",Vambraces,Elite,2,2,74,6,Stash,5,3
+Dracul's Grasp,Gloves,"Gloves, Boots & Belts",Vampirebone Gloves,Elite,2,2,76,6,Stash,5,5
+Hotspur,Boots,"Gloves, Boots & Belts",Boots,Normal,2,2,5,6,Stash,5,7
+Gorefoot,Boots,"Gloves, Boots & Belts",Heavy Boots,Normal,2,2,9,6,Stash,5,9
+Treads of Cthon,Boots,"Gloves, Boots & Belts",Chain Boots,Normal,2,2,15,6,Stash,7,1
+Goblin Toe,Boots,"Gloves, Boots & Belts",Light Plated Boots,Normal,2,2,22,6,Stash,7,3
+Tearhaunch,Boots,"Gloves, Boots & Belts",Greaves,Normal,2,2,29,6,Stash,7,5
+Infernostride,Boots,"Gloves, Boots & Belts",Demonhide Boots,Exceptional,2,2,29,6,Stash,7,7
+Waterwalk,Boots,"Gloves, Boots & Belts",Sharkskin Boots,Exceptional,2,2,32,6,Stash,7,9
+Silkweave,Boots,"Gloves, Boots & Belts",Mesh Boots,Exceptional,2,2,36,6,Stash,9,1
+War Traveler,Boots,"Gloves, Boots & Belts",Battle Boots,Exceptional,2,2,42,6,Stash,9,3
+Gore Rider,Boots,"Gloves, Boots & Belts",War Boots,Exceptional,2,2,47,6,Stash,9,5
+Sandstorm Trek,Boots,"Gloves, Boots & Belts",Scarabshell Boots,Elite,2,2,64,6,Stash,9,7
+Marrowwalk,Boots,"Gloves, Boots & Belts",Boneweave Boots,Elite,2,2,66,6,Stash,9,9
+Wraithstep,Boots,"Gloves, Boots & Belts",Mirrored Boots,Elite,2,2,67,6,Inventory,1,1
+Shadow Dancer,Boots,"Gloves, Boots & Belts",Myrmidon Greaves,Elite,2,2,71,6,Inventory,1,3
+Lenymo,Belt,"Gloves, Boots & Belts",Sash,Normal,2,1,7,6,Inventory,3,1
+Snakecord,Belt,"Gloves, Boots & Belts",Light Belt,Normal,2,1,12,6,Inventory,3,2
+Nightsmoke,Belt,"Gloves, Boots & Belts",Belt,Normal,2,1,20,6,Inventory,3,3
+Goldwrap,Belt,"Gloves, Boots & Belts",Heavy Belt,Normal,2,1,27,6,Inventory,3,4
+Bladebuckle,Belt,"Gloves, Boots & Belts",Plated Belt,Normal,2,1,29,6,Inventory,5,1
+String of Ears,Belt,"Gloves, Boots & Belts",Demonhide Sash,Exceptional,2,1,29,6,Inventory,5,2
+Razortail,Belt,"Gloves, Boots & Belts",Sharkskin Belt,Exceptional,2,1,32,6,Inventory,5,3
+Gloom's Trap,Belt,"Gloves, Boots & Belts",Mesh Belt,Exceptional,2,1,36,6,Inventory,5,4
+Snowclash,Belt,"Gloves, Boots & Belts",Battle Belt,Exceptional,2,1,42,6,Inventory,7,1
+Thundergod's Vigor,Belt,"Gloves, Boots & Belts",War Belt,Exceptional,2,1,47,6,Inventory,7,2
+Nosferatu's Coil,Belt,"Gloves, Boots & Belts",Vampirefang Belt,Elite,2,1,51,6,Inventory,7,3
+Verdungo's Hearty Cord,Belt,"Gloves, Boots & Belts",Mithril Coil,Elite,2,1,63,6,Inventory,7,4
+Gheed's Wager,Belt,"Gloves, Boots & Belts",Troll Belt,Elite,2,1,71,6,Inventory,9,1
+Arachnid Mesh,Belt,"Gloves, Boots & Belts",Spiderweb Sash,Elite,2,1,80,6,Inventory,9,2
+Amulet of the Viper,Amulet,"Amulets, Rings & Jewels",Top of the Horadric Staff,,1,1,0,3,Stash,1,10
+Nokozan Relic,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,10,3,Stash,2,10
+The Eye of Etlich,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,15,3,Stash,3,10
+The Mahim-Oak Curio,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,25,3,Stash,4,10
+Saracen's Chance,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,47,3,Stash,5,10
+Crescent Moon,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,50,3,Stash,6,10
+The Cat's Eye,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,50,3,Stash,7,10
+Entropy Locket,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,54,3,Stash,8,10
+Atma's Scarab,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,60,3,Stash,9,10
+Highlord's Wrath,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,65,3,Stash,10,10
+Seraph's Hymn,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,65,3,Inventory,1,4
+The Rising Sun,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,65,3,Inventory,2,4
+Mara's Kaleidoscope,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,67,3,Inventory,3,4
+Metalgrid,Amulet,"Amulets, Rings & Jewels",Amulet,,1,1,81,3,Inventory,4,4
+Nagelring,Ring,"Amulets, Rings & Jewels",Ring,,1,1,7,3,Inventory,5,1
+Manald Heal,Ring,"Amulets, Rings & Jewels",Ring,,1,1,15,3,Inventory,5,2
+The Stone of Jordan,Ring,"Amulets, Rings & Jewels",Ring,,1,1,29,3,Inventory,5,3
+Dwarf Star,Ring,"Amulets, Rings & Jewels",Ring,,1,1,45,3,Inventory,5,4
+Raven Frost,Ring,"Amulets, Rings & Jewels",Ring,,1,1,45,3,Inventory,6,1
+Opalvein,Ring,"Amulets, Rings & Jewels",Ring,,1,1,50,3,Inventory,6,2
+Sling,Ring,"Amulets, Rings & Jewels",Ring,,1,1,50,3,Inventory,6,3
+Bul-Kathos' Wedding Band,Ring,"Amulets, Rings & Jewels",Ring,,1,1,58,3,Inventory,6,4
+Carrion Wind,Ring,"Amulets, Rings & Jewels",Ring,,1,1,60,3,Inventory,7,1
+Nature's Peace,Ring,"Amulets, Rings & Jewels",Ring,,1,1,69,3,Inventory,7,2
+Wisp Projector,Ring,"Amulets, Rings & Jewels",Ring,,1,1,76,3,Inventory,7,3
+"Rainbow Facet (Cold, on death)",Jewel,"Amulets, Rings & Jewels",Jewel,,1,1,49,3,Inventory,7,4
+"Rainbow Facet (Cold, on level-up)",Jewel,"Amulets, Rings & Jewels",Jewel,,1,1,49,3,Inventory,8,1
+"Rainbow Facet (Fire, on death)",Jewel,"Amulets, Rings & Jewels",Jewel,,1,1,49,3,Inventory,8,2
+"Rainbow Facet (Fire, on level-up)",Jewel,"Amulets, Rings & Jewels",Jewel,,1,1,49,3,Inventory,8,3
+"Rainbow Facet (Lightning, on death)",Jewel,"Amulets, Rings & Jewels",Jewel,,1,1,49,3,Inventory,8,4
+"Rainbow Facet (Lightning, on level-up)",Jewel,"Amulets, Rings & Jewels",Jewel,,1,1,49,3,Inventory,9,1
+"Rainbow Facet (Poison, on death)",Jewel,"Amulets, Rings & Jewels",Jewel,,1,1,49,3,Inventory,9,2
+"Rainbow Facet (Poison, on level-up)",Jewel,"Amulets, Rings & Jewels",Jewel,,1,1,49,3,Inventory,9,3
+Annihilus,Small Charm,Charms,Small Charm,,1,1,70,5,Stash,7,10
+Hellfire Torch,Large Charm,Charms,Large Charm,,1,2,75,5,Stash,8,1
+Gheed's Fortune,Grand Charm,Charms,Grand Charm,,1,3,62,5,Stash,5,5
+Latent Black Cleft,Grand Charm,Charms,Grand Charm,,1,3,75,5,Stash,5,8
+Latent Bone Break,Grand Charm,Charms,Grand Charm,,1,3,75,5,Stash,6,5
+Latent Cold Rupture,Grand Charm,Charms,Grand Charm,,1,3,75,5,Stash,6,8
+Latent Crack of the Heavens,Grand Charm,Charms,Grand Charm,,1,3,75,5,Stash,7,1
+Latent Flame Rift,Grand Charm,Charms,Grand Charm,,1,3,75,5,Stash,7,4
+Latent Rotting Fissure,Grand Charm,Charms,Grand Charm,,1,3,75,5,Stash,7,7
+Rixot's Keen,Sword,Swords,Short Sword,Normal,1,3,2,7,Stash,3,8
+Blood Crescent,Sword,Swords,Scimitar,Normal,1,3,7,7,Stash,4,8
+Skewer of Krintiz,Sword,Swords,Sabre,Normal,1,3,10,7,Stash,8,1
+Shadowfang,Sword,Swords,Two-Handed Sword,Normal,1,4,12,7,Stash,3,4
+Gleamscythe,Sword,Swords,Falchion,Normal,1,3,13,7,Stash,8,4
+Griswold's Edge,Sword,Swords,Broad Sword,Normal,2,3,17,7,Inventory,9,1
+Soulflay,Sword,Swords,Claymore,Normal,1,4,19,7,Stash,4,4
+Hellplague,Sword,Swords,Long Sword,Normal,2,3,22,7,Stash,1,1
+Kinemil's Awl,Sword,Swords,Giant Sword,Normal,1,4,23,7,Stash,5,1
+Blacktongue,Sword,Swords,Bastard Sword,Normal,1,4,26,7,Stash,5,5
+Ripsaw,Sword,Swords,Flamberge,Normal,2,4,26,7,Inventory,1,1
+Culwen's Point,Sword,Swords,War Sword,Normal,1,3,29,7,Stash,8,7
+The Patriarch,Sword,Swords,Great Sword,Normal,2,4,29,7,Inventory,3,1
+Bloodletter,Sword,Swords,Gladius,Exceptional,1,3,30,7,Stash,9,1
+Coldsteel Eye,Sword,Swords,Cutlass,Exceptional,1,3,31,7,Stash,9,4
+Hexfire,Sword,Swords,Shamshir,Exceptional,1,3,33,7,Stash,9,7
+Blade of Ali Baba,Sword,Swords,Tulwar,Exceptional,1,3,35,7,Stash,10,1
+The Atlantean,Sword,Swords,Ancient Sword,Exceptional,1,3,35,7,Stash,10,4
+Ginther's Rift,Sword,Swords,Dimensional Blade,Exceptional,2,3,37,7,Stash,1,4
+Headstriker,Sword,Swords,Battle Sword,Exceptional,2,3,39,7,Stash,1,7
+Plague Bearer,Sword,Swords,Rune Sword,Exceptional,2,3,41,7,Stash,3,1
+Crainte Vomir,Sword,Swords,Espandon,Exceptional,1,4,42,7,Stash,6,1
+Bing Sz Wang,Sword,Swords,Dacian Falx,Exceptional,1,4,43,7,Stash,6,5
+The Vile Husk,Sword,Swords,Tusk Sword,Exceptional,1,4,44,7,Stash,7,1
+Cloudcrack,Sword,Swords,Gothic Sword,Exceptional,1,4,45,7,Stash,7,5
+Todesfaelle Flamme,Sword,Swords,Zweihander,Exceptional,2,4,46,7,Inventory,5,1
+Swordguard,Sword,Swords,Executioner Sword,Exceptional,2,4,48,7,Inventory,7,1
+Lightsabre,Sword,Swords,Phase Blade,Elite,2,3,58,5,Stash,8,7
+Bloodmoon,Sword,Swords,Elegant Blade,Elite,1,3,61,5,Inventory,6,1
+Dreadfang,Sword,Swords,Legend Sword,Elite,1,4,61,5,Stash,10,1
+Djinn Slayer,Sword,Swords,Ataghan,Elite,1,3,65,5,Inventory,7,1
+Doombringer,Sword,Swords,Champion Sword,Elite,1,4,69,5,Stash,10,5
+Frostwind,Sword,Swords,Cryptic Sword,Elite,2,3,70,5,Inventory,1,1
+Flamebellow,Sword,Swords,Balrog Blade,Elite,1,4,71,5,Inventory,5,1
+The Grandfather,Sword,Swords,Colossus Blade,Elite,2,4,81,5,Stash,8,3
+Azurewrath,Sword,Swords,Phase Blade,Elite,2,3,85,5,Inventory,3,1
+The Gnasher,Axe,Axes,Hand Axe,Normal,1,3,5,8,Stash,9,7
+Axe of Fechmar,Axe,Axes,Large Axe,Normal,2,3,8,8,Inventory,5,1
+Deathspade,Axe,Axes,Axe,Normal,2,3,9,8,Inventory,7,1
+Goreshovel,Axe,Axes,Broad Axe,Normal,2,3,14,8,Inventory,9,1
+Bladebone,Axe,Axes,Double Axe,Normal,2,3,15,8,Stash,1,1
+The Chieftain,Axe,Axes,Battle Axe,Normal,2,3,19,8,Stash,1,4
+Skull Splitter,Axe,Axes,Military Pick,Normal,2,3,21,8,Stash,1,7
+Brainhew,Axe,Axes,Great Axe,Normal,2,4,25,8,Inventory,1,1
+Rakescar,Axe,Axes,War Axe,Normal,2,3,27,8,Stash,3,1
+Humongous,Axe,Axes,Giant Axe,Normal,2,3,29,8,Stash,3,4
+Warlord's Trust,Axe,Axes,Military Axe,Exceptional,2,3,35,8,Stash,3,7
+Coldkill,Axe,Axes,Hatchet,Exceptional,1,3,36,8,Stash,10,7
+Butcher's Pupil,Axe,Axes,Cleaver,Exceptional,2,3,39,8,Stash,5,1
+Spellsteel,Axe,Axes,Bearded Axe,Exceptional,2,3,39,8,Stash,5,4
+Stormrider,Axe,Axes,Tabar,Exceptional,2,3,41,8,Stash,5,7
+Boneslayer Blade,Axe,Axes,Gothic Axe,Exceptional,2,4,42,8,Inventory,3,1
+Islestrike,Axe,Axes,Twin Axe,Exceptional,2,3,43,8,Stash,7,1
+Pompeii's Wrath,Axe,Axes,Crowbill,Exceptional,2,3,45,8,Stash,7,4
+The Minotaur,Axe,Axes,Ancient Axe,Exceptional,2,3,45,8,Stash,7,7
+Guardian Naga,Axe,Axes,Naga,Exceptional,2,3,48,8,Stash,9,1
+Cranebeak,Axe,Axes,War Spike,Elite,2,3,63,8,Stash,9,4
+Hellslayer,Axe,Axes,Decapitator,Elite,2,3,66,9,Stash,1,5
+Razor's Edge,Axe,Axes,Tomahawk,Elite,1,3,67,9,Stash,5,1
+Death Cleaver,Axe,Axes,Berserker Axe,Elite,2,3,70,9,Stash,1,8
+Messerschmidt's Reaver,Axe,Axes,Champion Axe,Elite,2,4,70,9,Stash,1,1
+Rune Master,Axe,Axes,Ettin Axe,Elite,2,3,72,9,Stash,3,1
+Ethereal Edge,Axe,Axes,Silver-edged Axe,Elite,2,3,74,9,Stash,3,4
+Executioner's Justice,Axe,Axes,Glorious Axe,Elite,2,3,75,9,Stash,3,7
+Felloak,Club,Clubs & Maces,Club,Normal,1,3,3,9,Stash,9,4
+Stoutnail,Club,Clubs & Maces,Spiked Club,Normal,1,3,5,9,Stash,9,7
+Dark Clan Crusher,Club,Clubs & Maces,Cudgel,Exceptional,1,3,34,9,Stash,10,1
+Fleshrender,Club,Clubs & Maces,Barbed Club,Exceptional,1,3,38,9,Stash,10,4
+Demon Limb,Club,Clubs & Maces,Tyrant Club,Elite,1,3,63,9,Stash,10,7
+Nord's Tenderizer,Club,Clubs & Maces,Truncheon,Elite,1,3,68,9,Inventory,1,1
+Khalim's Flail,Mace,Clubs & Maces,Khalim's Flail,,2,3,0,9,Stash,5,4
+Khalim's Will,Mace,Clubs & Maces,Khalim's Will,,2,3,0,9,Stash,5,7
+Crushflange,Mace,Clubs & Maces,Mace,Normal,1,3,9,9,Inventory,2,1
+Bloodrise,Mace,Clubs & Maces,Morning Star,Normal,1,3,15,9,Inventory,3,1
+The General's Tan Do Li Ga,Mace,Clubs & Maces,Flail,Normal,2,3,21,9,Stash,6,1
+Sureshrill Frost,Mace,Clubs & Maces,Flanged Mace,Exceptional,1,3,39,9,Inventory,4,1
+Moonfall,Mace,Clubs & Maces,Jagged Star,Exceptional,1,3,42,9,Inventory,5,1
+Baezil's Vortex,Mace,Clubs & Maces,Knout,Exceptional,2,3,45,9,Stash,7,4
+Horizon's Tornado,Mace,Clubs & Maces,Scourge,Elite,2,3,64,9,Stash,7,7
+Baranar's Star,Mace,Clubs & Maces,Devil Star,Elite,1,3,65,9,Inventory,6,1
+Stormlash,Mace,Clubs & Maces,Scourge,Elite,2,3,82,9,Stash,8,1
+Hell Forge Hammer,Hammer,Hammers,Hell Forge Hammer,Normal,2,3,0,10,Stash,3,5
+Bonesnap,Hammer,Hammers,Maul,Normal,2,4,24,10,Stash,1,1
+Ironstone,Hammer,Hammers,War Hammer,Normal,2,3,27,10,Stash,3,8
+Steeldriver,Hammer,Hammers,Great Maul,Normal,2,3,29,10,Stash,5,1
+Earthshaker,Hammer,Hammers,Battle Hammer,Exceptional,2,3,43,10,Stash,5,4
+The Gavel of Pain,Hammer,Hammers,Martel de Fer,Exceptional,2,3,45,10,Stash,5,7
+Bloodtree Stump,Hammer,Hammers,War Club,Exceptional,2,4,48,10,Stash,1,5
+Stone Crusher,Hammer,Hammers,Legendary Mallet,Elite,2,3,68,10,Stash,7,1
+Windhammer,Hammer,Hammers,Ogre Maul,Elite,2,4,68,10,Stash,3,1
+Earth Shifter,Hammer,Hammers,Thunder Maul,Elite,2,3,69,10,Stash,7,4
+Schaefer's Hammer,Hammer,Hammers,Legendary Mallet,Elite,2,3,79,10,Stash,7,7
+The Cranium Basher,Hammer,Hammers,Thunder Maul,Elite,2,3,87,10,Stash,9,1
+Knell Striker,Scepter,Scepters,Scepter,Normal,1,3,5,10,Inventory,3,1
+Rusthandle,Scepter,Scepters,Grand Scepter,Normal,1,3,17,10,Inventory,4,1
+Stormeye,Scepter,Scepters,War Scepter,Normal,2,3,23,10,Stash,9,4
+Zakarum's Hand,Scepter,Scepters,Rune Scepter,Exceptional,1,3,37,10,Inventory,5,1
+The Fetid Sprinkler,Scepter,Scepters,Holy Water Sprinkler,Exceptional,1,3,38,10,Inventory,6,1
+Hand of Blessed Light,Scepter,Scepters,Divine Scepter,Exceptional,2,3,42,10,Stash,9,7
+Astreon's Iron Ward,Scepter,Scepters,Caduceus,Elite,2,3,60,10,Inventory,1,1
+Heaven's Light,Scepter,Scepters,Mighty Scepter,Elite,1,3,61,10,Inventory,7,1
+The Redeemer,Scepter,Scepters,Mighty Scepter,Elite,1,3,72,10,Inventory,8,1
+Dimoak's Hew,Polearm,Polearms,Bardiche,Normal,2,4,8,11,Stash,1,1
+Steelgoad,Polearm,Polearms,Voulge,Normal,2,4,14,11,Stash,1,5
+The Battlebranch,Polearm,Polearms,Poleaxe,Normal,2,4,17,11,Stash,3,1
+Soul Harvest,Polearm,Polearms,Scythe,Normal,2,4,19,11,Stash,3,5
+Woestave,Polearm,Polearms,Halberd,Normal,2,4,28,11,Stash,5,1
+The Grim Reaper,Polearm,Polearms,War Scythe,Normal,2,4,29,11,Stash,5,5
+The Meat Scraper,Polearm,Polearms,Lochaber Axe,Exceptional,2,4,41,11,Stash,7,1
+Athena's Wrath,Polearm,Polearms,Battle Scythe,Exceptional,2,4,42,11,Stash,7,5
+Blackleach Blade,Polearm,Polearms,Bill,Exceptional,2,4,42,11,Stash,9,1
+Pierre Tombale Couant,Polearm,Polearms,Partizan,Exceptional,2,4,43,11,Stash,9,5
+Husoldal Evo,Polearm,Polearms,Bec-de-Corbin,Exceptional,2,4,44,11,Inventory,1,1
+Grim's Burning Dead,Polearm,Polearms,Grim Scythe,Exceptional,2,4,45,11,Inventory,3,1
+Bonehew,Polearm,Polearms,Ogre Axe,Elite,2,4,64,11,Inventory,5,1
+Stormspire,Polearm,Polearms,Giant Thresher,Elite,2,4,70,11,Inventory,7,1
+The Reaper's Toll,Polearm,Polearms,Thresher,Elite,2,4,75,11,Inventory,9,1
+Tomb Reaver,Polearm,Polearms,Cryptic Axe,Elite,2,4,84,5,Inventory,8,1
+The Dragon Chang,Spear,Spears,Spear,Normal,2,4,8,12,Stash,1,1
+Razortine,Spear,Spears,Trident,Normal,2,4,12,12,Stash,1,5
+Bloodthief,Spear,Spears,Brandistock,Normal,2,4,17,12,Stash,3,1
+Lance of Yaggai,Spear,Spears,Spetum,Normal,2,4,22,12,Stash,3,5
+The Tannr Gorerod,Spear,Spears,Pike,Normal,2,4,27,12,Stash,5,1
+The Impaler,Spear,Spears,War Spear,Exceptional,2,4,31,12,Stash,5,5
+Kelpie Snare,Spear,Spears,Fuscina,Exceptional,2,4,33,12,Stash,7,1
+Soulfeast Tine,Spear,Spears,War Fork,Exceptional,2,4,35,12,Stash,7,5
+Hone Sundan,Spear,Spears,Yari,Exceptional,2,4,37,12,Stash,9,1
+Spire of Honor,Spear,Spears,Lance,Exceptional,2,4,39,12,Stash,9,5
+Steel Pillar,Spear,Spears,War Pike,Elite,2,4,69,12,Inventory,1,1
+Viperfork,Spear,Spears,Mancatcher,Elite,2,4,71,12,Inventory,3,1
+Arioc's Needle,Spear,Spears,Hyperion Spear,Elite,2,4,81,12,Inventory,5,1
+Pluckeye,Bow,Bows,Short Bow,Normal,2,3,7,13,Stash,3,5
+Witherstring,Bow,Bows,Hunter's Bow,Normal,2,3,13,13,Stash,3,8
+Raven Claw,Bow,Bows,Long Bow,Normal,2,4,15,13,Inventory,1,1
+Rogue's Bow,Bow,Bows,Composite Bow,Normal,2,3,20,13,Stash,5,1
+Stormstrike,Bow,Bows,Short Battle Bow,Normal,2,3,25,13,Stash,5,4
+Wizendraw,Bow,Bows,Long Battle Bow,Normal,2,4,26,13,Inventory,3,1
+Hellclap,Bow,Bows,Short War Bow,Normal,2,3,27,13,Stash,5,7
+Blastbark,Bow,Bows,Long War Bow,Normal,2,4,28,13,Inventory,5,1
+Skystrike,Bow,Bows,Edge Bow,Exceptional,2,3,28,13,Stash,7,1
+Riphook,Bow,Bows,Razor Bow,Exceptional,2,3,31,13,Stash,7,4
+Kuko Shakaku,Bow,Bows,Cedar Bow,Exceptional,2,4,33,13,Inventory,7,1
+Endlesshail,Bow,Bows,Double Bow,Exceptional,2,3,36,13,Stash,7,7
+Witchwild String,Bow,Bows,Short Siege Bow,Exceptional,2,3,39,13,Stash,9,1
+Cliffkiller,Bow,Bows,Large Siege Bow,Exceptional,2,4,41,13,Inventory,9,1
+Magewrath,Bow,Bows,Rune Bow,Exceptional,2,3,43,13,Stash,9,4
+Goldstrike Arch,Bow,Bows,Gothic Bow,Exceptional,2,4,46,13,Stash,1,1
+Widowmaker,Bow,Bows,Ward Bow,Elite,2,3,65,13,Stash,9,7
+Eaglehorn,Bow,Bows,Crusader Bow,Elite,2,4,69,13,Stash,1,5
+Windforce,Bow,Bows,Hydra Bow,Elite,2,4,73,13,Stash,3,1
+Leadcrow,Crossbow,Crossbows,Light Crossbow,Normal,2,3,9,14,Stash,3,5
+Ichorsting,Crossbow,Crossbows,Crossbow,Normal,2,3,18,14,Stash,3,8
+Hellcast,Crossbow,Crossbows,Heavy Crossbow,Normal,2,4,27,14,Stash,1,1
+Doomslinger,Crossbow,Crossbows,Repeating Crossbow,Normal,2,3,28,14,Stash,5,1
+Langer Briser,Crossbow,Crossbows,Arbalest,Exceptional,2,3,32,14,Stash,5,4
+Pus Spitter,Crossbow,Crossbows,Siege Crossbow,Exceptional,2,3,36,14,Stash,5,7
+Buriza-Do Kyanon,Crossbow,Crossbows,Ballista,Exceptional,2,4,41,14,Stash,1,5
+Demon Machine,Crossbow,Crossbows,Chu-Ko-Nu,Exceptional,2,3,49,14,Stash,7,1
+Gut Siphon,Crossbow,Crossbows,Demon Crossbow,Elite,2,3,71,14,Stash,7,4
+Hellrack,Crossbow,Crossbows,Colossus Crossbow,Elite,2,4,76,14,Stash,3,1
+Horadric Staff,Staff,Staves,Horadric Staff,Normal,1,4,0,14,Inventory,7,1
+Staff of Kings,Staff,Staves,Shaft of the Horadric Staff,Normal,1,3,0,14,Stash,10,1
+Bane Ash,Staff,Staves,Short Staff,Normal,1,3,5,14,Stash,10,4
+Serpent Lord,Staff,Staves,Long Staff,Normal,1,4,9,14,Inventory,8,1
+Spire of Lazarus,Staff,Staves,Gnarled Staff,Normal,1,4,18,14,Inventory,9,1
+The Salamander,Staff,Staves,Battle Staff,Normal,1,4,21,14,Inventory,10,1
+The Iron Jang Bong,Staff,Staves,War Staff,Normal,2,4,28,14,Inventory,1,1
+Razorswitch,Staff,Staves,Jo Staff,Exceptional,1,3,28,14,Stash,10,7
+Ribcracker,Staff,Staves,Quarterstaff,Exceptional,1,4,31,14,Stash,7,7
+Chromatic Ire,Staff,Staves,Cedar Staff,Exceptional,1,4,35,14,Stash,8,7
+Warpspear,Staff,Staves,Gothic Staff,Exceptional,1,4,39,14,Stash,9,1
+Skull Collector,Staff,Staves,Rune Staff,Exceptional,2,4,41,14,Inventory,3,1
+Ondal's Wisdom,Staff,Staves,Elder Staff,Elite,1,4,66,14,Stash,9,5
+Mang Song's Lesson,Staff,Staves,Archon Staff,Elite,2,4,82,14,Inventory,5,1
+Torch of Iro,Wand,Wands,Wand,Normal,1,2,5,11,Stash,1,9
+Maelstrom,Wand,Wands,Yew Wand,Normal,1,2,14,11,Stash,2,9
+Gravenspine,Wand,Wands,Bone Wand,Normal,1,2,20,11,Stash,3,9
+Ume's Lament,Wand,Wands,Grim Wand,Normal,1,2,28,11,Stash,4,9
+Suicide Branch,Wand,Wands,Burnt Wand,Exceptional,1,2,33,11,Stash,5,9
+Carin Shard,Wand,Wands,Petrified Wand,Exceptional,1,2,35,11,Stash,6,9
+Arm of King Leoric,Wand,Wands,Tomb Wand,Exceptional,1,2,36,11,Stash,7,9
+Blackhand Key,Wand,Wands,Grave Wand,Exceptional,1,2,41,11,Stash,8,9
+Death's Web,Wand,Wands,Unearthed Wand,Elite,1,2,66,11,Stash,9,9
+Boneshade,Wand,Wands,Lich Wand,Elite,1,2,79,11,Stash,10,9
+Gull,Dagger,Daggers,Dagger,Normal,1,2,4,15,Stash,3,1
+The Diggler,Dagger,Daggers,Dirk,Normal,1,2,11,15,Stash,3,3
+The Jade Tan Do,Dagger,Daggers,Kris,Normal,1,3,19,15,Stash,1,1
+Spectral Shard,Dagger,Daggers,Blade,Normal,1,3,25,15,Stash,1,4
+Spineripper,Dagger,Daggers,Poignard,Exceptional,1,2,32,15,Stash,3,5
+Heart Carver,Dagger,Daggers,Rondel,Exceptional,1,2,36,15,Stash,3,7
+Blackbog's Sharp,Dagger,Daggers,Cinquedeas,Exceptional,1,3,38,15,Stash,1,7
+Stormspike,Dagger,Daggers,Stiletto,Exceptional,1,3,41,15,Stash,2,1
+Wizardspike,Dagger,Daggers,Bone Knife,Elite,1,2,61,15,Stash,3,9
+Ghostflame,Dagger,Daggers,Legend Spike,Elite,1,3,62,15,Stash,2,4
+Bloodpact Shard,Dagger,Daggers,Mithril Point,Elite,1,2,67,15,Stash,4,1
+Fleshripper,Dagger,Daggers,Fanged Knife,Elite,1,3,68,15,Stash,2,7
+Demon's Arch,Javelin,Throwing Weapons,Balrog Spear,Elite,1,3,68,15,Stash,6,1
+Gargoyle's Bite,Javelin,Throwing Weapons,Winged Harpoon,Elite,1,4,70,15,Stash,4,6
+Wraith Flight,Javelin,Throwing Weapons,Ghost Glaive,Elite,1,4,76,15,Stash,5,6
+The Scalper,Throwing Axe,Throwing Weapons,Francisca,Exceptional,1,2,57,15,Stash,5,1
+Lacerator,Throwing Axe,Throwing Weapons,Winged Axe,Elite,2,3,68,15,Stash,4,3
+Gimmershred,Throwing Axe,Throwing Weapons,Flying Axe,Elite,1,2,70,15,Stash,6,4
+Deathbit,Throwing Knife,Throwing Weapons,Battle Dart,Exceptional,1,2,44,15,Stash,6,6
+Warshrike,Throwing Knife,Throwing Weapons,Winged Knife,Elite,1,2,75,15,Stash,6,8
+Lycander's Aim,Amazon Bow,Class Weapons,Ceremonial Bow,Exceptional,2,4,42,15,Stash,7,1
+Blood Raven's Charge,Amazon Bow,Class Weapons,Matriarchal Bow,Elite,2,4,71,15,Stash,7,5
+Lycander's Flank,Amazon Spear,Class Weapons,Ceremonial Pike,Exceptional,2,4,42,15,Stash,9,1
+Stoneraven,Amazon Spear,Class Weapons,Matriarchal Spear,Elite,2,4,64,15,Stash,9,5
+Titan's Revenge,Amazon Javelin,Class Weapons,Ceremonial Javelin,Exceptional,1,3,42,15,Inventory,1,1
+Thunderstroke,Amazon Javelin,Class Weapons,Matriarchal Javelin,Elite,1,3,69,15,Inventory,2,1
+Bartuc's Cut-Throat,Assassin Claw,Class Weapons,Greater Talons,Exceptional,1,3,42,15,Inventory,3,1
+Jade Talon,Assassin Claw,Class Weapons,Wrist Sword,Elite,1,3,66,15,Inventory,4,1
+Firelizard's Talons,Assassin Claw,Class Weapons,Feral Claws,Elite,1,3,67,15,Inventory,5,1
+Shadow Killer,Assassin Claw,Class Weapons,Battle Cestus,Elite,1,3,78,15,Inventory,6,1
+The Oculus,Sorceress Orb,Class Weapons,Swirling Crystal,Exceptional,1,3,42,15,Inventory,7,1
+Eschuta's Temper,Sorceress Orb,Class Weapons,Eldritch Orb,Elite,1,2,72,15,Stash,7,9
+Death's Fathom,Sorceress Orb,Class Weapons,Dimensional Shard,Elite,1,3,73,15,Inventory,8,1

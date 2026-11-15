@@ -21,7 +21,8 @@ PACKAGE = "@blizzhackers/d2data"
 FILES = [
     "json/setitems.json", "json/sets.json",
     "json/armor.json", "json/weapons.json", "json/misc.json",
-    "json/localestrings-eng.json",
+    "json/uniqueitems.json",
+    "json/localestrings-eng.json", "json/allstrings-eng.json",
     "LICENSE",
 ]
 DATA = Path(__file__).resolve().parent / "data"

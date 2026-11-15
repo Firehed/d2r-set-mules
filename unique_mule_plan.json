@@ -1,0 +1,4251 @@
+{
+ "grids": [
+  {
+   "name": "Stash",
+   "width": 10,
+   "height": 10
+  },
+  {
+   "name": "Inventory",
+   "width": 10,
+   "height": 4
+  }
+ ],
+ "mules": [
+  {
+   "mule": 1,
+   "summary": "Helms & Circlets",
+   "groups": [
+    "Helms & Circlets"
+   ],
+   "cells_used": {
+    "Stash": 100,
+    "Inventory": 36
+   },
+   "placements": [
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Biggin's Bonnet",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Coif of Glory",
+     "grid": "Stash",
+     "x": 0,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Tarnhelm",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Duskdeep",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "The Face of Horror",
+     "grid": "Stash",
+     "x": 0,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Wormskull",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Howltusk",
+     "grid": "Stash",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Undead Crown",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Peasant Crown",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Rockstopper",
+     "grid": "Stash",
+     "x": 2,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Stealskull",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Darksight Helm",
+     "grid": "Stash",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Blackhorn's Face",
+     "grid": "Stash",
+     "x": 4,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Vampire Gaze",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Valkyrie Wing",
+     "grid": "Stash",
+     "x": 4,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Crown of Thieves",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Hellwarden's Will",
+     "grid": "Stash",
+     "x": 6,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Harlequin Crest",
+     "grid": "Stash",
+     "x": 6,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Steel Shade",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Giant Skull",
+     "grid": "Stash",
+     "x": 6,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Nightwing's Veil",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Veil of Steel",
+     "grid": "Stash",
+     "x": 8,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Crown of Ages",
+     "grid": "Stash",
+     "x": 8,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Helm",
+     "name": "Andariel's Visage",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Circlet",
+     "name": "Kira's Guardian",
+     "grid": "Stash",
+     "x": 8,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Circlet",
+     "name": "Griffon's Eye",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Druid Pelt",
+     "name": "Jalal's Mane",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Druid Pelt",
+     "name": "Cerebus' Bite",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Druid Pelt",
+     "name": "Spirit Keeper",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Druid Pelt",
+     "name": "Ravenlore",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Barbarian Helm",
+     "name": "Arreat's Face",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Barbarian Helm",
+     "name": "Demonhorn's Edge",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Barbarian Helm",
+     "name": "Halaberd's Reign",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Helms & Circlets",
+     "key": "Barbarian Helm",
+     "name": "Wolfhowl",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    }
+   ]
+  },
+  {
+   "mule": 2,
+   "summary": "Body Armor 1 of 2 (Normal–Exceptional)",
+   "groups": [
+    "Body Armor 1 of 2 (Normal–Exceptional)"
+   ],
+   "cells_used": {
+    "Stash": 90,
+    "Inventory": 30
+   },
+   "placements": [
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Greyform",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Blinkbat's Form",
+     "grid": "Stash",
+     "x": 0,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Darkglow",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "The Centurion",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Hawkmail",
+     "grid": "Stash",
+     "x": 2,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Twitchthroe",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Sparking Mail",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Venom Ward",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Iceblink",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Boneflesh",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Goldskin",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Rockfleece",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Silks of the Victor",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Heavenly Garb",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Rattlecage",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "The Spirit Shroud",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Skin of the Vipermagi",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Skin of the Flayed One",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Iron Pelt",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 1 of 2 (Normal–Exceptional)",
+     "key": "Body Armor",
+     "name": "Spirit Forge",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    }
+   ]
+  },
+  {
+   "mule": 3,
+   "summary": "Body Armor 2 of 2 (Exceptional–Elite) · Amulets, Rings & Jewels",
+   "groups": [
+    "Body Armor 2 of 2 (Exceptional–Elite)",
+    "Amulets, Rings & Jewels"
+   ],
+   "cells_used": {
+    "Stash": 100,
+    "Inventory": 35
+   },
+   "placements": [
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Crow Caw",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Shaftstop",
+     "grid": "Stash",
+     "x": 0,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Duriel's Shell",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Skullder's Ire",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Guardian Angel",
+     "grid": "Stash",
+     "x": 2,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Toothrow",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Atma's Wail",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Que-Hegan's Wisdom",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Black Hades",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Corpsemourn",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Leviathan",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Steel Carapace",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Templar's Might",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Ormus' Robes",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Tyrael's Might",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "Arkaine's Valor",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Body Armor 2 of 2 (Exceptional–Elite)",
+     "key": "Body Armor",
+     "name": "The Gladiator's Bane",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Amulet of the Viper",
+     "grid": "Stash",
+     "x": 0,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Nokozan Relic",
+     "grid": "Stash",
+     "x": 1,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "The Eye of Etlich",
+     "grid": "Stash",
+     "x": 2,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "The Mahim-Oak Curio",
+     "grid": "Stash",
+     "x": 3,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Saracen's Chance",
+     "grid": "Stash",
+     "x": 4,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Crescent Moon",
+     "grid": "Stash",
+     "x": 5,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "The Cat's Eye",
+     "grid": "Stash",
+     "x": 6,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Entropy Locket",
+     "grid": "Stash",
+     "x": 7,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Atma's Scarab",
+     "grid": "Stash",
+     "x": 8,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Highlord's Wrath",
+     "grid": "Stash",
+     "x": 9,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Seraph's Hymn",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "The Rising Sun",
+     "grid": "Inventory",
+     "x": 1,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Mara's Kaleidoscope",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Amulet",
+     "name": "Metalgrid",
+     "grid": "Inventory",
+     "x": 3,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Nagelring",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Manald Heal",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 1,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "The Stone of Jordan",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 2,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Dwarf Star",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Raven Frost",
+     "grid": "Inventory",
+     "x": 5,
+     "y": 0,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Opalvein",
+     "grid": "Inventory",
+     "x": 5,
+     "y": 1,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Sling",
+     "grid": "Inventory",
+     "x": 5,
+     "y": 2,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Bul-Kathos' Wedding Band",
+     "grid": "Inventory",
+     "x": 5,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Carrion Wind",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Nature's Peace",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 1,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Ring",
+     "name": "Wisp Projector",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 2,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Jewel",
+     "name": "Rainbow Facet (Cold, on death)",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Jewel",
+     "name": "Rainbow Facet (Cold, on level-up)",
+     "grid": "Inventory",
+     "x": 7,
+     "y": 0,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Jewel",
+     "name": "Rainbow Facet (Fire, on death)",
+     "grid": "Inventory",
+     "x": 7,
+     "y": 1,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Jewel",
+     "name": "Rainbow Facet (Fire, on level-up)",
+     "grid": "Inventory",
+     "x": 7,
+     "y": 2,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Jewel",
+     "name": "Rainbow Facet (Lightning, on death)",
+     "grid": "Inventory",
+     "x": 7,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Jewel",
+     "name": "Rainbow Facet (Lightning, on level-up)",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Jewel",
+     "name": "Rainbow Facet (Poison, on death)",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 1,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Amulets, Rings & Jewels",
+     "key": "Jewel",
+     "name": "Rainbow Facet (Poison, on level-up)",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 2,
+     "width": 1,
+     "height": 1
+    }
+   ]
+  },
+  {
+   "mule": 4,
+   "summary": "Shields",
+   "groups": [
+    "Shields"
+   ],
+   "cells_used": {
+    "Stash": 94,
+    "Inventory": 34
+   },
+   "placements": [
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "The Ward",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Radament's Sphere",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Spirit Ward",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Stormguild",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Swordback Hold",
+     "grid": "Stash",
+     "x": 2,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Steelclash",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Bverrit Keep",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Wall of the Eyeless",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Lance Guard",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Stormchaser",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Tiamat's Rebuke",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Lidless Wall",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Gerke's Sanctuary",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Spike Thorn",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Stormshield",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Head Hunter's Glory",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Medusa's Gaze",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Pelta Lunata",
+     "grid": "Stash",
+     "x": 0,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Umbral Disk",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Visceratuant",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Moser's Blessed Circle",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Shields",
+     "key": "Shield",
+     "name": "Blackoak Shield",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    }
+   ]
+  },
+  {
+   "mule": 5,
+   "summary": "Class Shields · Charms · Swords 2 of 2 (Elite) · Polearms 2 of 2 (Elite)",
+   "groups": [
+    "Class Shields",
+    "Charms",
+    "Swords 2 of 2 (Elite)",
+    "Polearms 2 of 2 (Elite)"
+   ],
+   "cells_used": {
+    "Stash": 94,
+    "Inventory": 30
+   },
+   "placements": [
+    {
+     "group": "Class Shields",
+     "key": "Paladin Shield",
+     "name": "Herald of Zakarum",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Class Shields",
+     "key": "Paladin Shield",
+     "name": "Dragonscale",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Class Shields",
+     "key": "Paladin Shield",
+     "name": "Alma Negra",
+     "grid": "Stash",
+     "x": 0,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Class Shields",
+     "key": "Necromancer Head",
+     "name": "Homunculus",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Class Shields",
+     "key": "Necromancer Head",
+     "name": "Darkforce Spawn",
+     "grid": "Stash",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Class Shields",
+     "key": "Necromancer Head",
+     "name": "Boneflame",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Class Shields",
+     "key": "Warlock Grimoire",
+     "name": "Measured Wrath",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Class Shields",
+     "key": "Warlock Grimoire",
+     "name": "Ars Tor'Baalos",
+     "grid": "Stash",
+     "x": 2,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Class Shields",
+     "key": "Warlock Grimoire",
+     "name": "Ars Dul'Mephistos",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Class Shields",
+     "key": "Warlock Grimoire",
+     "name": "Ars Al'Diabolos",
+     "grid": "Stash",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Charms",
+     "key": "Grand Charm",
+     "name": "Gheed's Fortune",
+     "grid": "Stash",
+     "x": 4,
+     "y": 4,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Charms",
+     "key": "Grand Charm",
+     "name": "Latent Black Cleft",
+     "grid": "Stash",
+     "x": 4,
+     "y": 7,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Charms",
+     "key": "Grand Charm",
+     "name": "Latent Bone Break",
+     "grid": "Stash",
+     "x": 5,
+     "y": 4,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Charms",
+     "key": "Grand Charm",
+     "name": "Latent Cold Rupture",
+     "grid": "Stash",
+     "x": 5,
+     "y": 7,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Charms",
+     "key": "Grand Charm",
+     "name": "Latent Crack of the Heavens",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Charms",
+     "key": "Grand Charm",
+     "name": "Latent Flame Rift",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Charms",
+     "key": "Grand Charm",
+     "name": "Latent Rotting Fissure",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Charms",
+     "key": "Large Charm",
+     "name": "Hellfire Torch",
+     "grid": "Stash",
+     "x": 7,
+     "y": 0,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Charms",
+     "key": "Small Charm",
+     "name": "Annihilus",
+     "grid": "Stash",
+     "x": 6,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "The Grandfather",
+     "grid": "Stash",
+     "x": 7,
+     "y": 2,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "Lightsabre",
+     "grid": "Stash",
+     "x": 7,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "Frostwind",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "Azurewrath",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "Dreadfang",
+     "grid": "Stash",
+     "x": 9,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "Doombringer",
+     "grid": "Stash",
+     "x": 9,
+     "y": 4,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "Flamebellow",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "Bloodmoon",
+     "grid": "Inventory",
+     "x": 5,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 2 of 2 (Elite)",
+     "key": "Sword",
+     "name": "Djinn Slayer",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Polearms 2 of 2 (Elite)",
+     "key": "Polearm",
+     "name": "Tomb Reaver",
+     "grid": "Inventory",
+     "x": 7,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    }
+   ]
+  },
+  {
+   "mule": 6,
+   "summary": "Gloves, Boots & Belts",
+   "groups": [
+    "Gloves, Boots & Belts"
+   ],
+   "cells_used": {
+    "Stash": 100,
+    "Inventory": 36
+   },
+   "placements": [
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "The Hand of Broc",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Bloodfist",
+     "grid": "Stash",
+     "x": 0,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Chance Guards",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Magefist",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Frostburn",
+     "grid": "Stash",
+     "x": 0,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Venom Grip",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Gravepalm",
+     "grid": "Stash",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Ghoulhide",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Lava Gout",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Hellmouth",
+     "grid": "Stash",
+     "x": 2,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Steelrend",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Soul Drainer",
+     "grid": "Stash",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Gloves",
+     "name": "Dracul's Grasp",
+     "grid": "Stash",
+     "x": 4,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Hotspur",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Gorefoot",
+     "grid": "Stash",
+     "x": 4,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Treads of Cthon",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Goblin Toe",
+     "grid": "Stash",
+     "x": 6,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Tearhaunch",
+     "grid": "Stash",
+     "x": 6,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Infernostride",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Waterwalk",
+     "grid": "Stash",
+     "x": 6,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Silkweave",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "War Traveler",
+     "grid": "Stash",
+     "x": 8,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Gore Rider",
+     "grid": "Stash",
+     "x": 8,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Sandstorm Trek",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Marrowwalk",
+     "grid": "Stash",
+     "x": 8,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Wraithstep",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Boots",
+     "name": "Shadow Dancer",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Lenymo",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Snakecord",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 1,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Nightsmoke",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Goldwrap",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 3,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Bladebuckle",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "String of Ears",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 1,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Razortail",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Gloom's Trap",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Snowclash",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Thundergod's Vigor",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 1,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Nosferatu's Coil",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 2,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Verdungo's Hearty Cord",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Gheed's Wager",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "group": "Gloves, Boots & Belts",
+     "key": "Belt",
+     "name": "Arachnid Mesh",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 1,
+     "width": 2,
+     "height": 1
+    }
+   ]
+  },
+  {
+   "mule": 7,
+   "summary": "Swords 1 of 2 (Normal–Exceptional)",
+   "groups": [
+    "Swords 1 of 2 (Normal–Exceptional)"
+   ],
+   "cells_used": {
+    "Stash": 86,
+    "Inventory": 38
+   },
+   "placements": [
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Ripsaw",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "The Patriarch",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Todesfaelle Flamme",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Swordguard",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Griswold's Edge",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Hellplague",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Ginther's Rift",
+     "grid": "Stash",
+     "x": 0,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Headstriker",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Plague Bearer",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Shadowfang",
+     "grid": "Stash",
+     "x": 2,
+     "y": 3,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Soulflay",
+     "grid": "Stash",
+     "x": 3,
+     "y": 3,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Kinemil's Awl",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Blacktongue",
+     "grid": "Stash",
+     "x": 4,
+     "y": 4,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Crainte Vomir",
+     "grid": "Stash",
+     "x": 5,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Bing Sz Wang",
+     "grid": "Stash",
+     "x": 5,
+     "y": 4,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "The Vile Husk",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Cloudcrack",
+     "grid": "Stash",
+     "x": 6,
+     "y": 4,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Rixot's Keen",
+     "grid": "Stash",
+     "x": 2,
+     "y": 7,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Blood Crescent",
+     "grid": "Stash",
+     "x": 3,
+     "y": 7,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Skewer of Krintiz",
+     "grid": "Stash",
+     "x": 7,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Gleamscythe",
+     "grid": "Stash",
+     "x": 7,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Culwen's Point",
+     "grid": "Stash",
+     "x": 7,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Bloodletter",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Coldsteel Eye",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Hexfire",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "Blade of Ali Baba",
+     "grid": "Stash",
+     "x": 9,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Swords 1 of 2 (Normal–Exceptional)",
+     "key": "Sword",
+     "name": "The Atlantean",
+     "grid": "Stash",
+     "x": 9,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    }
+   ]
+  },
+  {
+   "mule": 8,
+   "summary": "Axes 1 of 2 (Normal–Elite)",
+   "groups": [
+    "Axes 1 of 2 (Normal–Elite)"
+   ],
+   "cells_used": {
+    "Stash": 90,
+    "Inventory": 34
+   },
+   "placements": [
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Brainhew",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Boneslayer Blade",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Axe of Fechmar",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Deathspade",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Goreshovel",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Bladebone",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "The Chieftain",
+     "grid": "Stash",
+     "x": 0,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Skull Splitter",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Rakescar",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Humongous",
+     "grid": "Stash",
+     "x": 2,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Warlord's Trust",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Butcher's Pupil",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Spellsteel",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Stormrider",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Islestrike",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Pompeii's Wrath",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "The Minotaur",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Guardian Naga",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Cranebeak",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "The Gnasher",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Axes 1 of 2 (Normal–Elite)",
+     "key": "Axe",
+     "name": "Coldkill",
+     "grid": "Stash",
+     "x": 9,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    }
+   ]
+  },
+  {
+   "mule": 9,
+   "summary": "Axes 2 of 2 (Elite) · Clubs & Maces",
+   "groups": [
+    "Axes 2 of 2 (Elite)",
+    "Clubs & Maces"
+   ],
+   "cells_used": {
+    "Stash": 92,
+    "Inventory": 18
+   },
+   "placements": [
+    {
+     "group": "Axes 2 of 2 (Elite)",
+     "key": "Axe",
+     "name": "Messerschmidt's Reaver",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Axes 2 of 2 (Elite)",
+     "key": "Axe",
+     "name": "Hellslayer",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 2 of 2 (Elite)",
+     "key": "Axe",
+     "name": "Death Cleaver",
+     "grid": "Stash",
+     "x": 0,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 2 of 2 (Elite)",
+     "key": "Axe",
+     "name": "Rune Master",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 2 of 2 (Elite)",
+     "key": "Axe",
+     "name": "Ethereal Edge",
+     "grid": "Stash",
+     "x": 2,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 2 of 2 (Elite)",
+     "key": "Axe",
+     "name": "Executioner's Justice",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Axes 2 of 2 (Elite)",
+     "key": "Axe",
+     "name": "Razor's Edge",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Khalim's Flail",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Khalim's Will",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "The General's Tan Do Li Ga",
+     "grid": "Stash",
+     "x": 5,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Baezil's Vortex",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Horizon's Tornado",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Stormlash",
+     "grid": "Stash",
+     "x": 7,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Club",
+     "name": "Felloak",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Club",
+     "name": "Stoutnail",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Club",
+     "name": "Dark Clan Crusher",
+     "grid": "Stash",
+     "x": 9,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Club",
+     "name": "Fleshrender",
+     "grid": "Stash",
+     "x": 9,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Club",
+     "name": "Demon Limb",
+     "grid": "Stash",
+     "x": 9,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Club",
+     "name": "Nord's Tenderizer",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Crushflange",
+     "grid": "Inventory",
+     "x": 1,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Bloodrise",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Sureshrill Frost",
+     "grid": "Inventory",
+     "x": 3,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Moonfall",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Clubs & Maces",
+     "key": "Mace",
+     "name": "Baranar's Star",
+     "grid": "Inventory",
+     "x": 5,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    }
+   ]
+  },
+  {
+   "mule": 10,
+   "summary": "Hammers · Scepters",
+   "groups": [
+    "Hammers",
+    "Scepters"
+   ],
+   "cells_used": {
+    "Stash": 90,
+    "Inventory": 24
+   },
+   "placements": [
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Bonesnap",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Bloodtree Stump",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Windhammer",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Hell Forge Hammer",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Ironstone",
+     "grid": "Stash",
+     "x": 2,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Steeldriver",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Earthshaker",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "The Gavel of Pain",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Stone Crusher",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Earth Shifter",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "Schaefer's Hammer",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Hammers",
+     "key": "Hammer",
+     "name": "The Cranium Basher",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "Stormeye",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "Hand of Blessed Light",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "Astreon's Iron Ward",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "Knell Striker",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "Rusthandle",
+     "grid": "Inventory",
+     "x": 3,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "Zakarum's Hand",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "The Fetid Sprinkler",
+     "grid": "Inventory",
+     "x": 5,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "Heaven's Light",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Scepters",
+     "key": "Scepter",
+     "name": "The Redeemer",
+     "grid": "Inventory",
+     "x": 7,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    }
+   ]
+  },
+  {
+   "mule": 11,
+   "summary": "Polearms 1 of 2 (Normal–Elite) · Wands",
+   "groups": [
+    "Polearms 1 of 2 (Normal–Elite)",
+    "Wands"
+   ],
+   "cells_used": {
+    "Stash": 100,
+    "Inventory": 40
+   },
+   "placements": [
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Dimoak's Hew",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Steelgoad",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "The Battlebranch",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Soul Harvest",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Woestave",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "The Grim Reaper",
+     "grid": "Stash",
+     "x": 4,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "The Meat Scraper",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Athena's Wrath",
+     "grid": "Stash",
+     "x": 6,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Blackleach Blade",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Pierre Tombale Couant",
+     "grid": "Stash",
+     "x": 8,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Husoldal Evo",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Grim's Burning Dead",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Bonehew",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "Stormspire",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Polearms 1 of 2 (Normal–Elite)",
+     "key": "Polearm",
+     "name": "The Reaper's Toll",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Torch of Iro",
+     "grid": "Stash",
+     "x": 0,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Maelstrom",
+     "grid": "Stash",
+     "x": 1,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Gravenspine",
+     "grid": "Stash",
+     "x": 2,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Ume's Lament",
+     "grid": "Stash",
+     "x": 3,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Suicide Branch",
+     "grid": "Stash",
+     "x": 4,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Carin Shard",
+     "grid": "Stash",
+     "x": 5,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Arm of King Leoric",
+     "grid": "Stash",
+     "x": 6,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Blackhand Key",
+     "grid": "Stash",
+     "x": 7,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Death's Web",
+     "grid": "Stash",
+     "x": 8,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Wands",
+     "key": "Wand",
+     "name": "Boneshade",
+     "grid": "Stash",
+     "x": 9,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    }
+   ]
+  },
+  {
+   "mule": 12,
+   "summary": "Spears",
+   "groups": [
+    "Spears"
+   ],
+   "cells_used": {
+    "Stash": 80,
+    "Inventory": 24
+   },
+   "placements": [
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "The Dragon Chang",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Razortine",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Bloodthief",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Lance of Yaggai",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "The Tannr Gorerod",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "The Impaler",
+     "grid": "Stash",
+     "x": 4,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Kelpie Snare",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Soulfeast Tine",
+     "grid": "Stash",
+     "x": 6,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Hone Sundan",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Spire of Honor",
+     "grid": "Stash",
+     "x": 8,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Steel Pillar",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Viperfork",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Spears",
+     "key": "Spear",
+     "name": "Arioc's Needle",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    }
+   ]
+  },
+  {
+   "mule": 13,
+   "summary": "Bows",
+   "groups": [
+    "Bows"
+   ],
+   "cells_used": {
+    "Stash": 90,
+    "Inventory": 40
+   },
+   "placements": [
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Raven Claw",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Wizendraw",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Blastbark",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Kuko Shakaku",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Cliffkiller",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Goldstrike Arch",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Eaglehorn",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Windforce",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Pluckeye",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Witherstring",
+     "grid": "Stash",
+     "x": 2,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Rogue's Bow",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Stormstrike",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Hellclap",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Skystrike",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Riphook",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Endlesshail",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Witchwild String",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Magewrath",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Bows",
+     "key": "Bow",
+     "name": "Widowmaker",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    }
+   ]
+  },
+  {
+   "mule": 14,
+   "summary": "Crossbows · Staves",
+   "groups": [
+    "Crossbows",
+    "Staves"
+   ],
+   "cells_used": {
+    "Stash": 91,
+    "Inventory": 40
+   },
+   "placements": [
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Hellcast",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Buriza-Do Kyanon",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Hellrack",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Leadcrow",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Ichorsting",
+     "grid": "Stash",
+     "x": 2,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Doomslinger",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Langer Briser",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Pus Spitter",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Demon Machine",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Crossbows",
+     "key": "Crossbow",
+     "name": "Gut Siphon",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "The Iron Jang Bong",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Skull Collector",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Mang Song's Lesson",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Horadric Staff",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Serpent Lord",
+     "grid": "Inventory",
+     "x": 7,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Spire of Lazarus",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "The Salamander",
+     "grid": "Inventory",
+     "x": 9,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Ribcracker",
+     "grid": "Stash",
+     "x": 6,
+     "y": 6,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Chromatic Ire",
+     "grid": "Stash",
+     "x": 7,
+     "y": 6,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Warpspear",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Ondal's Wisdom",
+     "grid": "Stash",
+     "x": 8,
+     "y": 4,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Staff of Kings",
+     "grid": "Stash",
+     "x": 9,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Bane Ash",
+     "grid": "Stash",
+     "x": 9,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Staves",
+     "key": "Staff",
+     "name": "Razorswitch",
+     "grid": "Stash",
+     "x": 9,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    }
+   ]
+  },
+  {
+   "mule": 15,
+   "summary": "Daggers · Throwing Weapons · Class Weapons",
+   "groups": [
+    "Daggers",
+    "Throwing Weapons",
+    "Class Weapons"
+   ],
+   "cells_used": {
+    "Stash": 89,
+    "Inventory": 24
+   },
+   "placements": [
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "The Jade Tan Do",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Spectral Shard",
+     "grid": "Stash",
+     "x": 0,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Blackbog's Sharp",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Stormspike",
+     "grid": "Stash",
+     "x": 1,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Ghostflame",
+     "grid": "Stash",
+     "x": 1,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Fleshripper",
+     "grid": "Stash",
+     "x": 1,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Gull",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "The Diggler",
+     "grid": "Stash",
+     "x": 2,
+     "y": 2,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Spineripper",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Heart Carver",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Wizardspike",
+     "grid": "Stash",
+     "x": 2,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Daggers",
+     "key": "Dagger",
+     "name": "Bloodpact Shard",
+     "grid": "Stash",
+     "x": 3,
+     "y": 0,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Throwing Weapons",
+     "key": "Throwing Axe",
+     "name": "Lacerator",
+     "grid": "Stash",
+     "x": 3,
+     "y": 2,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "group": "Throwing Weapons",
+     "key": "Javelin",
+     "name": "Gargoyle's Bite",
+     "grid": "Stash",
+     "x": 3,
+     "y": 5,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Throwing Weapons",
+     "key": "Javelin",
+     "name": "Wraith Flight",
+     "grid": "Stash",
+     "x": 4,
+     "y": 5,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "group": "Throwing Weapons",
+     "key": "Javelin",
+     "name": "Demon's Arch",
+     "grid": "Stash",
+     "x": 5,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Throwing Weapons",
+     "key": "Throwing Axe",
+     "name": "The Scalper",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Throwing Weapons",
+     "key": "Throwing Axe",
+     "name": "Gimmershred",
+     "grid": "Stash",
+     "x": 5,
+     "y": 3,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Throwing Weapons",
+     "key": "Throwing Knife",
+     "name": "Deathbit",
+     "grid": "Stash",
+     "x": 5,
+     "y": 5,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Throwing Weapons",
+     "key": "Throwing Knife",
+     "name": "Warshrike",
+     "grid": "Stash",
+     "x": 5,
+     "y": 7,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Amazon Bow",
+     "name": "Lycander's Aim",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Amazon Bow",
+     "name": "Blood Raven's Charge",
+     "grid": "Stash",
+     "x": 6,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Amazon Spear",
+     "name": "Lycander's Flank",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Amazon Spear",
+     "name": "Stoneraven",
+     "grid": "Stash",
+     "x": 8,
+     "y": 4,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Amazon Javelin",
+     "name": "Titan's Revenge",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Amazon Javelin",
+     "name": "Thunderstroke",
+     "grid": "Inventory",
+     "x": 1,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Assassin Claw",
+     "name": "Bartuc's Cut-Throat",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Assassin Claw",
+     "name": "Jade Talon",
+     "grid": "Inventory",
+     "x": 3,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Assassin Claw",
+     "name": "Firelizard's Talons",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Assassin Claw",
+     "name": "Shadow Killer",
+     "grid": "Inventory",
+     "x": 5,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Sorceress Orb",
+     "name": "The Oculus",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Sorceress Orb",
+     "name": "Death's Fathom",
+     "grid": "Inventory",
+     "x": 7,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "group": "Class Weapons",
+     "key": "Sorceress Orb",
+     "name": "Eschuta's Temper",
+     "grid": "Stash",
+     "x": 6,
+     "y": 8,
+     "width": 1,
+     "height": 2
+    }
+   ]
+  }
+ ]
+}

@@ -1,22 +1,37 @@
 # D2R Set Item Mules
 
-Every Diablo II: Resurrected set item with its inventory size, plus a plan for
-storing one of each across mule characters (10×10 stash + 10×4 inventory).
+Every Diablo II: Resurrected set and unique item with its inventory size,
+plus a plan for storing one of each across mule characters (10×10 stash +
+10×4 inventory). Set items and uniques use separate mule series.
 
 ## Outputs
 
 - `set_items.csv` / `set_items.json` — every set item: set, name, base, slot,
-  size (cells), level requirement, Classic vs. expansion, and whether it drops.
-- `mule_plan.json` — where each item goes: mule, grid, x/y (0-indexed from the
-  top-left).
-- `mules.html` — a viewer for the plan with search.
+  size (cells), level requirement, Classic vs. expansion, whether it drops,
+  and where it goes (mule, grid, 1-indexed col/row).
+- `unique_items.csv` / `unique_items.json` — every unique that can drop: name,
+  type, storage group, base, tier, size, level requirement, and location.
+- `mule_plan.json` / `unique_mule_plan.json` — each mule's contents with
+  0-indexed x/y from the top-left of each grid.
+- `mules.html` / `uniques.html` — viewers for each plan with search.
 
 ## Layout rules
 
+Sets:
 - Each set is placed whole in a single grid (stash or inventory), never split.
 - Sets are placed in alphabetical order, so each mule holds a contiguous
   A–Z range of sets.
 - Sets that can't drop (currently Warlord's Glory) are listed but not placed.
+
+Uniques:
+- Items are grouped by class (`UNIQUE_GROUPS` in `build.py`); small related
+  classes share a group, e.g. Gloves, Boots & Belts.
+- Each group goes whole onto the first mule with room for it, so small groups
+  fill gaps left by bigger ones.
+- Groups too big for one mule (body armor, swords, axes, polearms) split by
+  tier, lowest first, and are labeled "1 of 2", "2 of 2".
+- A new item type in a future patch stops the build with a message saying
+  where to add it.
 
 ## Regenerating after a patch
 
@@ -31,11 +46,12 @@ regenerating to see what the patch changed. Adding sets will usually move
 the sets that come after them alphabetically to different mules.
 
 To change the grid sizes, edit `GRIDS` in `build.py`. The page's look lives in
-`mules.template.html`; `build.py` fills in the data to produce `mules.html`.
+`mules.template.html`; `build.py` fills in the data to produce both pages.
 
 ## Hosting
 
-`build.py` also writes `site/index.html`, a standalone copy of the viewer.
+`build.py` also writes `site/index.html` and `site/uniques.html`, standalone
+copies of the viewers with links between them.
 On every push to `main`, `.github/workflows/pages.yml` runs the build and
 deploys `site/` to GitHub Pages (enable Pages with source "GitHub Actions").
 

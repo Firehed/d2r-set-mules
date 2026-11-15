@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<title>Set Item Mules</title>
+<title>Item Mules</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,7 +14,7 @@
   --line: #cfcdc3;
   --fg: #1d1f1b;
   --muted: #62655c;
-  --set: #1c7a2a;          /* D2 set-item green, darkened for light ground */
+  --accent: #1c7a2a;       /* set-item green, darkened for light ground */
   --item-l: 82%;
   --item-c: 0.09;
   --item-fg: #14160f;
@@ -24,20 +24,23 @@
   --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
   --cell: min(34px, calc((100vw - 48px) / 10));
 }
+:root[data-kind="unique"] { --accent: #8a6a1f; }   /* unique-item gold */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #121311; --panel: #1b1c19; --well: #0b0c0a; --line: #34362f;
-    --fg: #e6e4dc; --muted: #9a9b90; --set: #3fdc4f;
+    --fg: #e6e4dc; --muted: #9a9b90; --accent: #3fdc4f;
     --item-l: 38%; --item-c: 0.08; --item-fg: #f1efe6; --hit: #f2c14e;
     color-scheme: dark;
   }
+  :root[data-kind="unique"]:not([data-theme="light"]) { --accent: #c7b377; }
 }
 :root[data-theme="dark"] {
   --bg: #121311; --panel: #1b1c19; --well: #0b0c0a; --line: #34362f;
-  --fg: #e6e4dc; --muted: #9a9b90; --set: #3fdc4f;
+  --fg: #e6e4dc; --muted: #9a9b90; --accent: #3fdc4f;
   --item-l: 38%; --item-c: 0.08; --item-fg: #f1efe6; --hit: #f2c14e;
   color-scheme: dark;
 }
+:root[data-theme="dark"][data-kind="unique"] { --accent: #c7b377; }
 
 body {
   background: var(--bg); color: var(--fg);
@@ -55,19 +58,28 @@ body::before {
   display: grid; gap: 28px;
 }
 h1, h2 { font-family: var(--font-display); font-weight: 700; text-wrap: balance; margin: 0; }
-h1 { font-size: 1.9rem; letter-spacing: 0.02em; color: var(--set); }
+h1 { font-size: 1.9rem; letter-spacing: 0.02em; color: var(--accent); }
 h2 { font-size: 1.25rem; }
 p { margin: 0; max-width: 68ch; }
 .lede { color: var(--muted); }
 .mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
 
+/* Page switcher (static site only) */
+.pages { display: flex; flex-wrap: wrap; gap: 6px; }
+.pages a {
+  font-size: 0.85rem; padding: 3px 10px; border-radius: 99px; text-decoration: none;
+  color: var(--muted); border: 1px solid var(--line);
+}
+.pages a[aria-current="page"] { color: var(--fg); border-color: var(--accent); }
+.pages a:focus-visible { outline: 2px solid var(--accent); }
+
 /* Summary index */
 .index { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; }
 .index a {
-  display: grid; gap: 2px; padding: 10px 12px; text-decoration: none; color: inherit;
+  display: grid; gap: 2px; align-content: start; padding: 10px 12px; text-decoration: none; color: inherit;
   background: var(--panel); border: 1px solid var(--line); border-radius: 4px;
 }
-.index a:hover, .index a:focus-visible { border-color: var(--set); outline: none; }
+.index a:hover, .index a:focus-visible { border-color: var(--accent); outline: none; }
 .index b { font-family: var(--font-display); }
 .index span { font-size: 0.85rem; color: var(--muted); }
 
@@ -82,7 +94,7 @@ p { margin: 0; max-width: 68ch; }
   padding: 9px 12px; border: 1px solid var(--line); border-radius: 4px;
   background: var(--panel); color: var(--fg);
 }
-.search input:focus-visible { outline: 2px solid var(--set); outline-offset: 1px; }
+.search input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 .status { font-size: 0.9rem; color: var(--muted); min-height: 1.5em; }
 .status strong { color: var(--fg); }
 
@@ -131,8 +143,10 @@ p { margin: 0; max-width: 68ch; }
 table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
 th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--line); white-space: nowrap; }
 th { font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); position: sticky; top: 0; background: var(--panel); }
-td.name { color: var(--set); font-weight: 600; }
-tr.set-start td { border-top: 2px solid var(--line); }
+td.name { color: var(--accent); font-weight: 600; }
+tbody tr { cursor: pointer; }
+tr.group-start td { border-top: 2px solid var(--line); }
+tr.excluded { cursor: default; }
 tr.excluded td { color: var(--muted); }
 tr.excluded td.name { color: var(--muted); font-weight: 400; }
 .pill { font-size: 0.72rem; padding: 1px 6px; border-radius: 99px; border: 1px solid var(--line); color: var(--muted); }
@@ -141,25 +155,26 @@ tr.excluded td.name { color: var(--muted); font-weight: 400; }
 
 <div class="wrap">
   <header style="display:grid;gap:8px">
-    <h1>Set Item Mules</h1>
+    <nav class="pages" id="pages" aria-label="Pages" hidden></nav>
+    <h1 id="heading"></h1>
     <p class="lede" id="lede"></p>
   </header>
 
   <nav class="index" id="index" aria-label="Mules"></nav>
 
   <div class="search">
-    <input id="q" type="search" placeholder="Find an item, set, or base (e.g. Tal Rasha, amulet, Shako)" autocomplete="off">
+    <input id="q" type="search" autocomplete="off">
     <div class="status" id="status" aria-live="polite"></div>
   </div>
 
   <main id="mules" style="display:grid;gap:18px"></main>
 
   <section style="display:grid;gap:10px">
-    <h2>Every set item</h2>
+    <h2 id="table-title"></h2>
     <p class="lede">Sizes are inventory cells, width × height, from the game's base item data.</p>
     <div class="table-wrap">
       <table>
-        <thead><tr><th>Item</th><th>Set</th><th>Base</th><th>Slot</th><th>Size</th><th>Req</th><th>Location</th></tr></thead>
+        <thead><tr id="thead"></tr></thead>
         <tbody id="rows"></tbody>
       </table>
     </div>
@@ -167,53 +182,61 @@ tr.excluded td.name { color: var(--muted); font-weight: 400; }
 </div>
 
 <script>
+const PAGE = /*PAGE*/;
 const ITEMS = /*ITEMS*/;
 const PLAN = /*PLAN*/;
+const NAV = /*NAV*/;
 
 const $ = (s, el = document) => el.querySelector(s);
-const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-// Index items by name and attach their spot in the plan.
-const byName = new Map(ITEMS.map(i => [i.name, { ...i }]));
-for (const m of PLAN.mules) for (const p of m.placements) Object.assign(byName.get(p.name), { mule: m.mule, grid: p.grid, x: p.x, y: p.y });
+document.documentElement.dataset.kind = PAGE.stripOwner ? "set" : "unique";
+document.title = PAGE.title;
+$("#heading").textContent = PAGE.title;
+$("#lede").textContent = PAGE.lede;
+$("#table-title").textContent = PAGE.table;
+$("#q").placeholder = PAGE.placeholder;
+if (NAV.length) {
+  const pages = $("#pages");
+  pages.innerHTML = NAV.map(n => `<a href="${esc(n.href)}"${n.current ? ' aria-current="page"' : ""}>${esc(n.label)}</a>`).join("");
+  pages.hidden = false;
+}
 
-const where = i => i.mule ? `Mule ${i.mule} · ${i.grid} · col ${i.x + 1}, row ${i.y + 1}` : "Not placed (cannot drop)";
-const nSets = new Set(ITEMS.map(i => i.set)).size;
-$("#lede").textContent =
-  `${ITEMS.length} set items across ${nSets} sets, packed onto ${PLAN.mules.length} mules ` +
-  `(${PLAN.grids.map(g => `${g.width}×${g.height} ${g.name.toLowerCase()}`).join(" + ")}). ` +
-  `Sets run in alphabetical order and each set stays whole in one grid.` +
-  (PLAN.excluded.length ? ` ${PLAN.excluded.join(", ")} is in the game files but has no drop source, so it is listed but not given space.` : "");
+const byName = new Map(ITEMS.map(i => [i.name, i]));
+const muleName = n => `${PAGE.mule} ${n}`;
+const where = i => i.mule ? `${muleName(i.mule)} · ${i.grid} · col ${i.x + 1}, row ${i.y + 1}` : "Not placed (cannot drop)";
 
-// Short label: drop the set-owner prefix ("Tal Rasha's Lidless Eye" -> "Lidless Eye").
+// Set items read better without the owner ("Tal Rasha's Lidless Eye" -> "Lidless Eye").
 function shortName(name) {
+  if (!PAGE.stripOwner) return name;
   const m = name.match(/^(.+?'s?)\s+(.+)$/);
   return m ? m[2] : name;
 }
 function abbrev(name) {
-  return shortName(name).split(/[\s-]+/).map(w => w[0]).join("").slice(0, 3);
+  return shortName(name).replace(/\s*\(.*\)$/, "").split(/[\s-]+/).map(w => w[0]).join("").slice(0, 3);
 }
 
 // Index cards
 $("#index").innerHTML = PLAN.mules.map(m =>
-  `<a href="#mule${m.mule}"><b>Mule ${m.mule}</b><span>${esc(m.range)}</span></a>`).join("");
+  `<a href="#mule${m.mule}"><b>${esc(muleName(m.mule))}</b><span>${esc(m.summary)}</span></a>`).join("");
 
-// Mule cards
+// Mule cards. Colors key on set (set page) or item type (unique page).
 const mulesEl = $("#mules");
 for (const m of PLAN.mules) {
+  const keys = [...new Set(m.placements.map(p => p.key))];
   const hue = {};
-  m.sets.forEach((s, i) => hue[s] = Math.round((i * 360 / m.sets.length + 140) % 360));
+  keys.forEach((k, i) => hue[k] = Math.round((i * 360 / keys.length + 140) % 360));
   const card = document.createElement("section");
   card.className = "mule"; card.id = `mule${m.mule}`;
   card.innerHTML = `
-    <div class="mule-head"><h2>Mule ${m.mule}</h2><span class="range">${esc(m.range)}</span></div>
-    <div class="legend">${m.sets.map(s => `<button type="button" style="--h:${hue[s]}" data-set="${esc(s)}">${esc(s)}</button>`).join("")}</div>
+    <div class="mule-head"><h2>${esc(muleName(m.mule))}</h2><span class="range">${esc(m.summary)}</span></div>
+    <div class="legend">${keys.map(k => `<button type="button" style="--h:${hue[k]}" data-key="${esc(k)}">${esc(k)}</button>`).join("")}</div>
     <div class="grids">${PLAN.grids.map(g => {
       const used = m.cells_used[g.name];
       const cells = m.placements.filter(p => p.grid === g.name).map(p => {
         const label = p.width * p.height > 1 ? shortName(p.name) : abbrev(p.name);
         return `<div class="item" tabindex="0" role="button" data-name="${esc(p.name)}"
-          style="--h:${hue[p.set]};grid-column:${p.x + 1}/span ${p.width};grid-row:${p.y + 1}/span ${p.height}"
+          style="--h:${hue[p.key]};grid-column:${p.x + 1}/span ${p.width};grid-row:${p.y + 1}/span ${p.height}"
           title="${esc(p.name)}">${esc(label)}</div>`;
       }).join("");
       return `<div class="grid-box"><div class="label">${g.name} · <span class="mono">${used}/${g.width * g.height}</span> cells</div>
@@ -223,32 +246,24 @@ for (const m of PLAN.mules) {
 }
 
 // Table
-let prevSet = null;
-$("#rows").innerHTML = [...byName.values()].map(i => {
-  const start = i.set !== prevSet; prevSet = i.set;
-  return `<tr class="${start ? "set-start" : ""} ${i.obtainable ? "" : "excluded"}" data-name="${esc(i.name)}">
-    <td class="name">${esc(i.name)}</td><td>${esc(i.set)}${i.expansion ? "" : ' <span class="pill">Classic</span>'}</td>
-    <td>${esc(i.base)}</td><td>${i.slot}</td><td class="mono">${i.width}×${i.height}</td>
-    <td class="mono">${i.req_level ?? ""}</td><td>${esc(where(i))}</td></tr>`;
+$("#thead").innerHTML = ["Item", PAGE.group, "Base", "Type", "Size", "Req", PAGE.note, "Location"].map(h => `<th>${esc(h)}</th>`).join("");
+let prevGroup = null;
+$("#rows").innerHTML = ITEMS.map(i => {
+  const start = i.group !== prevGroup; prevGroup = i.group;
+  return `<tr class="${start ? "group-start" : ""} ${i.mule ? "" : "excluded"}" data-name="${esc(i.name)}">
+    <td class="name">${esc(i.name)}</td><td>${esc(i.group)}</td>
+    <td>${esc(i.base)}</td><td>${esc(i.slot)}</td><td class="mono">${i.width}×${i.height}</td>
+    <td class="mono">${i.req ?? ""}</td><td>${i.note ? `<span class="pill">${esc(i.note)}</span>` : ""}</td>
+    <td>${esc(where(i))}</td></tr>`;
 }).join("");
 
-// Search + selection
+// Search, legend filter, and selection
 const q = $("#q"), status = $("#status");
 const norm = s => s.toLowerCase().replace(/[’']/g, "");
-function matches(i, t) { return norm(`${i.name} ${i.set} ${i.base} ${i.slot}`).includes(t); }
+const keyOf = new Map(PLAN.mules.flatMap(m => m.placements.map(p => [p.name, p.key])));
+let keyFilter = null;
 
-function render() {
-  const t = norm(q.value.trim());
-  document.querySelectorAll(".item.picked").forEach(e => e.classList.remove("picked"));
-  if (!t) {
-    mulesEl.classList.remove("dim");
-    document.querySelectorAll(".mule").forEach(e => e.classList.remove("nohit"));
-    document.querySelectorAll(".item.match").forEach(e => e.classList.remove("match"));
-    document.querySelectorAll("#rows tr").forEach(r => r.hidden = false);
-    status.textContent = "Tap an item for its details, or a set name to highlight the whole set.";
-    return;
-  }
-  const hits = [...byName.values()].filter(i => matches(i, t));
+function apply(hits, label) {
   const names = new Set(hits.map(i => i.name));
   mulesEl.classList.add("dim");
   document.querySelectorAll(".item").forEach(e => e.classList.toggle("match", names.has(e.dataset.name)));
@@ -257,23 +272,40 @@ function render() {
   if (hits.length === 1) {
     const i = hits[0];
     status.innerHTML = `<strong>${esc(i.name)}</strong> — ${esc(i.base)}, ${i.width}×${i.height} — ${esc(where(i))}`;
-  } else {
+  } else if (hits.length) {
     const ms = [...new Set(hits.filter(i => i.mule).map(i => i.mule))];
-    status.innerHTML = hits.length
-      ? `<strong>${hits.length}</strong> items` + (ms.length ? ` on mule ${ms.join(", ")}` : "")
-      : "No set item matches that.";
+    status.innerHTML = `<strong>${hits.length}</strong> ${esc(label || "items")}` +
+      (ms.length ? ` on ${esc(PAGE.mule.toLowerCase())}${ms.length > 1 ? "s" : ""} ${ms.join(", ")}` : "");
+  } else {
+    status.textContent = "Nothing matches that. Try part of the name, the base item, or a type like ring or bow.";
   }
 }
-q.addEventListener("input", render);
+
+function render() {
+  document.querySelectorAll(".item.picked").forEach(e => e.classList.remove("picked"));
+  if (keyFilter) return apply(ITEMS.filter(i => keyOf.get(i.name) === keyFilter), keyFilter);
+  const t = norm(q.value.trim());
+  if (!t) {
+    mulesEl.classList.remove("dim");
+    document.querySelectorAll(".mule").forEach(e => e.classList.remove("nohit"));
+    document.querySelectorAll(".item.match").forEach(e => e.classList.remove("match"));
+    document.querySelectorAll("#rows tr").forEach(r => r.hidden = false);
+    status.textContent = "Tap an item for its details, or a colored chip to highlight everything of that kind.";
+    return;
+  }
+  apply(ITEMS.filter(i => norm(`${i.name} ${i.group} ${i.base} ${i.slot} ${i.note}`).includes(t)));
+}
+q.addEventListener("input", () => { keyFilter = null; render(); });
 
 function pick(name, scroll) {
-  q.value = name; render();
+  keyFilter = null; q.value = name; render();
   const el = document.querySelector(`.item[data-name="${CSS.escape(name)}"]`);
   if (el) { el.classList.add("picked"); if (scroll) el.closest(".mule").scrollIntoView({ behavior: "smooth", block: "start" }); }
 }
 mulesEl.addEventListener("click", e => {
   const it = e.target.closest(".item"); if (it) return pick(it.dataset.name);
-  const b = e.target.closest(".legend button"); if (b) { q.value = b.dataset.set; render(); }
+  const b = e.target.closest(".legend button");
+  if (b) { keyFilter = b.dataset.key; q.value = ""; render(); }
 });
 mulesEl.addEventListener("keydown", e => {
   const it = e.target.closest(".item");

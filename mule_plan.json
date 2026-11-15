@@ -17,8 +17,8 @@
  "mules": [
   {
    "mule": 1,
-   "range": "Aldur's Watchtower – Cathan's Traps",
-   "sets": [
+   "summary": "Aldur's Watchtower – Cathan's Traps",
+   "groups": [
     "Aldur's Watchtower",
     "Angelic Raiment",
     "Arcanna's Tricks",
@@ -34,7 +34,8 @@
    },
    "placements": [
     {
-     "set": "Aldur's Watchtower",
+     "group": "Aldur's Watchtower",
+     "key": "Aldur's Watchtower",
      "name": "Aldur's Deception",
      "grid": "Stash",
      "x": 0,
@@ -43,7 +44,8 @@
      "height": 3
     },
     {
-     "set": "Aldur's Watchtower",
+     "group": "Aldur's Watchtower",
+     "key": "Aldur's Watchtower",
      "name": "Aldur's Stony Gaze",
      "grid": "Stash",
      "x": 0,
@@ -52,7 +54,8 @@
      "height": 2
     },
     {
-     "set": "Aldur's Watchtower",
+     "group": "Aldur's Watchtower",
+     "key": "Aldur's Watchtower",
      "name": "Aldur's Advance",
      "grid": "Stash",
      "x": 0,
@@ -61,7 +64,8 @@
      "height": 2
     },
     {
-     "set": "Aldur's Watchtower",
+     "group": "Aldur's Watchtower",
+     "key": "Aldur's Watchtower",
      "name": "Aldur's Rhythm",
      "grid": "Stash",
      "x": 0,
@@ -70,7 +74,8 @@
      "height": 3
     },
     {
-     "set": "Angelic Raiment",
+     "group": "Angelic Raiment",
+     "key": "Angelic Raiment",
      "name": "Angelic Mantle",
      "grid": "Stash",
      "x": 1,
@@ -79,7 +84,8 @@
      "height": 3
     },
     {
-     "set": "Angelic Raiment",
+     "group": "Angelic Raiment",
+     "key": "Angelic Raiment",
      "name": "Angelic Sickle",
      "grid": "Stash",
      "x": 2,
@@ -88,7 +94,8 @@
      "height": 3
     },
     {
-     "set": "Angelic Raiment",
+     "group": "Angelic Raiment",
+     "key": "Angelic Raiment",
      "name": "Angelic Wings",
      "grid": "Stash",
      "x": 2,
@@ -97,7 +104,8 @@
      "height": 1
     },
     {
-     "set": "Angelic Raiment",
+     "group": "Angelic Raiment",
+     "key": "Angelic Raiment",
      "name": "Angelic Halo",
      "grid": "Stash",
      "x": 2,
@@ -106,7 +114,8 @@
      "height": 1
     },
     {
-     "set": "Arcanna's Tricks",
+     "group": "Arcanna's Tricks",
+     "key": "Arcanna's Tricks",
      "name": "Arcanna's Deathwand",
      "grid": "Stash",
      "x": 3,
@@ -115,7 +124,8 @@
      "height": 4
     },
     {
-     "set": "Arcanna's Tricks",
+     "group": "Arcanna's Tricks",
+     "key": "Arcanna's Tricks",
      "name": "Arcanna's Flesh",
      "grid": "Stash",
      "x": 3,
@@ -124,7 +134,8 @@
      "height": 3
     },
     {
-     "set": "Arcanna's Tricks",
+     "group": "Arcanna's Tricks",
+     "key": "Arcanna's Tricks",
      "name": "Arcanna's Head",
      "grid": "Stash",
      "x": 3,
@@ -133,7 +144,8 @@
      "height": 2
     },
     {
-     "set": "Arcanna's Tricks",
+     "group": "Arcanna's Tricks",
+     "key": "Arcanna's Tricks",
      "name": "Arcanna's Sign",
      "grid": "Stash",
      "x": 2,
@@ -142,7 +154,8 @@
      "height": 1
     },
     {
-     "set": "Arctic Gear",
+     "group": "Arctic Gear",
+     "key": "Arctic Gear",
      "name": "Arctic Furs",
      "grid": "Stash",
      "x": 5,
@@ -151,7 +164,8 @@
      "height": 3
     },
     {
-     "set": "Arctic Gear",
+     "group": "Arctic Gear",
+     "key": "Arctic Gear",
      "name": "Arctic Horn",
      "grid": "Stash",
      "x": 5,
@@ -160,7 +174,8 @@
      "height": 3
     },
     {
-     "set": "Arctic Gear",
+     "group": "Arctic Gear",
+     "key": "Arctic Gear",
      "name": "Arctic Mitts",
      "grid": "Stash",
      "x": 5,
@@ -169,7 +184,8 @@
      "height": 2
     },
     {
-     "set": "Arctic Gear",
+     "group": "Arctic Gear",
+     "key": "Arctic Gear",
      "name": "Arctic Binding",
      "grid": "Stash",
      "x": 3,
@@ -178,7 +194,8 @@
      "height": 1
     },
     {
-     "set": "Bane's Garments",
+     "group": "Bane's Garments",
+     "key": "Bane's Garments",
      "name": "Bane's Wraithskin",
      "grid": "Stash",
      "x": 7,
@@ -187,7 +204,8 @@
      "height": 3
     },
     {
-     "set": "Bane's Garments",
+     "group": "Bane's Garments",
+     "key": "Bane's Garments",
      "name": "Bane's Oathmaker",
      "grid": "Stash",
      "x": 7,
@@ -196,7 +214,8 @@
      "height": 3
     },
     {
-     "set": "Bane's Garments",
+     "group": "Bane's Garments",
+     "key": "Bane's Garments",
      "name": "Bane's Authority",
      "grid": "Stash",
      "x": 5,
@@ -205,7 +224,8 @@
      "height": 1
     },
     {
-     "set": "Berserker's Arsenal",
+     "group": "Berserker's Arsenal",
+     "key": "Berserker's Arsenal",
      "name": "Berserker's Hauberk",
      "grid": "Inventory",
      "x": 0,
@@ -214,7 +234,8 @@
      "height": 3
     },
     {
-     "set": "Berserker's Arsenal",
+     "group": "Berserker's Arsenal",
+     "key": "Berserker's Arsenal",
      "name": "Berserker's Hatchet",
      "grid": "Inventory",
      "x": 2,
@@ -223,7 +244,8 @@
      "height": 3
     },
     {
-     "set": "Berserker's Arsenal",
+     "group": "Berserker's Arsenal",
+     "key": "Berserker's Arsenal",
      "name": "Berserker's Headgear",
      "grid": "Inventory",
      "x": 4,
@@ -232,7 +254,8 @@
      "height": 2
     },
     {
-     "set": "Bul-Kathos' Children",
+     "group": "Bul-Kathos' Children",
+     "key": "Bul-Kathos' Children",
      "name": "Bul-Kathos' Sacred Charge",
      "grid": "Stash",
      "x": 7,
@@ -241,7 +264,8 @@
      "height": 4
     },
     {
-     "set": "Bul-Kathos' Children",
+     "group": "Bul-Kathos' Children",
+     "key": "Bul-Kathos' Children",
      "name": "Bul-Kathos' Tribal Guardian",
      "grid": "Stash",
      "x": 8,
@@ -250,7 +274,8 @@
      "height": 3
     },
     {
-     "set": "Cathan's Traps",
+     "group": "Cathan's Traps",
+     "key": "Cathan's Traps",
      "name": "Cathan's Mesh",
      "grid": "Inventory",
      "x": 6,
@@ -259,7 +284,8 @@
      "height": 3
     },
     {
-     "set": "Cathan's Traps",
+     "group": "Cathan's Traps",
+     "key": "Cathan's Traps",
      "name": "Cathan's Rule",
      "grid": "Inventory",
      "x": 8,
@@ -268,7 +294,8 @@
      "height": 4
     },
     {
-     "set": "Cathan's Traps",
+     "group": "Cathan's Traps",
+     "key": "Cathan's Traps",
      "name": "Cathan's Visage",
      "grid": "Inventory",
      "x": 4,
@@ -277,7 +304,8 @@
      "height": 2
     },
     {
-     "set": "Cathan's Traps",
+     "group": "Cathan's Traps",
+     "key": "Cathan's Traps",
      "name": "Cathan's Sigil",
      "grid": "Inventory",
      "x": 0,
@@ -286,7 +314,8 @@
      "height": 1
     },
     {
-     "set": "Cathan's Traps",
+     "group": "Cathan's Traps",
+     "key": "Cathan's Traps",
      "name": "Cathan's Seal",
      "grid": "Inventory",
      "x": 1,
@@ -298,8 +327,8 @@
   },
   {
    "mule": 2,
-   "range": "Civerb's Vestments – Hsarus' Defense",
-   "sets": [
+   "summary": "Civerb's Vestments – Hsarus' Defense",
+   "groups": [
     "Civerb's Vestments",
     "Cleglaw's Brace",
     "Cow King's Leathers",
@@ -315,7 +344,8 @@
    },
    "placements": [
     {
-     "set": "Civerb's Vestments",
+     "group": "Civerb's Vestments",
+     "key": "Civerb's Vestments",
      "name": "Civerb's Ward",
      "grid": "Stash",
      "x": 0,
@@ -324,7 +354,8 @@
      "height": 3
     },
     {
-     "set": "Civerb's Vestments",
+     "group": "Civerb's Vestments",
+     "key": "Civerb's Vestments",
      "name": "Civerb's Cudgel",
      "grid": "Stash",
      "x": 0,
@@ -333,7 +364,8 @@
      "height": 3
     },
     {
-     "set": "Civerb's Vestments",
+     "group": "Civerb's Vestments",
+     "key": "Civerb's Vestments",
      "name": "Civerb's Icon",
      "grid": "Stash",
      "x": 0,
@@ -342,7 +374,8 @@
      "height": 1
     },
     {
-     "set": "Cleglaw's Brace",
+     "group": "Cleglaw's Brace",
+     "key": "Cleglaw's Brace",
      "name": "Cleglaw's Tooth",
      "grid": "Stash",
      "x": 0,
@@ -351,7 +384,8 @@
      "height": 3
     },
     {
-     "set": "Cleglaw's Brace",
+     "group": "Cleglaw's Brace",
+     "key": "Cleglaw's Brace",
      "name": "Cleglaw's Claw",
      "grid": "Stash",
      "x": 1,
@@ -360,7 +394,8 @@
      "height": 2
     },
     {
-     "set": "Cleglaw's Brace",
+     "group": "Cleglaw's Brace",
+     "key": "Cleglaw's Brace",
      "name": "Cleglaw's Pincers",
      "grid": "Stash",
      "x": 1,
@@ -369,7 +404,8 @@
      "height": 2
     },
     {
-     "set": "Cow King's Leathers",
+     "group": "Cow King's Leathers",
+     "key": "Cow King's Leathers",
      "name": "Cow King's Hide",
      "grid": "Stash",
      "x": 2,
@@ -378,7 +414,8 @@
      "height": 3
     },
     {
-     "set": "Cow King's Leathers",
+     "group": "Cow King's Leathers",
+     "key": "Cow King's Leathers",
      "name": "Cow King's Horns",
      "grid": "Stash",
      "x": 2,
@@ -387,7 +424,8 @@
      "height": 2
     },
     {
-     "set": "Cow King's Leathers",
+     "group": "Cow King's Leathers",
+     "key": "Cow King's Leathers",
      "name": "Cow King's Hooves",
      "grid": "Stash",
      "x": 3,
@@ -396,7 +434,8 @@
      "height": 2
     },
     {
-     "set": "Death's Disguise",
+     "group": "Death's Disguise",
+     "key": "Death's Disguise",
      "name": "Death's Hand",
      "grid": "Stash",
      "x": 3,
@@ -405,7 +444,8 @@
      "height": 2
     },
     {
-     "set": "Death's Disguise",
+     "group": "Death's Disguise",
+     "key": "Death's Disguise",
      "name": "Death's Touch",
      "grid": "Stash",
      "x": 4,
@@ -414,7 +454,8 @@
      "height": 3
     },
     {
-     "set": "Death's Disguise",
+     "group": "Death's Disguise",
+     "key": "Death's Disguise",
      "name": "Death's Guard",
      "grid": "Stash",
      "x": 2,
@@ -423,7 +464,8 @@
      "height": 1
     },
     {
-     "set": "Griswold's Legacy",
+     "group": "Griswold's Legacy",
+     "key": "Griswold's Legacy",
      "name": "Griswold's Heart",
      "grid": "Stash",
      "x": 4,
@@ -432,7 +474,8 @@
      "height": 3
     },
     {
-     "set": "Griswold's Legacy",
+     "group": "Griswold's Legacy",
+     "key": "Griswold's Legacy",
      "name": "Griswold's Redemption",
      "grid": "Stash",
      "x": 5,
@@ -441,7 +484,8 @@
      "height": 3
     },
     {
-     "set": "Griswold's Legacy",
+     "group": "Griswold's Legacy",
+     "key": "Griswold's Legacy",
      "name": "Griswold's Valor",
      "grid": "Stash",
      "x": 5,
@@ -450,7 +494,8 @@
      "height": 2
     },
     {
-     "set": "Griswold's Legacy",
+     "group": "Griswold's Legacy",
+     "key": "Griswold's Legacy",
      "name": "Griswold's Honor",
      "grid": "Stash",
      "x": 5,
@@ -459,7 +504,8 @@
      "height": 2
     },
     {
-     "set": "Heaven's Brethren",
+     "group": "Heaven's Brethren",
+     "key": "Heaven's Brethren",
      "name": "Taebaek's Glory",
      "grid": "Stash",
      "x": 7,
@@ -468,7 +514,8 @@
      "height": 4
     },
     {
-     "set": "Heaven's Brethren",
+     "group": "Heaven's Brethren",
+     "key": "Heaven's Brethren",
      "name": "Haemosu's Adamant",
      "grid": "Stash",
      "x": 6,
@@ -477,7 +524,8 @@
      "height": 3
     },
     {
-     "set": "Heaven's Brethren",
+     "group": "Heaven's Brethren",
+     "key": "Heaven's Brethren",
      "name": "Ondal's Almighty",
      "grid": "Stash",
      "x": 7,
@@ -486,7 +534,8 @@
      "height": 2
     },
     {
-     "set": "Heaven's Brethren",
+     "group": "Heaven's Brethren",
+     "key": "Heaven's Brethren",
      "name": "Dangoon's Teaching",
      "grid": "Stash",
      "x": 8,
@@ -495,7 +544,8 @@
      "height": 3
     },
     {
-     "set": "Horazon's Splendor",
+     "group": "Horazon's Splendor",
+     "key": "Horazon's Splendor",
      "name": "Horazon's Dominion",
      "grid": "Inventory",
      "x": 0,
@@ -504,7 +554,8 @@
      "height": 3
     },
     {
-     "set": "Horazon's Splendor",
+     "group": "Horazon's Splendor",
+     "key": "Horazon's Splendor",
      "name": "Horazon's Countenance",
      "grid": "Inventory",
      "x": 2,
@@ -513,7 +564,8 @@
      "height": 2
     },
     {
-     "set": "Horazon's Splendor",
+     "group": "Horazon's Splendor",
+     "key": "Horazon's Splendor",
      "name": "Horazon's Secrets",
      "grid": "Inventory",
      "x": 2,
@@ -522,7 +574,8 @@
      "height": 2
     },
     {
-     "set": "Horazon's Splendor",
+     "group": "Horazon's Splendor",
+     "key": "Horazon's Splendor",
      "name": "Horazon's Hold",
      "grid": "Inventory",
      "x": 4,
@@ -531,7 +584,8 @@
      "height": 2
     },
     {
-     "set": "Horazon's Splendor",
+     "group": "Horazon's Splendor",
+     "key": "Horazon's Splendor",
      "name": "Horazon's Legacy",
      "grid": "Inventory",
      "x": 4,
@@ -540,7 +594,8 @@
      "height": 2
     },
     {
-     "set": "Hsarus' Defense",
+     "group": "Hsarus' Defense",
+     "key": "Hsarus' Defense",
      "name": "Hsarus' Iron Fist",
      "grid": "Inventory",
      "x": 6,
@@ -549,7 +604,8 @@
      "height": 2
     },
     {
-     "set": "Hsarus' Defense",
+     "group": "Hsarus' Defense",
+     "key": "Hsarus' Defense",
      "name": "Hsarus' Iron Heel",
      "grid": "Inventory",
      "x": 6,
@@ -558,7 +614,8 @@
      "height": 2
     },
     {
-     "set": "Hsarus' Defense",
+     "group": "Hsarus' Defense",
+     "key": "Hsarus' Defense",
      "name": "Hsarus' Iron Stay",
      "grid": "Inventory",
      "x": 0,
@@ -570,8 +627,8 @@
   },
   {
    "mule": 3,
-   "range": "Hwanin's Majesty – Isenhart's Armory",
-   "sets": [
+   "summary": "Hwanin's Majesty – Isenhart's Armory",
+   "groups": [
     "Hwanin's Majesty",
     "Immortal King",
     "Infernal Tools",
@@ -584,7 +641,8 @@
    },
    "placements": [
     {
-     "set": "Hwanin's Majesty",
+     "group": "Hwanin's Majesty",
+     "key": "Hwanin's Majesty",
      "name": "Hwanin's Justice",
      "grid": "Stash",
      "x": 0,
@@ -593,7 +651,8 @@
      "height": 4
     },
     {
-     "set": "Hwanin's Majesty",
+     "group": "Hwanin's Majesty",
+     "key": "Hwanin's Majesty",
      "name": "Hwanin's Refuge",
      "grid": "Stash",
      "x": 0,
@@ -602,7 +661,8 @@
      "height": 3
     },
     {
-     "set": "Hwanin's Majesty",
+     "group": "Hwanin's Majesty",
+     "key": "Hwanin's Majesty",
      "name": "Hwanin's Splendor",
      "grid": "Stash",
      "x": 0,
@@ -611,7 +671,8 @@
      "height": 2
     },
     {
-     "set": "Hwanin's Majesty",
+     "group": "Hwanin's Majesty",
+     "key": "Hwanin's Majesty",
      "name": "Hwanin's Blessing",
      "grid": "Stash",
      "x": 0,
@@ -620,7 +681,8 @@
      "height": 1
     },
     {
-     "set": "Immortal King",
+     "group": "Immortal King",
+     "key": "Immortal King",
      "name": "Immortal King's Stone Crusher",
      "grid": "Stash",
      "x": 2,
@@ -629,7 +691,8 @@
      "height": 4
     },
     {
-     "set": "Immortal King",
+     "group": "Immortal King",
+     "key": "Immortal King",
      "name": "Immortal King's Soul Cage",
      "grid": "Stash",
      "x": 2,
@@ -638,7 +701,8 @@
      "height": 3
     },
     {
-     "set": "Immortal King",
+     "group": "Immortal King",
+     "key": "Immortal King",
      "name": "Immortal King's Will",
      "grid": "Stash",
      "x": 2,
@@ -647,7 +711,8 @@
      "height": 2
     },
     {
-     "set": "Immortal King",
+     "group": "Immortal King",
+     "key": "Immortal King",
      "name": "Immortal King's Forge",
      "grid": "Stash",
      "x": 4,
@@ -656,7 +721,8 @@
      "height": 2
     },
     {
-     "set": "Immortal King",
+     "group": "Immortal King",
+     "key": "Immortal King",
      "name": "Immortal King's Pillar",
      "grid": "Stash",
      "x": 4,
@@ -665,7 +731,8 @@
      "height": 2
     },
     {
-     "set": "Immortal King",
+     "group": "Immortal King",
+     "key": "Immortal King",
      "name": "Immortal King's Detail",
      "grid": "Stash",
      "x": 2,
@@ -674,7 +741,8 @@
      "height": 1
     },
     {
-     "set": "Infernal Tools",
+     "group": "Infernal Tools",
+     "key": "Infernal Tools",
      "name": "Infernal Cranium",
      "grid": "Stash",
      "x": 4,
@@ -683,7 +751,8 @@
      "height": 2
     },
     {
-     "set": "Infernal Tools",
+     "group": "Infernal Tools",
+     "key": "Infernal Tools",
      "name": "Infernal Torch",
      "grid": "Stash",
      "x": 4,
@@ -692,7 +761,8 @@
      "height": 2
     },
     {
-     "set": "Infernal Tools",
+     "group": "Infernal Tools",
+     "key": "Infernal Tools",
      "name": "Infernal Sign",
      "grid": "Stash",
      "x": 4,
@@ -701,7 +771,8 @@
      "height": 1
     },
     {
-     "set": "Iratha's Finery",
+     "group": "Iratha's Finery",
+     "key": "Iratha's Finery",
      "name": "Iratha's Coil",
      "grid": "Stash",
      "x": 5,
@@ -710,7 +781,8 @@
      "height": 2
     },
     {
-     "set": "Iratha's Finery",
+     "group": "Iratha's Finery",
+     "key": "Iratha's Finery",
      "name": "Iratha's Cuff",
      "grid": "Stash",
      "x": 6,
@@ -719,7 +791,8 @@
      "height": 2
     },
     {
-     "set": "Iratha's Finery",
+     "group": "Iratha's Finery",
+     "key": "Iratha's Finery",
      "name": "Iratha's Cord",
      "grid": "Stash",
      "x": 4,
@@ -728,7 +801,8 @@
      "height": 1
     },
     {
-     "set": "Iratha's Finery",
+     "group": "Iratha's Finery",
+     "key": "Iratha's Finery",
      "name": "Iratha's Collar",
      "grid": "Stash",
      "x": 6,
@@ -737,7 +811,8 @@
      "height": 1
     },
     {
-     "set": "Isenhart's Armory",
+     "group": "Isenhart's Armory",
+     "key": "Isenhart's Armory",
      "name": "Isenhart's Parry",
      "grid": "Inventory",
      "x": 0,
@@ -746,7 +821,8 @@
      "height": 4
     },
     {
-     "set": "Isenhart's Armory",
+     "group": "Isenhart's Armory",
+     "key": "Isenhart's Armory",
      "name": "Isenhart's Case",
      "grid": "Inventory",
      "x": 2,
@@ -755,7 +831,8 @@
      "height": 3
     },
     {
-     "set": "Isenhart's Armory",
+     "group": "Isenhart's Armory",
+     "key": "Isenhart's Armory",
      "name": "Isenhart's Lightbrand",
      "grid": "Inventory",
      "x": 4,
@@ -764,7 +841,8 @@
      "height": 3
     },
     {
-     "set": "Isenhart's Armory",
+     "group": "Isenhart's Armory",
+     "key": "Isenhart's Armory",
      "name": "Isenhart's Horns",
      "grid": "Inventory",
      "x": 6,
@@ -776,8 +854,8 @@
   },
   {
    "mule": 4,
-   "range": "M'avina's Battle Hymn – Sazabi's Grand Tribute",
-   "sets": [
+   "summary": "M'avina's Battle Hymn – Sazabi's Grand Tribute",
+   "groups": [
     "M'avina's Battle Hymn",
     "Milabrega's Regalia",
     "Naj's Ancient Vestige",
@@ -792,7 +870,8 @@
    },
    "placements": [
     {
-     "set": "M'avina's Battle Hymn",
+     "group": "M'avina's Battle Hymn",
+     "key": "M'avina's Battle Hymn",
      "name": "M'avina's Caster",
      "grid": "Stash",
      "x": 0,
@@ -801,7 +880,8 @@
      "height": 4
     },
     {
-     "set": "M'avina's Battle Hymn",
+     "group": "M'avina's Battle Hymn",
+     "key": "M'avina's Battle Hymn",
      "name": "M'avina's Embrace",
      "grid": "Stash",
      "x": 0,
@@ -810,7 +890,8 @@
      "height": 3
     },
     {
-     "set": "M'avina's Battle Hymn",
+     "group": "M'avina's Battle Hymn",
+     "key": "M'avina's Battle Hymn",
      "name": "M'avina's True Sight",
      "grid": "Stash",
      "x": 0,
@@ -819,7 +900,8 @@
      "height": 2
     },
     {
-     "set": "M'avina's Battle Hymn",
+     "group": "M'avina's Battle Hymn",
+     "key": "M'avina's Battle Hymn",
      "name": "M'avina's Icy Clutch",
      "grid": "Stash",
      "x": 2,
@@ -828,7 +910,8 @@
      "height": 2
     },
     {
-     "set": "M'avina's Battle Hymn",
+     "group": "M'avina's Battle Hymn",
+     "key": "M'avina's Battle Hymn",
      "name": "M'avina's Tenet",
      "grid": "Stash",
      "x": 0,
@@ -837,7 +920,8 @@
      "height": 1
     },
     {
-     "set": "Milabrega's Regalia",
+     "group": "Milabrega's Regalia",
+     "key": "Milabrega's Regalia",
      "name": "Milabrega's Robe",
      "grid": "Stash",
      "x": 2,
@@ -846,7 +930,8 @@
      "height": 3
     },
     {
-     "set": "Milabrega's Regalia",
+     "group": "Milabrega's Regalia",
+     "key": "Milabrega's Regalia",
      "name": "Milabrega's Rod",
      "grid": "Stash",
      "x": 2,
@@ -855,7 +940,8 @@
      "height": 3
     },
     {
-     "set": "Milabrega's Regalia",
+     "group": "Milabrega's Regalia",
+     "key": "Milabrega's Regalia",
      "name": "Milabrega's Orb",
      "grid": "Stash",
      "x": 4,
@@ -864,7 +950,8 @@
      "height": 3
     },
     {
-     "set": "Milabrega's Regalia",
+     "group": "Milabrega's Regalia",
+     "key": "Milabrega's Regalia",
      "name": "Milabrega's Diadem",
      "grid": "Stash",
      "x": 2,
@@ -873,7 +960,8 @@
      "height": 2
     },
     {
-     "set": "Naj's Ancient Vestige",
+     "group": "Naj's Ancient Vestige",
+     "key": "Naj's Ancient Vestige",
      "name": "Naj's Light Plate",
      "grid": "Stash",
      "x": 4,
@@ -882,7 +970,8 @@
      "height": 3
     },
     {
-     "set": "Naj's Ancient Vestige",
+     "group": "Naj's Ancient Vestige",
+     "key": "Naj's Ancient Vestige",
      "name": "Naj's Puzzler",
      "grid": "Stash",
      "x": 4,
@@ -891,7 +980,8 @@
      "height": 4
     },
     {
-     "set": "Naj's Ancient Vestige",
+     "group": "Naj's Ancient Vestige",
+     "key": "Naj's Ancient Vestige",
      "name": "Naj's Circlet",
      "grid": "Stash",
      "x": 5,
@@ -900,7 +990,8 @@
      "height": 2
     },
     {
-     "set": "Natalya's Odium",
+     "group": "Natalya's Odium",
+     "key": "Natalya's Odium",
      "name": "Natalya's Shadow",
      "grid": "Stash",
      "x": 6,
@@ -909,7 +1000,8 @@
      "height": 3
     },
     {
-     "set": "Natalya's Odium",
+     "group": "Natalya's Odium",
+     "key": "Natalya's Odium",
      "name": "Natalya's Totem",
      "grid": "Stash",
      "x": 5,
@@ -918,7 +1010,8 @@
      "height": 2
     },
     {
-     "set": "Natalya's Odium",
+     "group": "Natalya's Odium",
+     "key": "Natalya's Odium",
      "name": "Natalya's Soul",
      "grid": "Stash",
      "x": 6,
@@ -927,7 +1020,8 @@
      "height": 2
     },
     {
-     "set": "Natalya's Odium",
+     "group": "Natalya's Odium",
+     "key": "Natalya's Odium",
      "name": "Natalya's Mark",
      "grid": "Stash",
      "x": 7,
@@ -936,7 +1030,8 @@
      "height": 3
     },
     {
-     "set": "Orphan's Call",
+     "group": "Orphan's Call",
+     "key": "Orphan's Call",
      "name": "Guillaume's Face",
      "grid": "Stash",
      "x": 7,
@@ -945,7 +1040,8 @@
      "height": 2
     },
     {
-     "set": "Orphan's Call",
+     "group": "Orphan's Call",
+     "key": "Orphan's Call",
      "name": "Whitstan's Guard",
      "grid": "Stash",
      "x": 8,
@@ -954,7 +1050,8 @@
      "height": 2
     },
     {
-     "set": "Orphan's Call",
+     "group": "Orphan's Call",
+     "key": "Orphan's Call",
      "name": "Magnus' Skin",
      "grid": "Stash",
      "x": 8,
@@ -963,7 +1060,8 @@
      "height": 2
     },
     {
-     "set": "Orphan's Call",
+     "group": "Orphan's Call",
+     "key": "Orphan's Call",
      "name": "Wilhelm's Pride",
      "grid": "Stash",
      "x": 8,
@@ -972,7 +1070,8 @@
      "height": 1
     },
     {
-     "set": "Sander's Folly",
+     "group": "Sander's Folly",
+     "key": "Sander's Folly",
      "name": "Sander's Paragon",
      "grid": "Inventory",
      "x": 0,
@@ -981,7 +1080,8 @@
      "height": 2
     },
     {
-     "set": "Sander's Folly",
+     "group": "Sander's Folly",
+     "key": "Sander's Folly",
      "name": "Sander's Taboo",
      "grid": "Inventory",
      "x": 0,
@@ -990,7 +1090,8 @@
      "height": 2
     },
     {
-     "set": "Sander's Folly",
+     "group": "Sander's Folly",
+     "key": "Sander's Folly",
      "name": "Sander's Riprap",
      "grid": "Inventory",
      "x": 2,
@@ -999,7 +1100,8 @@
      "height": 2
     },
     {
-     "set": "Sander's Folly",
+     "group": "Sander's Folly",
+     "key": "Sander's Folly",
      "name": "Sander's Superstition",
      "grid": "Inventory",
      "x": 2,
@@ -1008,7 +1110,8 @@
      "height": 2
     },
     {
-     "set": "Sazabi's Grand Tribute",
+     "group": "Sazabi's Grand Tribute",
+     "key": "Sazabi's Grand Tribute",
      "name": "Sazabi's Ghost Liberator",
      "grid": "Inventory",
      "x": 4,
@@ -1017,7 +1120,8 @@
      "height": 3
     },
     {
-     "set": "Sazabi's Grand Tribute",
+     "group": "Sazabi's Grand Tribute",
+     "key": "Sazabi's Grand Tribute",
      "name": "Sazabi's Cobalt Redeemer",
      "grid": "Inventory",
      "x": 6,
@@ -1026,7 +1130,8 @@
      "height": 3
     },
     {
-     "set": "Sazabi's Grand Tribute",
+     "group": "Sazabi's Grand Tribute",
+     "key": "Sazabi's Grand Tribute",
      "name": "Sazabi's Mental Sheath",
      "grid": "Inventory",
      "x": 8,
@@ -1038,8 +1143,8 @@
   },
   {
    "mule": 5,
-   "range": "Sigon's Complete Steel – Vidala's Rig",
-   "sets": [
+   "summary": "Sigon's Complete Steel – Vidala's Rig",
+   "groups": [
     "Sigon's Complete Steel",
     "Tal Rasha's Wrappings",
     "Tancred's Battlegear",
@@ -1053,7 +1158,8 @@
    },
    "placements": [
     {
-     "set": "Sigon's Complete Steel",
+     "group": "Sigon's Complete Steel",
+     "key": "Sigon's Complete Steel",
      "name": "Sigon's Shelter",
      "grid": "Stash",
      "x": 0,
@@ -1062,7 +1168,8 @@
      "height": 3
     },
     {
-     "set": "Sigon's Complete Steel",
+     "group": "Sigon's Complete Steel",
+     "key": "Sigon's Complete Steel",
      "name": "Sigon's Guard",
      "grid": "Stash",
      "x": 0,
@@ -1071,7 +1178,8 @@
      "height": 3
     },
     {
-     "set": "Sigon's Complete Steel",
+     "group": "Sigon's Complete Steel",
+     "key": "Sigon's Complete Steel",
      "name": "Sigon's Visor",
      "grid": "Stash",
      "x": 0,
@@ -1080,7 +1188,8 @@
      "height": 2
     },
     {
-     "set": "Sigon's Complete Steel",
+     "group": "Sigon's Complete Steel",
+     "key": "Sigon's Complete Steel",
      "name": "Sigon's Gage",
      "grid": "Stash",
      "x": 0,
@@ -1089,7 +1198,8 @@
      "height": 2
     },
     {
-     "set": "Sigon's Complete Steel",
+     "group": "Sigon's Complete Steel",
+     "key": "Sigon's Complete Steel",
      "name": "Sigon's Sabot",
      "grid": "Stash",
      "x": 2,
@@ -1098,7 +1208,8 @@
      "height": 2
     },
     {
-     "set": "Sigon's Complete Steel",
+     "group": "Sigon's Complete Steel",
+     "key": "Sigon's Complete Steel",
      "name": "Sigon's Wrap",
      "grid": "Stash",
      "x": 2,
@@ -1107,7 +1218,8 @@
      "height": 1
     },
     {
-     "set": "Tal Rasha's Wrappings",
+     "group": "Tal Rasha's Wrappings",
+     "key": "Tal Rasha's Wrappings",
      "name": "Tal Rasha's Guardianship",
      "grid": "Stash",
      "x": 2,
@@ -1116,7 +1228,8 @@
      "height": 3
     },
     {
-     "set": "Tal Rasha's Wrappings",
+     "group": "Tal Rasha's Wrappings",
+     "key": "Tal Rasha's Wrappings",
      "name": "Tal Rasha's Horadric Crest",
      "grid": "Stash",
      "x": 2,
@@ -1125,7 +1238,8 @@
      "height": 2
     },
     {
-     "set": "Tal Rasha's Wrappings",
+     "group": "Tal Rasha's Wrappings",
+     "key": "Tal Rasha's Wrappings",
      "name": "Tal Rasha's Lidless Eye",
      "grid": "Stash",
      "x": 4,
@@ -1134,7 +1248,8 @@
      "height": 3
     },
     {
-     "set": "Tal Rasha's Wrappings",
+     "group": "Tal Rasha's Wrappings",
+     "key": "Tal Rasha's Wrappings",
      "name": "Tal Rasha's Fine-Spun Cloth",
      "grid": "Stash",
      "x": 2,
@@ -1143,7 +1258,8 @@
      "height": 1
     },
     {
-     "set": "Tal Rasha's Wrappings",
+     "group": "Tal Rasha's Wrappings",
+     "key": "Tal Rasha's Wrappings",
      "name": "Tal Rasha's Adjudication",
      "grid": "Stash",
      "x": 2,
@@ -1152,7 +1268,8 @@
      "height": 1
     },
     {
-     "set": "Tancred's Battlegear",
+     "group": "Tancred's Battlegear",
+     "key": "Tancred's Battlegear",
      "name": "Tancred's Spine",
      "grid": "Stash",
      "x": 4,
@@ -1161,7 +1278,8 @@
      "height": 3
     },
     {
-     "set": "Tancred's Battlegear",
+     "group": "Tancred's Battlegear",
+     "key": "Tancred's Battlegear",
      "name": "Tancred's Crowbill",
      "grid": "Stash",
      "x": 4,
@@ -1170,7 +1288,8 @@
      "height": 3
     },
     {
-     "set": "Tancred's Battlegear",
+     "group": "Tancred's Battlegear",
+     "key": "Tancred's Battlegear",
      "name": "Tancred's Skull",
      "grid": "Stash",
      "x": 5,
@@ -1179,7 +1298,8 @@
      "height": 2
     },
     {
-     "set": "Tancred's Battlegear",
+     "group": "Tancred's Battlegear",
+     "key": "Tancred's Battlegear",
      "name": "Tancred's Hobnails",
      "grid": "Stash",
      "x": 6,
@@ -1188,7 +1308,8 @@
      "height": 2
     },
     {
-     "set": "Tancred's Battlegear",
+     "group": "Tancred's Battlegear",
+     "key": "Tancred's Battlegear",
      "name": "Tancred's Weird",
      "grid": "Stash",
      "x": 3,
@@ -1197,7 +1318,8 @@
      "height": 1
     },
     {
-     "set": "The Disciple",
+     "group": "The Disciple",
+     "key": "The Disciple",
      "name": "Dark Adherent",
      "grid": "Stash",
      "x": 6,
@@ -1206,7 +1328,8 @@
      "height": 3
     },
     {
-     "set": "The Disciple",
+     "group": "The Disciple",
+     "key": "The Disciple",
      "name": "Laying of Hands",
      "grid": "Stash",
      "x": 6,
@@ -1215,7 +1338,8 @@
      "height": 2
     },
     {
-     "set": "The Disciple",
+     "group": "The Disciple",
+     "key": "The Disciple",
      "name": "Rite of Passage",
      "grid": "Stash",
      "x": 7,
@@ -1224,7 +1348,8 @@
      "height": 2
     },
     {
-     "set": "The Disciple",
+     "group": "The Disciple",
+     "key": "The Disciple",
      "name": "Credendum",
      "grid": "Stash",
      "x": 4,
@@ -1233,7 +1358,8 @@
      "height": 1
     },
     {
-     "set": "The Disciple",
+     "group": "The Disciple",
+     "key": "The Disciple",
      "name": "Telling of Beads",
      "grid": "Stash",
      "x": 5,
@@ -1242,7 +1368,8 @@
      "height": 1
     },
     {
-     "set": "Trang-Oul's Avatar",
+     "group": "Trang-Oul's Avatar",
+     "key": "Trang-Oul's Avatar",
      "name": "Trang-Oul's Scales",
      "grid": "Inventory",
      "x": 0,
@@ -1251,7 +1378,8 @@
      "height": 3
     },
     {
-     "set": "Trang-Oul's Avatar",
+     "group": "Trang-Oul's Avatar",
+     "key": "Trang-Oul's Avatar",
      "name": "Trang-Oul's Guise",
      "grid": "Inventory",
      "x": 2,
@@ -1260,7 +1388,8 @@
      "height": 2
     },
     {
-     "set": "Trang-Oul's Avatar",
+     "group": "Trang-Oul's Avatar",
+     "key": "Trang-Oul's Avatar",
      "name": "Trang-Oul's Wing",
      "grid": "Inventory",
      "x": 2,
@@ -1269,7 +1398,8 @@
      "height": 2
     },
     {
-     "set": "Trang-Oul's Avatar",
+     "group": "Trang-Oul's Avatar",
+     "key": "Trang-Oul's Avatar",
      "name": "Trang-Oul's Claws",
      "grid": "Inventory",
      "x": 4,
@@ -1278,7 +1408,8 @@
      "height": 2
     },
     {
-     "set": "Trang-Oul's Avatar",
+     "group": "Trang-Oul's Avatar",
+     "key": "Trang-Oul's Avatar",
      "name": "Trang-Oul's Girth",
      "grid": "Inventory",
      "x": 0,
@@ -1287,7 +1418,8 @@
      "height": 1
     },
     {
-     "set": "Vidala's Rig",
+     "group": "Vidala's Rig",
+     "key": "Vidala's Rig",
      "name": "Vidala's Barb",
      "grid": "Inventory",
      "x": 6,
@@ -1296,7 +1428,8 @@
      "height": 4
     },
     {
-     "set": "Vidala's Rig",
+     "group": "Vidala's Rig",
+     "key": "Vidala's Rig",
      "name": "Vidala's Ambush",
      "grid": "Inventory",
      "x": 8,
@@ -1305,7 +1438,8 @@
      "height": 3
     },
     {
-     "set": "Vidala's Rig",
+     "group": "Vidala's Rig",
+     "key": "Vidala's Rig",
      "name": "Vidala's Fetlock",
      "grid": "Inventory",
      "x": 4,
@@ -1314,7 +1448,8 @@
      "height": 2
     },
     {
-     "set": "Vidala's Rig",
+     "group": "Vidala's Rig",
+     "key": "Vidala's Rig",
      "name": "Vidala's Snare",
      "grid": "Inventory",
      "x": 8,

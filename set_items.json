@@ -8,7 +8,11 @@
   "height": 2,
   "req_level": 36,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 1,
+  "row": 4
  },
  {
   "set": "Aldur's Watchtower",
@@ -19,7 +23,11 @@
   "height": 3,
   "req_level": 76,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "Aldur's Watchtower",
@@ -30,7 +38,11 @@
   "height": 3,
   "req_level": 42,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 1,
+  "row": 8
  },
  {
   "set": "Aldur's Watchtower",
@@ -41,7 +53,11 @@
   "height": 2,
   "req_level": 45,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 1,
+  "row": 6
  },
  {
   "set": "Angelic Raiment",
@@ -52,7 +68,11 @@
   "height": 3,
   "req_level": 12,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 2,
+  "row": 8
  },
  {
   "set": "Angelic Raiment",
@@ -63,7 +83,11 @@
   "height": 3,
   "req_level": 12,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Angelic Raiment",
@@ -74,7 +98,11 @@
   "height": 1,
   "req_level": 12,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 3,
+  "row": 4
  },
  {
   "set": "Angelic Raiment",
@@ -85,7 +113,11 @@
   "height": 1,
   "req_level": 12,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 3,
+  "row": 5
  },
  {
   "set": "Arcanna's Tricks",
@@ -96,7 +128,11 @@
   "height": 2,
   "req_level": 15,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 4,
+  "row": 8
  },
  {
   "set": "Arcanna's Tricks",
@@ -107,7 +143,11 @@
   "height": 3,
   "req_level": 15,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 4,
+  "row": 5
  },
  {
   "set": "Arcanna's Tricks",
@@ -118,7 +158,11 @@
   "height": 4,
   "req_level": 15,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 4,
+  "row": 1
  },
  {
   "set": "Arcanna's Tricks",
@@ -129,7 +173,11 @@
   "height": 1,
   "req_level": 15,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 3,
+  "row": 6
  },
  {
   "set": "Arctic Gear",
@@ -140,7 +188,11 @@
   "height": 3,
   "req_level": 2,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 6,
+  "row": 1
  },
  {
   "set": "Arctic Gear",
@@ -151,7 +203,11 @@
   "height": 3,
   "req_level": 2,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 6,
+  "row": 4
  },
  {
   "set": "Arctic Gear",
@@ -162,7 +218,11 @@
   "height": 2,
   "req_level": 2,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 6,
+  "row": 7
  },
  {
   "set": "Arctic Gear",
@@ -173,7 +233,11 @@
   "height": 1,
   "req_level": 2,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 4,
+  "row": 10
  },
  {
   "set": "Bane's Garments",
@@ -184,7 +248,11 @@
   "height": 3,
   "req_level": 8,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 8,
+  "row": 1
  },
  {
   "set": "Bane's Garments",
@@ -195,7 +263,11 @@
   "height": 3,
   "req_level": 8,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 8,
+  "row": 4
  },
  {
   "set": "Bane's Garments",
@@ -206,7 +278,11 @@
   "height": 1,
   "req_level": 8,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 6,
+  "row": 9
  },
  {
   "set": "Berserker's Arsenal",
@@ -217,7 +293,11 @@
   "height": 2,
   "req_level": 3,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Inventory",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Berserker's Arsenal",
@@ -228,7 +308,11 @@
   "height": 3,
   "req_level": 3,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "Berserker's Arsenal",
@@ -239,7 +323,11 @@
   "height": 3,
   "req_level": 3,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Inventory",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Bul-Kathos' Children",
@@ -250,7 +338,11 @@
   "height": 4,
   "req_level": 61,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 8,
+  "row": 7
  },
  {
   "set": "Bul-Kathos' Children",
@@ -261,7 +353,11 @@
   "height": 3,
   "req_level": 54,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Stash",
+  "col": 9,
+  "row": 4
  },
  {
   "set": "Cathan's Traps",
@@ -272,7 +368,11 @@
   "height": 2,
   "req_level": 11,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Inventory",
+  "col": 5,
+  "row": 3
  },
  {
   "set": "Cathan's Traps",
@@ -283,7 +383,11 @@
   "height": 3,
   "req_level": 11,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Inventory",
+  "col": 7,
+  "row": 1
  },
  {
   "set": "Cathan's Traps",
@@ -294,7 +398,11 @@
   "height": 4,
   "req_level": 11,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Inventory",
+  "col": 9,
+  "row": 1
  },
  {
   "set": "Cathan's Traps",
@@ -305,7 +413,11 @@
   "height": 1,
   "req_level": 11,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 4
  },
  {
   "set": "Cathan's Traps",
@@ -316,7 +428,11 @@
   "height": 1,
   "req_level": 11,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 1,
+  "grid": "Inventory",
+  "col": 2,
+  "row": 4
  },
  {
   "set": "Civerb's Vestments",
@@ -327,7 +443,11 @@
   "height": 3,
   "req_level": 9,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 1,
+  "row": 4
  },
  {
   "set": "Civerb's Vestments",
@@ -338,7 +458,11 @@
   "height": 3,
   "req_level": 9,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "Civerb's Vestments",
@@ -349,7 +473,11 @@
   "height": 1,
   "req_level": 9,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 1,
+  "row": 7
  },
  {
   "set": "Cleglaw's Brace",
@@ -360,7 +488,11 @@
   "height": 3,
   "req_level": 4,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 1,
+  "row": 8
  },
  {
   "set": "Cleglaw's Brace",
@@ -371,7 +503,11 @@
   "height": 2,
   "req_level": 4,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 2,
+  "row": 4
  },
  {
   "set": "Cleglaw's Brace",
@@ -382,7 +518,11 @@
   "height": 2,
   "req_level": 4,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 2,
+  "row": 6
  },
  {
   "set": "Cow King's Leathers",
@@ -393,7 +533,11 @@
   "height": 2,
   "req_level": 25,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 3,
+  "row": 8
  },
  {
   "set": "Cow King's Leathers",
@@ -404,7 +548,11 @@
   "height": 3,
   "req_level": 18,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Cow King's Leathers",
@@ -415,7 +563,11 @@
   "height": 2,
   "req_level": 13,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 4,
+  "row": 4
  },
  {
   "set": "Death's Disguise",
@@ -426,7 +578,11 @@
   "height": 3,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Death's Disguise",
@@ -437,7 +593,11 @@
   "height": 2,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 4,
+  "row": 6
  },
  {
   "set": "Death's Disguise",
@@ -448,7 +608,11 @@
   "height": 1,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 3,
+  "row": 10
  },
  {
   "set": "Griswold's Legacy",
@@ -459,7 +623,11 @@
   "height": 2,
   "req_level": 69,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 6,
+  "row": 4
  },
  {
   "set": "Griswold's Legacy",
@@ -470,7 +638,11 @@
   "height": 3,
   "req_level": 45,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 5,
+  "row": 8
  },
  {
   "set": "Griswold's Legacy",
@@ -481,7 +653,11 @@
   "height": 3,
   "req_level": 53,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 6,
+  "row": 1
  },
  {
   "set": "Griswold's Legacy",
@@ -492,7 +668,11 @@
   "height": 2,
   "req_level": 68,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 6,
+  "row": 6
  },
  {
   "set": "Heaven's Brethren",
@@ -503,7 +683,11 @@
   "height": 2,
   "req_level": 69,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 8,
+  "row": 5
  },
  {
   "set": "Heaven's Brethren",
@@ -514,7 +698,11 @@
   "height": 3,
   "req_level": 44,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 7,
+  "row": 8
  },
  {
   "set": "Heaven's Brethren",
@@ -525,7 +713,11 @@
   "height": 3,
   "req_level": 68,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 9,
+  "row": 7
  },
  {
   "set": "Heaven's Brethren",
@@ -536,7 +728,11 @@
   "height": 4,
   "req_level": 81,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Stash",
+  "col": 8,
+  "row": 1
  },
  {
   "set": "Horazon's Splendor",
@@ -547,7 +743,11 @@
   "height": 2,
   "req_level": 62,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Inventory",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Horazon's Splendor",
@@ -558,7 +758,11 @@
   "height": 3,
   "req_level": 55,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "Horazon's Splendor",
@@ -569,7 +773,11 @@
   "height": 2,
   "req_level": 57,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Inventory",
+  "col": 3,
+  "row": 3
  },
  {
   "set": "Horazon's Splendor",
@@ -580,7 +788,11 @@
   "height": 2,
   "req_level": 48,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Inventory",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Horazon's Splendor",
@@ -591,7 +803,11 @@
   "height": 2,
   "req_level": 67,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Inventory",
+  "col": 5,
+  "row": 3
  },
  {
   "set": "Hsarus' Defense",
@@ -602,7 +818,11 @@
   "height": 2,
   "req_level": 3,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Inventory",
+  "col": 7,
+  "row": 1
  },
  {
   "set": "Hsarus' Defense",
@@ -613,7 +833,11 @@
   "height": 1,
   "req_level": 3,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 4
  },
  {
   "set": "Hsarus' Defense",
@@ -624,7 +848,11 @@
   "height": 2,
   "req_level": 3,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 2,
+  "grid": "Inventory",
+  "col": 7,
+  "row": 3
  },
  {
   "set": "Hwanin's Majesty",
@@ -635,7 +863,11 @@
   "height": 2,
   "req_level": 45,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 1,
+  "row": 8
  },
  {
   "set": "Hwanin's Majesty",
@@ -646,7 +878,11 @@
   "height": 3,
   "req_level": 30,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 1,
+  "row": 5
  },
  {
   "set": "Hwanin's Majesty",
@@ -657,7 +893,11 @@
   "height": 4,
   "req_level": 28,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "Hwanin's Majesty",
@@ -668,7 +908,11 @@
   "height": 1,
   "req_level": 35,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 1,
+  "row": 10
  },
  {
   "set": "Immortal King",
@@ -679,7 +923,11 @@
   "height": 2,
   "req_level": 47,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 3,
+  "row": 8
  },
  {
   "set": "Immortal King",
@@ -690,7 +938,11 @@
   "height": 3,
   "req_level": 76,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 3,
+  "row": 5
  },
  {
   "set": "Immortal King",
@@ -701,7 +953,11 @@
   "height": 4,
   "req_level": 76,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Immortal King",
@@ -712,7 +968,11 @@
   "height": 2,
   "req_level": 30,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Immortal King",
@@ -723,7 +983,11 @@
   "height": 1,
   "req_level": 29,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 3,
+  "row": 10
  },
  {
   "set": "Immortal King",
@@ -734,7 +998,11 @@
   "height": 2,
   "req_level": 31,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 5,
+  "row": 3
  },
  {
   "set": "Infernal Tools",
@@ -745,7 +1013,11 @@
   "height": 2,
   "req_level": 5,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 5,
+  "row": 5
  },
  {
   "set": "Infernal Tools",
@@ -756,7 +1028,11 @@
   "height": 2,
   "req_level": 5,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 5,
+  "row": 7
  },
  {
   "set": "Infernal Tools",
@@ -767,7 +1043,11 @@
   "height": 1,
   "req_level": 5,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 5,
+  "row": 9
  },
  {
   "set": "Iratha's Finery",
@@ -778,7 +1058,11 @@
   "height": 2,
   "req_level": 15,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 6,
+  "row": 7
  },
  {
   "set": "Iratha's Finery",
@@ -789,7 +1073,11 @@
   "height": 2,
   "req_level": 15,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 7,
+  "row": 1
  },
  {
   "set": "Iratha's Finery",
@@ -800,7 +1088,11 @@
   "height": 1,
   "req_level": 15,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 5,
+  "row": 10
  },
  {
   "set": "Iratha's Finery",
@@ -811,7 +1103,11 @@
   "height": 1,
   "req_level": 15,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Stash",
+  "col": 7,
+  "row": 3
  },
  {
   "set": "Isenhart's Armory",
@@ -822,7 +1118,11 @@
   "height": 2,
   "req_level": 8,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Inventory",
+  "col": 7,
+  "row": 1
  },
  {
   "set": "Isenhart's Armory",
@@ -833,7 +1133,11 @@
   "height": 3,
   "req_level": 8,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Inventory",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Isenhart's Armory",
@@ -844,7 +1148,11 @@
   "height": 3,
   "req_level": 8,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Inventory",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Isenhart's Armory",
@@ -855,7 +1163,11 @@
   "height": 4,
   "req_level": 8,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 3,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "M'avina's Battle Hymn",
@@ -866,7 +1178,11 @@
   "height": 2,
   "req_level": 59,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 1,
+  "row": 8
  },
  {
   "set": "M'avina's Battle Hymn",
@@ -877,7 +1193,11 @@
   "height": 3,
   "req_level": 70,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 1,
+  "row": 5
  },
  {
   "set": "M'avina's Battle Hymn",
@@ -888,7 +1208,11 @@
   "height": 4,
   "req_level": 70,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "M'avina's Battle Hymn",
@@ -899,7 +1223,11 @@
   "height": 2,
   "req_level": 32,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "M'avina's Battle Hymn",
@@ -910,7 +1238,11 @@
   "height": 1,
   "req_level": 45,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 1,
+  "row": 10
  },
  {
   "set": "Milabrega's Regalia",
@@ -921,7 +1253,11 @@
   "height": 2,
   "req_level": 17,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 3,
+  "row": 9
  },
  {
   "set": "Milabrega's Regalia",
@@ -932,7 +1268,11 @@
   "height": 3,
   "req_level": 17,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 3,
+  "row": 3
  },
  {
   "set": "Milabrega's Regalia",
@@ -943,7 +1283,11 @@
   "height": 3,
   "req_level": 17,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 3,
+  "row": 6
  },
  {
   "set": "Milabrega's Regalia",
@@ -954,7 +1298,11 @@
   "height": 3,
   "req_level": 17,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Naj's Ancient Vestige",
@@ -965,7 +1313,11 @@
   "height": 2,
   "req_level": 28,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 6,
+  "row": 7
  },
  {
   "set": "Naj's Ancient Vestige",
@@ -976,7 +1328,11 @@
   "height": 3,
   "req_level": 71,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 5,
+  "row": 4
  },
  {
   "set": "Naj's Ancient Vestige",
@@ -987,7 +1343,11 @@
   "height": 4,
   "req_level": 78,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 5,
+  "row": 7
  },
  {
   "set": "Natalya's Odium",
@@ -998,7 +1358,11 @@
   "height": 2,
   "req_level": 59,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 6,
+  "row": 9
  },
  {
   "set": "Natalya's Odium",
@@ -1009,7 +1373,11 @@
   "height": 3,
   "req_level": 73,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 7,
+  "row": 1
  },
  {
   "set": "Natalya's Odium",
@@ -1020,7 +1388,11 @@
   "height": 3,
   "req_level": 79,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 8,
+  "row": 6
  },
  {
   "set": "Natalya's Odium",
@@ -1031,7 +1403,11 @@
   "height": 2,
   "req_level": 25,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 7,
+  "row": 4
  },
  {
   "set": "Orphan's Call",
@@ -1042,7 +1418,11 @@
   "height": 2,
   "req_level": 34,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 8,
+  "row": 9
  },
  {
   "set": "Orphan's Call",
@@ -1053,7 +1433,11 @@
   "height": 2,
   "req_level": 29,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 9,
+  "row": 1
  },
  {
   "set": "Orphan's Call",
@@ -1064,7 +1448,11 @@
   "height": 2,
   "req_level": 37,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 9,
+  "row": 3
  },
  {
   "set": "Orphan's Call",
@@ -1075,7 +1463,11 @@
   "height": 1,
   "req_level": 42,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Stash",
+  "col": 9,
+  "row": 5
  },
  {
   "set": "Sander's Folly",
@@ -1086,7 +1478,11 @@
   "height": 2,
   "req_level": 25,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "Sander's Folly",
@@ -1097,7 +1493,11 @@
   "height": 2,
   "req_level": 25,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Inventory",
+  "col": 3,
+  "row": 3
  },
  {
   "set": "Sander's Folly",
@@ -1108,7 +1508,11 @@
   "height": 2,
   "req_level": 28,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 3
  },
  {
   "set": "Sander's Folly",
@@ -1119,7 +1523,11 @@
   "height": 2,
   "req_level": 20,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Inventory",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Sazabi's Grand Tribute",
@@ -1130,7 +1538,11 @@
   "height": 2,
   "req_level": 43,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Inventory",
+  "col": 9,
+  "row": 1
  },
  {
   "set": "Sazabi's Grand Tribute",
@@ -1141,7 +1553,11 @@
   "height": 3,
   "req_level": 67,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Inventory",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Sazabi's Grand Tribute",
@@ -1152,7 +1568,11 @@
   "height": 3,
   "req_level": 73,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 4,
+  "grid": "Inventory",
+  "col": 7,
+  "row": 1
  },
  {
   "set": "Sigon's Complete Steel",
@@ -1163,7 +1583,11 @@
   "height": 2,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 1,
+  "row": 7
  },
  {
   "set": "Sigon's Complete Steel",
@@ -1174,7 +1598,11 @@
   "height": 3,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "Sigon's Complete Steel",
@@ -1185,7 +1613,11 @@
   "height": 3,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 1,
+  "row": 4
  },
  {
   "set": "Sigon's Complete Steel",
@@ -1196,7 +1628,11 @@
   "height": 2,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 1,
+  "row": 9
  },
  {
   "set": "Sigon's Complete Steel",
@@ -1207,7 +1643,11 @@
   "height": 1,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 3,
+  "row": 3
  },
  {
   "set": "Sigon's Complete Steel",
@@ -1218,7 +1658,11 @@
   "height": 2,
   "req_level": 6,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Tal Rasha's Wrappings",
@@ -1229,7 +1673,11 @@
   "height": 2,
   "req_level": 66,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 3,
+  "row": 7
  },
  {
   "set": "Tal Rasha's Wrappings",
@@ -1240,7 +1688,11 @@
   "height": 3,
   "req_level": 71,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 3,
+  "row": 4
  },
  {
   "set": "Tal Rasha's Wrappings",
@@ -1251,7 +1703,11 @@
   "height": 3,
   "req_level": 65,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Tal Rasha's Wrappings",
@@ -1262,7 +1718,11 @@
   "height": 1,
   "req_level": 53,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 3,
+  "row": 9
  },
  {
   "set": "Tal Rasha's Wrappings",
@@ -1273,7 +1733,11 @@
   "height": 1,
   "req_level": 67,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 3,
+  "row": 10
  },
  {
   "set": "Tancred's Battlegear",
@@ -1284,7 +1748,11 @@
   "height": 2,
   "req_level": 20,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 6,
+  "row": 1
  },
  {
   "set": "Tancred's Battlegear",
@@ -1295,7 +1763,11 @@
   "height": 3,
   "req_level": 20,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 5,
+  "row": 4
  },
  {
   "set": "Tancred's Battlegear",
@@ -1306,7 +1778,11 @@
   "height": 3,
   "req_level": 20,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 5,
+  "row": 7
  },
  {
   "set": "Tancred's Battlegear",
@@ -1317,7 +1793,11 @@
   "height": 2,
   "req_level": 20,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 7,
+  "row": 3
  },
  {
   "set": "Tancred's Battlegear",
@@ -1328,7 +1808,11 @@
   "height": 1,
   "req_level": 20,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 4,
+  "row": 10
  },
  {
   "set": "The Disciple",
@@ -1339,7 +1823,11 @@
   "height": 3,
   "req_level": 43,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 7,
+  "row": 5
  },
  {
   "set": "The Disciple",
@@ -1350,7 +1838,11 @@
   "height": 2,
   "req_level": 63,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 7,
+  "row": 8
  },
  {
   "set": "The Disciple",
@@ -1361,7 +1853,11 @@
   "height": 1,
   "req_level": 65,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 5,
+  "row": 10
  },
  {
   "set": "The Disciple",
@@ -1372,7 +1868,11 @@
   "height": 2,
   "req_level": 29,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 8,
+  "row": 1
  },
  {
   "set": "The Disciple",
@@ -1383,7 +1883,11 @@
   "height": 1,
   "req_level": 30,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Stash",
+  "col": 6,
+  "row": 3
  },
  {
   "set": "Trang-Oul's Avatar",
@@ -1394,7 +1898,11 @@
   "height": 2,
   "req_level": 65,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 3,
+  "row": 1
  },
  {
   "set": "Trang-Oul's Avatar",
@@ -1405,7 +1913,11 @@
   "height": 3,
   "req_level": 49,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 1
  },
  {
   "set": "Trang-Oul's Avatar",
@@ -1416,7 +1928,11 @@
   "height": 2,
   "req_level": 54,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 3,
+  "row": 3
  },
  {
   "set": "Trang-Oul's Avatar",
@@ -1427,7 +1943,11 @@
   "height": 2,
   "req_level": 45,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 5,
+  "row": 1
  },
  {
   "set": "Trang-Oul's Avatar",
@@ -1438,7 +1958,11 @@
   "height": 1,
   "req_level": 47,
   "expansion": true,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 1,
+  "row": 4
  },
  {
   "set": "Vidala's Rig",
@@ -1449,7 +1973,11 @@
   "height": 3,
   "req_level": 14,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 9,
+  "row": 1
  },
  {
   "set": "Vidala's Rig",
@@ -1460,7 +1988,11 @@
   "height": 4,
   "req_level": 14,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 7,
+  "row": 1
  },
  {
   "set": "Vidala's Rig",
@@ -1471,7 +2003,11 @@
   "height": 2,
   "req_level": 14,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 5,
+  "row": 3
  },
  {
   "set": "Vidala's Rig",
@@ -1482,7 +2018,11 @@
   "height": 1,
   "req_level": 14,
   "expansion": false,
-  "obtainable": true
+  "obtainable": true,
+  "mule": 5,
+  "grid": "Inventory",
+  "col": 9,
+  "row": 4
  },
  {
   "set": "Warlord's Glory",
@@ -1493,7 +2033,11 @@
   "height": 2,
   "req_level": 1,
   "expansion": true,
-  "obtainable": false
+  "obtainable": false,
+  "mule": null,
+  "grid": null,
+  "col": null,
+  "row": null
  },
  {
   "set": "Warlord's Glory",
@@ -1504,7 +2048,11 @@
   "height": 3,
   "req_level": 1,
   "expansion": true,
-  "obtainable": false
+  "obtainable": false,
+  "mule": null,
+  "grid": null,
+  "col": null,
+  "row": null
  },
  {
   "set": "Warlord's Glory",
@@ -1515,7 +2063,11 @@
   "height": 2,
   "req_level": 1,
   "expansion": true,
-  "obtainable": false
+  "obtainable": false,
+  "mule": null,
+  "grid": null,
+  "col": null,
+  "row": null
  },
  {
   "set": "Warlord's Glory",
@@ -1526,7 +2078,11 @@
   "height": 1,
   "req_level": 1,
   "expansion": true,
-  "obtainable": false
+  "obtainable": false,
+  "mule": null,
+  "grid": null,
+  "col": null,
+  "row": null
  },
  {
   "set": "Warlord's Glory",
@@ -1537,6 +2093,10 @@
   "height": 2,
   "req_level": 1,
   "expansion": true,
-  "obtainable": false
+  "obtainable": false,
+  "mule": null,
+  "grid": null,
+  "col": null,
+  "row": null
  }
 ]

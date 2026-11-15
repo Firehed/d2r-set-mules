@@ -1,141 +1,141 @@
-set,name,base,slot,width,height,req_level,expansion,obtainable
-Aldur's Watchtower,Aldur's Stony Gaze,Hunter's Guise,Helm,2,2,36,True,True
-Aldur's Watchtower,Aldur's Deception,Shadow Plate,Armor,2,3,76,True,True
-Aldur's Watchtower,Aldur's Rhythm,Jagged Star,Weapon,1,3,42,True,True
-Aldur's Watchtower,Aldur's Advance,Battle Boots,Boots,2,2,45,True,True
-Angelic Raiment,Angelic Mantle,Ring Mail,Armor,2,3,12,False,True
-Angelic Raiment,Angelic Sickle,Sabre,Weapon,1,3,12,False,True
-Angelic Raiment,Angelic Wings,Amulet,Amulet,1,1,12,False,True
-Angelic Raiment,Angelic Halo,Ring,Ring,1,1,12,False,True
-Arcanna's Tricks,Arcanna's Head,Skull Cap,Helm,2,2,15,False,True
-Arcanna's Tricks,Arcanna's Flesh,Light Plate,Armor,2,3,15,False,True
-Arcanna's Tricks,Arcanna's Deathwand,War Staff,Weapon,2,4,15,False,True
-Arcanna's Tricks,Arcanna's Sign,Amulet,Amulet,1,1,15,False,True
-Arctic Gear,Arctic Furs,Quilted Armor,Armor,2,3,2,False,True
-Arctic Gear,Arctic Horn,Short War Bow,Weapon,2,3,2,False,True
-Arctic Gear,Arctic Mitts,Light Gauntlets,Gloves,2,2,2,False,True
-Arctic Gear,Arctic Binding,Light Belt,Belt,2,1,2,False,True
-Bane's Garments,Bane's Wraithskin,Hard Leather Armor,Armor,2,3,8,True,True
-Bane's Garments,Bane's Oathmaker,Kris,Weapon,1,3,8,True,True
-Bane's Garments,Bane's Authority,Light Belt,Belt,2,1,8,True,True
-Berserker's Arsenal,Berserker's Headgear,Helm,Helm,2,2,3,False,True
-Berserker's Arsenal,Berserker's Hauberk,Splint Mail,Armor,2,3,3,False,True
-Berserker's Arsenal,Berserker's Hatchet,Double Axe,Weapon,2,3,3,False,True
-Bul-Kathos' Children,Bul-Kathos' Sacred Charge,Colossus Blade,Weapon,2,4,61,True,True
-Bul-Kathos' Children,Bul-Kathos' Tribal Guardian,Mythical Sword,Weapon,1,3,54,True,True
-Cathan's Traps,Cathan's Visage,Mask,Helm,2,2,11,False,True
-Cathan's Traps,Cathan's Mesh,Chain Mail,Armor,2,3,11,False,True
-Cathan's Traps,Cathan's Rule,Battle Staff,Weapon,1,4,11,False,True
-Cathan's Traps,Cathan's Sigil,Amulet,Amulet,1,1,11,False,True
-Cathan's Traps,Cathan's Seal,Ring,Ring,1,1,11,False,True
-Civerb's Vestments,Civerb's Cudgel,Grand Scepter,Weapon,1,3,9,False,True
-Civerb's Vestments,Civerb's Ward,Large Shield,Shield,2,3,9,False,True
-Civerb's Vestments,Civerb's Icon,Amulet,Amulet,1,1,9,False,True
-Cleglaw's Brace,Cleglaw's Tooth,Long Sword,Weapon,2,3,4,False,True
-Cleglaw's Brace,Cleglaw's Claw,Small Shield,Shield,2,2,4,False,True
-Cleglaw's Brace,Cleglaw's Pincers,Chain Gloves,Gloves,2,2,4,False,True
-Cow King's Leathers,Cow King's Horns,War Hat,Helm,2,2,25,True,True
-Cow King's Leathers,Cow King's Hide,Studded Leather,Armor,2,3,18,True,True
-Cow King's Leathers,Cow King's Hooves,Heavy Boots,Boots,2,2,13,True,True
-Death's Disguise,Death's Touch,War Sword,Weapon,1,3,6,False,True
-Death's Disguise,Death's Hand,Leather Gloves,Gloves,2,2,6,False,True
-Death's Disguise,Death's Guard,Sash,Belt,2,1,6,False,True
-Griswold's Legacy,Griswold's Valor,Corona,Helm,2,2,69,True,True
-Griswold's Legacy,Griswold's Heart,Ornate Plate,Armor,2,3,45,True,True
-Griswold's Legacy,Griswold's Redemption,Caduceus,Weapon,2,3,53,True,True
-Griswold's Legacy,Griswold's Honor,Vortex Shield,Shield,2,2,68,True,True
-Heaven's Brethren,Ondal's Almighty,Spired Helm,Helm,2,2,69,True,True
-Heaven's Brethren,Haemosu's Adamant,Cuirass,Armor,2,3,44,True,True
-Heaven's Brethren,Dangoon's Teaching,Reinforced Mace,Weapon,1,3,68,True,True
-Heaven's Brethren,Taebaek's Glory,Ward,Shield,2,4,81,True,True
-Horazon's Splendor,Horazon's Countenance,Demonhead,Helm,2,2,62,True,True
-Horazon's Splendor,Horazon's Dominion,Russet Armor,Armor,2,3,55,True,True
-Horazon's Splendor,Horazon's Secrets,Occult Codex,Shield,2,2,57,True,True
-Horazon's Splendor,Horazon's Hold,Demonhide Gloves,Gloves,2,2,48,True,True
-Horazon's Splendor,Horazon's Legacy,Mirrored Boots,Boots,2,2,67,True,True
-Hsarus' Defense,Hsarus' Iron Fist,Buckler,Shield,2,2,3,False,True
-Hsarus' Defense,Hsarus' Iron Stay,Belt,Belt,2,1,3,False,True
-Hsarus' Defense,Hsarus' Iron Heel,Chain Boots,Boots,2,2,3,False,True
-Hwanin's Majesty,Hwanin's Splendor,Grand Crown,Helm,2,2,45,True,True
-Hwanin's Majesty,Hwanin's Refuge,Tigulated Mail,Armor,2,3,30,True,True
-Hwanin's Majesty,Hwanin's Justice,Bill,Weapon,2,4,28,True,True
-Hwanin's Majesty,Hwanin's Blessing,Belt,Belt,2,1,35,True,True
-Immortal King,Immortal King's Will,Avenger Guard,Helm,2,2,47,True,True
-Immortal King,Immortal King's Soul Cage,Sacred Armor,Armor,2,3,76,True,True
-Immortal King,Immortal King's Stone Crusher,Ogre Maul,Weapon,2,4,76,True,True
-Immortal King,Immortal King's Forge,War Gauntlets,Gloves,2,2,30,True,True
-Immortal King,Immortal King's Detail,War Belt,Belt,2,1,29,True,True
-Immortal King,Immortal King's Pillar,War Boots,Boots,2,2,31,True,True
-Infernal Tools,Infernal Cranium,Cap,Helm,2,2,5,False,True
-Infernal Tools,Infernal Torch,Grim Wand,Weapon,1,2,5,False,True
-Infernal Tools,Infernal Sign,Heavy Belt,Belt,2,1,5,False,True
-Iratha's Finery,Iratha's Coil,Crown,Helm,2,2,15,False,True
-Iratha's Finery,Iratha's Cuff,Light Gauntlets,Gloves,2,2,15,False,True
-Iratha's Finery,Iratha's Cord,Heavy Belt,Belt,2,1,15,False,True
-Iratha's Finery,Iratha's Collar,Amulet,Amulet,1,1,15,False,True
-Isenhart's Armory,Isenhart's Horns,Full Helm,Helm,2,2,8,False,True
-Isenhart's Armory,Isenhart's Case,Breast Plate,Armor,2,3,8,False,True
-Isenhart's Armory,Isenhart's Lightbrand,Broad Sword,Weapon,2,3,8,False,True
-Isenhart's Armory,Isenhart's Parry,Gothic Shield,Shield,2,4,8,False,True
-M'avina's Battle Hymn,M'avina's True Sight,Diadem,Helm,2,2,59,True,True
-M'avina's Battle Hymn,M'avina's Embrace,Kraken Shell,Armor,2,3,70,True,True
-M'avina's Battle Hymn,M'avina's Caster,Grand Matron Bow,Weapon,2,4,70,True,True
-M'avina's Battle Hymn,M'avina's Icy Clutch,Battle Gauntlets,Gloves,2,2,32,True,True
-M'avina's Battle Hymn,M'avina's Tenet,Sharkskin Belt,Belt,2,1,45,True,True
-Milabrega's Regalia,Milabrega's Diadem,Crown,Helm,2,2,17,False,True
-Milabrega's Regalia,Milabrega's Robe,Ancient Armor,Armor,2,3,17,False,True
-Milabrega's Regalia,Milabrega's Rod,War Scepter,Weapon,2,3,17,False,True
-Milabrega's Regalia,Milabrega's Orb,Kite Shield,Shield,2,3,17,False,True
-Naj's Ancient Vestige,Naj's Circlet,Circlet,Helm,2,2,28,True,True
-Naj's Ancient Vestige,Naj's Light Plate,Hellforge Plate,Armor,2,3,71,True,True
-Naj's Ancient Vestige,Naj's Puzzler,Elder Staff,Weapon,1,4,78,True,True
-Natalya's Odium,Natalya's Totem,Grim Helm,Helm,2,2,59,True,True
-Natalya's Odium,Natalya's Shadow,Loricated Mail,Armor,2,3,73,True,True
-Natalya's Odium,Natalya's Mark,Scissors Suwayyah,Weapon,1,3,79,True,True
-Natalya's Odium,Natalya's Soul,Mesh Boots,Boots,2,2,25,True,True
-Orphan's Call,Guillaume's Face,Winged Helm,Helm,2,2,34,True,True
-Orphan's Call,Whitstan's Guard,Round Shield,Shield,2,2,29,True,True
-Orphan's Call,Magnus' Skin,Sharkskin Gloves,Gloves,2,2,37,True,True
-Orphan's Call,Wilhelm's Pride,Battle Belt,Belt,2,1,42,True,True
-Sander's Folly,Sander's Paragon,Cap,Helm,2,2,25,True,True
-Sander's Folly,Sander's Superstition,Bone Wand,Weapon,1,2,25,True,True
-Sander's Folly,Sander's Taboo,Heavy Gloves,Gloves,2,2,28,True,True
-Sander's Folly,Sander's Riprap,Heavy Boots,Boots,2,2,20,True,True
-Sazabi's Grand Tribute,Sazabi's Mental Sheath,Basinet,Helm,2,2,43,True,True
-Sazabi's Grand Tribute,Sazabi's Ghost Liberator,Balrog Skin,Armor,2,3,67,True,True
-Sazabi's Grand Tribute,Sazabi's Cobalt Redeemer,Cryptic Sword,Weapon,2,3,73,True,True
-Sigon's Complete Steel,Sigon's Visor,Great Helm,Helm,2,2,6,False,True
-Sigon's Complete Steel,Sigon's Shelter,Gothic Plate,Armor,2,3,6,False,True
-Sigon's Complete Steel,Sigon's Guard,Tower Shield,Shield,2,3,6,False,True
-Sigon's Complete Steel,Sigon's Gage,Gauntlets,Gloves,2,2,6,False,True
-Sigon's Complete Steel,Sigon's Wrap,Plated Belt,Belt,2,1,6,False,True
-Sigon's Complete Steel,Sigon's Sabot,Greaves,Boots,2,2,6,False,True
-Tal Rasha's Wrappings,Tal Rasha's Horadric Crest,Death Mask,Helm,2,2,66,True,True
-Tal Rasha's Wrappings,Tal Rasha's Guardianship,Lacquered Plate,Armor,2,3,71,True,True
-Tal Rasha's Wrappings,Tal Rasha's Lidless Eye,Swirling Crystal,Weapon,1,3,65,True,True
-Tal Rasha's Wrappings,Tal Rasha's Fine-Spun Cloth,Mesh Belt,Belt,2,1,53,True,True
-Tal Rasha's Wrappings,Tal Rasha's Adjudication,Amulet,Amulet,1,1,67,True,True
-Tancred's Battlegear,Tancred's Skull,Bone Helm,Helm,2,2,20,False,True
-Tancred's Battlegear,Tancred's Spine,Full Plate Mail,Armor,2,3,20,False,True
-Tancred's Battlegear,Tancred's Crowbill,Military Pick,Weapon,2,3,20,False,True
-Tancred's Battlegear,Tancred's Hobnails,Boots,Boots,2,2,20,False,True
-Tancred's Battlegear,Tancred's Weird,Amulet,Amulet,1,1,20,False,True
-The Disciple,Dark Adherent,Dusk Shroud,Armor,2,3,43,True,True
-The Disciple,Laying of Hands,Bramble Mitts,Gloves,2,2,63,True,True
-The Disciple,Credendum,Mithril Coil,Belt,2,1,65,True,True
-The Disciple,Rite of Passage,Demonhide Boots,Boots,2,2,29,True,True
-The Disciple,Telling of Beads,Amulet,Amulet,1,1,30,True,True
-Trang-Oul's Avatar,Trang-Oul's Guise,Bone Visage,Helm,2,2,65,True,True
-Trang-Oul's Avatar,Trang-Oul's Scales,Chaos Armor,Armor,2,3,49,True,True
-Trang-Oul's Avatar,Trang-Oul's Wing,Cantor Trophy,Shield,2,2,54,True,True
-Trang-Oul's Avatar,Trang-Oul's Claws,Heavy Bracers,Gloves,2,2,45,True,True
-Trang-Oul's Avatar,Trang-Oul's Girth,Troll Belt,Belt,2,1,47,True,True
-Vidala's Rig,Vidala's Ambush,Leather Armor,Armor,2,3,14,False,True
-Vidala's Rig,Vidala's Barb,Long Battle Bow,Weapon,2,4,14,False,True
-Vidala's Rig,Vidala's Fetlock,Light Plated Boots,Boots,2,2,14,False,True
-Vidala's Rig,Vidala's Snare,Amulet,Amulet,1,1,14,False,True
-Warlord's Glory,Warlord's Lust,Great Helm,Helm,2,2,1,True,False
-Warlord's Glory,Warlord's Mantle,Full Plate Mail,Armor,2,3,1,True,False
-Warlord's Glory,Warlord's Conquest,Gauntlets,Gloves,2,2,1,True,False
-Warlord's Glory,Warlord's Authority,Plated Belt,Belt,2,1,1,True,False
-Warlord's Glory,Warlord's Crushers,Greaves,Boots,2,2,1,True,False
+set,name,base,slot,width,height,req_level,expansion,obtainable,mule,grid,col,row
+Aldur's Watchtower,Aldur's Stony Gaze,Hunter's Guise,Helm,2,2,36,True,True,1,Stash,1,4
+Aldur's Watchtower,Aldur's Deception,Shadow Plate,Armor,2,3,76,True,True,1,Stash,1,1
+Aldur's Watchtower,Aldur's Rhythm,Jagged Star,Weapon,1,3,42,True,True,1,Stash,1,8
+Aldur's Watchtower,Aldur's Advance,Battle Boots,Boots,2,2,45,True,True,1,Stash,1,6
+Angelic Raiment,Angelic Mantle,Ring Mail,Armor,2,3,12,False,True,1,Stash,2,8
+Angelic Raiment,Angelic Sickle,Sabre,Weapon,1,3,12,False,True,1,Stash,3,1
+Angelic Raiment,Angelic Wings,Amulet,Amulet,1,1,12,False,True,1,Stash,3,4
+Angelic Raiment,Angelic Halo,Ring,Ring,1,1,12,False,True,1,Stash,3,5
+Arcanna's Tricks,Arcanna's Head,Skull Cap,Helm,2,2,15,False,True,1,Stash,4,8
+Arcanna's Tricks,Arcanna's Flesh,Light Plate,Armor,2,3,15,False,True,1,Stash,4,5
+Arcanna's Tricks,Arcanna's Deathwand,War Staff,Weapon,2,4,15,False,True,1,Stash,4,1
+Arcanna's Tricks,Arcanna's Sign,Amulet,Amulet,1,1,15,False,True,1,Stash,3,6
+Arctic Gear,Arctic Furs,Quilted Armor,Armor,2,3,2,False,True,1,Stash,6,1
+Arctic Gear,Arctic Horn,Short War Bow,Weapon,2,3,2,False,True,1,Stash,6,4
+Arctic Gear,Arctic Mitts,Light Gauntlets,Gloves,2,2,2,False,True,1,Stash,6,7
+Arctic Gear,Arctic Binding,Light Belt,Belt,2,1,2,False,True,1,Stash,4,10
+Bane's Garments,Bane's Wraithskin,Hard Leather Armor,Armor,2,3,8,True,True,1,Stash,8,1
+Bane's Garments,Bane's Oathmaker,Kris,Weapon,1,3,8,True,True,1,Stash,8,4
+Bane's Garments,Bane's Authority,Light Belt,Belt,2,1,8,True,True,1,Stash,6,9
+Berserker's Arsenal,Berserker's Headgear,Helm,Helm,2,2,3,False,True,1,Inventory,5,1
+Berserker's Arsenal,Berserker's Hauberk,Splint Mail,Armor,2,3,3,False,True,1,Inventory,1,1
+Berserker's Arsenal,Berserker's Hatchet,Double Axe,Weapon,2,3,3,False,True,1,Inventory,3,1
+Bul-Kathos' Children,Bul-Kathos' Sacred Charge,Colossus Blade,Weapon,2,4,61,True,True,1,Stash,8,7
+Bul-Kathos' Children,Bul-Kathos' Tribal Guardian,Mythical Sword,Weapon,1,3,54,True,True,1,Stash,9,4
+Cathan's Traps,Cathan's Visage,Mask,Helm,2,2,11,False,True,1,Inventory,5,3
+Cathan's Traps,Cathan's Mesh,Chain Mail,Armor,2,3,11,False,True,1,Inventory,7,1
+Cathan's Traps,Cathan's Rule,Battle Staff,Weapon,1,4,11,False,True,1,Inventory,9,1
+Cathan's Traps,Cathan's Sigil,Amulet,Amulet,1,1,11,False,True,1,Inventory,1,4
+Cathan's Traps,Cathan's Seal,Ring,Ring,1,1,11,False,True,1,Inventory,2,4
+Civerb's Vestments,Civerb's Cudgel,Grand Scepter,Weapon,1,3,9,False,True,2,Stash,1,4
+Civerb's Vestments,Civerb's Ward,Large Shield,Shield,2,3,9,False,True,2,Stash,1,1
+Civerb's Vestments,Civerb's Icon,Amulet,Amulet,1,1,9,False,True,2,Stash,1,7
+Cleglaw's Brace,Cleglaw's Tooth,Long Sword,Weapon,2,3,4,False,True,2,Stash,1,8
+Cleglaw's Brace,Cleglaw's Claw,Small Shield,Shield,2,2,4,False,True,2,Stash,2,4
+Cleglaw's Brace,Cleglaw's Pincers,Chain Gloves,Gloves,2,2,4,False,True,2,Stash,2,6
+Cow King's Leathers,Cow King's Horns,War Hat,Helm,2,2,25,True,True,2,Stash,3,8
+Cow King's Leathers,Cow King's Hide,Studded Leather,Armor,2,3,18,True,True,2,Stash,3,1
+Cow King's Leathers,Cow King's Hooves,Heavy Boots,Boots,2,2,13,True,True,2,Stash,4,4
+Death's Disguise,Death's Touch,War Sword,Weapon,1,3,6,False,True,2,Stash,5,1
+Death's Disguise,Death's Hand,Leather Gloves,Gloves,2,2,6,False,True,2,Stash,4,6
+Death's Disguise,Death's Guard,Sash,Belt,2,1,6,False,True,2,Stash,3,10
+Griswold's Legacy,Griswold's Valor,Corona,Helm,2,2,69,True,True,2,Stash,6,4
+Griswold's Legacy,Griswold's Heart,Ornate Plate,Armor,2,3,45,True,True,2,Stash,5,8
+Griswold's Legacy,Griswold's Redemption,Caduceus,Weapon,2,3,53,True,True,2,Stash,6,1
+Griswold's Legacy,Griswold's Honor,Vortex Shield,Shield,2,2,68,True,True,2,Stash,6,6
+Heaven's Brethren,Ondal's Almighty,Spired Helm,Helm,2,2,69,True,True,2,Stash,8,5
+Heaven's Brethren,Haemosu's Adamant,Cuirass,Armor,2,3,44,True,True,2,Stash,7,8
+Heaven's Brethren,Dangoon's Teaching,Reinforced Mace,Weapon,1,3,68,True,True,2,Stash,9,7
+Heaven's Brethren,Taebaek's Glory,Ward,Shield,2,4,81,True,True,2,Stash,8,1
+Horazon's Splendor,Horazon's Countenance,Demonhead,Helm,2,2,62,True,True,2,Inventory,3,1
+Horazon's Splendor,Horazon's Dominion,Russet Armor,Armor,2,3,55,True,True,2,Inventory,1,1
+Horazon's Splendor,Horazon's Secrets,Occult Codex,Shield,2,2,57,True,True,2,Inventory,3,3
+Horazon's Splendor,Horazon's Hold,Demonhide Gloves,Gloves,2,2,48,True,True,2,Inventory,5,1
+Horazon's Splendor,Horazon's Legacy,Mirrored Boots,Boots,2,2,67,True,True,2,Inventory,5,3
+Hsarus' Defense,Hsarus' Iron Fist,Buckler,Shield,2,2,3,False,True,2,Inventory,7,1
+Hsarus' Defense,Hsarus' Iron Stay,Belt,Belt,2,1,3,False,True,2,Inventory,1,4
+Hsarus' Defense,Hsarus' Iron Heel,Chain Boots,Boots,2,2,3,False,True,2,Inventory,7,3
+Hwanin's Majesty,Hwanin's Splendor,Grand Crown,Helm,2,2,45,True,True,3,Stash,1,8
+Hwanin's Majesty,Hwanin's Refuge,Tigulated Mail,Armor,2,3,30,True,True,3,Stash,1,5
+Hwanin's Majesty,Hwanin's Justice,Bill,Weapon,2,4,28,True,True,3,Stash,1,1
+Hwanin's Majesty,Hwanin's Blessing,Belt,Belt,2,1,35,True,True,3,Stash,1,10
+Immortal King,Immortal King's Will,Avenger Guard,Helm,2,2,47,True,True,3,Stash,3,8
+Immortal King,Immortal King's Soul Cage,Sacred Armor,Armor,2,3,76,True,True,3,Stash,3,5
+Immortal King,Immortal King's Stone Crusher,Ogre Maul,Weapon,2,4,76,True,True,3,Stash,3,1
+Immortal King,Immortal King's Forge,War Gauntlets,Gloves,2,2,30,True,True,3,Stash,5,1
+Immortal King,Immortal King's Detail,War Belt,Belt,2,1,29,True,True,3,Stash,3,10
+Immortal King,Immortal King's Pillar,War Boots,Boots,2,2,31,True,True,3,Stash,5,3
+Infernal Tools,Infernal Cranium,Cap,Helm,2,2,5,False,True,3,Stash,5,5
+Infernal Tools,Infernal Torch,Grim Wand,Weapon,1,2,5,False,True,3,Stash,5,7
+Infernal Tools,Infernal Sign,Heavy Belt,Belt,2,1,5,False,True,3,Stash,5,9
+Iratha's Finery,Iratha's Coil,Crown,Helm,2,2,15,False,True,3,Stash,6,7
+Iratha's Finery,Iratha's Cuff,Light Gauntlets,Gloves,2,2,15,False,True,3,Stash,7,1
+Iratha's Finery,Iratha's Cord,Heavy Belt,Belt,2,1,15,False,True,3,Stash,5,10
+Iratha's Finery,Iratha's Collar,Amulet,Amulet,1,1,15,False,True,3,Stash,7,3
+Isenhart's Armory,Isenhart's Horns,Full Helm,Helm,2,2,8,False,True,3,Inventory,7,1
+Isenhart's Armory,Isenhart's Case,Breast Plate,Armor,2,3,8,False,True,3,Inventory,3,1
+Isenhart's Armory,Isenhart's Lightbrand,Broad Sword,Weapon,2,3,8,False,True,3,Inventory,5,1
+Isenhart's Armory,Isenhart's Parry,Gothic Shield,Shield,2,4,8,False,True,3,Inventory,1,1
+M'avina's Battle Hymn,M'avina's True Sight,Diadem,Helm,2,2,59,True,True,4,Stash,1,8
+M'avina's Battle Hymn,M'avina's Embrace,Kraken Shell,Armor,2,3,70,True,True,4,Stash,1,5
+M'avina's Battle Hymn,M'avina's Caster,Grand Matron Bow,Weapon,2,4,70,True,True,4,Stash,1,1
+M'avina's Battle Hymn,M'avina's Icy Clutch,Battle Gauntlets,Gloves,2,2,32,True,True,4,Stash,3,1
+M'avina's Battle Hymn,M'avina's Tenet,Sharkskin Belt,Belt,2,1,45,True,True,4,Stash,1,10
+Milabrega's Regalia,Milabrega's Diadem,Crown,Helm,2,2,17,False,True,4,Stash,3,9
+Milabrega's Regalia,Milabrega's Robe,Ancient Armor,Armor,2,3,17,False,True,4,Stash,3,3
+Milabrega's Regalia,Milabrega's Rod,War Scepter,Weapon,2,3,17,False,True,4,Stash,3,6
+Milabrega's Regalia,Milabrega's Orb,Kite Shield,Shield,2,3,17,False,True,4,Stash,5,1
+Naj's Ancient Vestige,Naj's Circlet,Circlet,Helm,2,2,28,True,True,4,Stash,6,7
+Naj's Ancient Vestige,Naj's Light Plate,Hellforge Plate,Armor,2,3,71,True,True,4,Stash,5,4
+Naj's Ancient Vestige,Naj's Puzzler,Elder Staff,Weapon,1,4,78,True,True,4,Stash,5,7
+Natalya's Odium,Natalya's Totem,Grim Helm,Helm,2,2,59,True,True,4,Stash,6,9
+Natalya's Odium,Natalya's Shadow,Loricated Mail,Armor,2,3,73,True,True,4,Stash,7,1
+Natalya's Odium,Natalya's Mark,Scissors Suwayyah,Weapon,1,3,79,True,True,4,Stash,8,6
+Natalya's Odium,Natalya's Soul,Mesh Boots,Boots,2,2,25,True,True,4,Stash,7,4
+Orphan's Call,Guillaume's Face,Winged Helm,Helm,2,2,34,True,True,4,Stash,8,9
+Orphan's Call,Whitstan's Guard,Round Shield,Shield,2,2,29,True,True,4,Stash,9,1
+Orphan's Call,Magnus' Skin,Sharkskin Gloves,Gloves,2,2,37,True,True,4,Stash,9,3
+Orphan's Call,Wilhelm's Pride,Battle Belt,Belt,2,1,42,True,True,4,Stash,9,5
+Sander's Folly,Sander's Paragon,Cap,Helm,2,2,25,True,True,4,Inventory,1,1
+Sander's Folly,Sander's Superstition,Bone Wand,Weapon,1,2,25,True,True,4,Inventory,3,3
+Sander's Folly,Sander's Taboo,Heavy Gloves,Gloves,2,2,28,True,True,4,Inventory,1,3
+Sander's Folly,Sander's Riprap,Heavy Boots,Boots,2,2,20,True,True,4,Inventory,3,1
+Sazabi's Grand Tribute,Sazabi's Mental Sheath,Basinet,Helm,2,2,43,True,True,4,Inventory,9,1
+Sazabi's Grand Tribute,Sazabi's Ghost Liberator,Balrog Skin,Armor,2,3,67,True,True,4,Inventory,5,1
+Sazabi's Grand Tribute,Sazabi's Cobalt Redeemer,Cryptic Sword,Weapon,2,3,73,True,True,4,Inventory,7,1
+Sigon's Complete Steel,Sigon's Visor,Great Helm,Helm,2,2,6,False,True,5,Stash,1,7
+Sigon's Complete Steel,Sigon's Shelter,Gothic Plate,Armor,2,3,6,False,True,5,Stash,1,1
+Sigon's Complete Steel,Sigon's Guard,Tower Shield,Shield,2,3,6,False,True,5,Stash,1,4
+Sigon's Complete Steel,Sigon's Gage,Gauntlets,Gloves,2,2,6,False,True,5,Stash,1,9
+Sigon's Complete Steel,Sigon's Wrap,Plated Belt,Belt,2,1,6,False,True,5,Stash,3,3
+Sigon's Complete Steel,Sigon's Sabot,Greaves,Boots,2,2,6,False,True,5,Stash,3,1
+Tal Rasha's Wrappings,Tal Rasha's Horadric Crest,Death Mask,Helm,2,2,66,True,True,5,Stash,3,7
+Tal Rasha's Wrappings,Tal Rasha's Guardianship,Lacquered Plate,Armor,2,3,71,True,True,5,Stash,3,4
+Tal Rasha's Wrappings,Tal Rasha's Lidless Eye,Swirling Crystal,Weapon,1,3,65,True,True,5,Stash,5,1
+Tal Rasha's Wrappings,Tal Rasha's Fine-Spun Cloth,Mesh Belt,Belt,2,1,53,True,True,5,Stash,3,9
+Tal Rasha's Wrappings,Tal Rasha's Adjudication,Amulet,Amulet,1,1,67,True,True,5,Stash,3,10
+Tancred's Battlegear,Tancred's Skull,Bone Helm,Helm,2,2,20,False,True,5,Stash,6,1
+Tancred's Battlegear,Tancred's Spine,Full Plate Mail,Armor,2,3,20,False,True,5,Stash,5,4
+Tancred's Battlegear,Tancred's Crowbill,Military Pick,Weapon,2,3,20,False,True,5,Stash,5,7
+Tancred's Battlegear,Tancred's Hobnails,Boots,Boots,2,2,20,False,True,5,Stash,7,3
+Tancred's Battlegear,Tancred's Weird,Amulet,Amulet,1,1,20,False,True,5,Stash,4,10
+The Disciple,Dark Adherent,Dusk Shroud,Armor,2,3,43,True,True,5,Stash,7,5
+The Disciple,Laying of Hands,Bramble Mitts,Gloves,2,2,63,True,True,5,Stash,7,8
+The Disciple,Credendum,Mithril Coil,Belt,2,1,65,True,True,5,Stash,5,10
+The Disciple,Rite of Passage,Demonhide Boots,Boots,2,2,29,True,True,5,Stash,8,1
+The Disciple,Telling of Beads,Amulet,Amulet,1,1,30,True,True,5,Stash,6,3
+Trang-Oul's Avatar,Trang-Oul's Guise,Bone Visage,Helm,2,2,65,True,True,5,Inventory,3,1
+Trang-Oul's Avatar,Trang-Oul's Scales,Chaos Armor,Armor,2,3,49,True,True,5,Inventory,1,1
+Trang-Oul's Avatar,Trang-Oul's Wing,Cantor Trophy,Shield,2,2,54,True,True,5,Inventory,3,3
+Trang-Oul's Avatar,Trang-Oul's Claws,Heavy Bracers,Gloves,2,2,45,True,True,5,Inventory,5,1
+Trang-Oul's Avatar,Trang-Oul's Girth,Troll Belt,Belt,2,1,47,True,True,5,Inventory,1,4
+Vidala's Rig,Vidala's Ambush,Leather Armor,Armor,2,3,14,False,True,5,Inventory,9,1
+Vidala's Rig,Vidala's Barb,Long Battle Bow,Weapon,2,4,14,False,True,5,Inventory,7,1
+Vidala's Rig,Vidala's Fetlock,Light Plated Boots,Boots,2,2,14,False,True,5,Inventory,5,3
+Vidala's Rig,Vidala's Snare,Amulet,Amulet,1,1,14,False,True,5,Inventory,9,4
+Warlord's Glory,Warlord's Lust,Great Helm,Helm,2,2,1,True,False,,,,
+Warlord's Glory,Warlord's Mantle,Full Plate Mail,Armor,2,3,1,True,False,,,,
+Warlord's Glory,Warlord's Conquest,Gauntlets,Gloves,2,2,1,True,False,,,,
+Warlord's Glory,Warlord's Authority,Plated Belt,Belt,2,1,1,True,False,,,,
+Warlord's Glory,Warlord's Crushers,Greaves,Boots,2,2,1,True,False,,,,
