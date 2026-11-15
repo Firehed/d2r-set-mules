@@ -27,7 +27,7 @@ TYPE_SLOT = {
 
 
 def load(data_dir, name):
-    return json.loads((data_dir / name).read_text())
+    return json.loads((data_dir / name).read_text(encoding="utf-8"))
 
 
 def build_items(data_dir):
@@ -155,8 +155,8 @@ def main():
     data_dir = Path(sys.argv[1]) if len(sys.argv) == 2 else OUT / "data"
     items = build_items(data_dir)
 
-    (OUT / "set_items.json").write_text(json.dumps(items, indent=1, ensure_ascii=False) + "\n")
-    with open(OUT / "set_items.csv", "w", newline="") as f:
+    (OUT / "set_items.json").write_text(json.dumps(items, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    with open(OUT / "set_items.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(items[0]))
         w.writeheader()
         w.writerows(items)
@@ -166,12 +166,12 @@ def main():
         "excluded": sorted({i["set"] for i in items if not i["obtainable"]}),
         "mules": plan_mules(items),
     }
-    (OUT / "mule_plan.json").write_text(json.dumps(plan, indent=1, ensure_ascii=False) + "\n")
+    (OUT / "mule_plan.json").write_text(json.dumps(plan, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    html = (OUT / "mules.template.html").read_text()
+    html = (OUT / "mules.template.html").read_text(encoding="utf-8")
     html = html.replace("/*ITEMS*/", json.dumps(items, ensure_ascii=False))
     html = html.replace("/*PLAN*/", json.dumps(plan, ensure_ascii=False))
-    (OUT / "mules.html").write_text(html)
+    (OUT / "mules.html").write_text(html, encoding="utf-8")
     plan = plan["mules"]
 
     sets = {i["set"] for i in items}
