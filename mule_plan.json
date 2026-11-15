@@ -1,0 +1,1328 @@
+{
+ "grids": [
+  {
+   "name": "Stash",
+   "width": 10,
+   "height": 10
+  },
+  {
+   "name": "Inventory",
+   "width": 10,
+   "height": 4
+  }
+ ],
+ "excluded": [
+  "Warlord's Glory"
+ ],
+ "mules": [
+  {
+   "mule": 1,
+   "range": "Aldur's Watchtower – Cathan's Traps",
+   "sets": [
+    "Aldur's Watchtower",
+    "Angelic Raiment",
+    "Arcanna's Tricks",
+    "Arctic Gear",
+    "Bane's Garments",
+    "Berserker's Arsenal",
+    "Bul-Kathos' Children",
+    "Cathan's Traps"
+   ],
+   "cells_used": {
+    "Stash": 87,
+    "Inventory": 32
+   },
+   "placements": [
+    {
+     "set": "Aldur's Watchtower",
+     "name": "Aldur's Deception",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Aldur's Watchtower",
+     "name": "Aldur's Stony Gaze",
+     "grid": "Stash",
+     "x": 0,
+     "y": 3,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Aldur's Watchtower",
+     "name": "Aldur's Advance",
+     "grid": "Stash",
+     "x": 0,
+     "y": 5,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Aldur's Watchtower",
+     "name": "Aldur's Rhythm",
+     "grid": "Stash",
+     "x": 0,
+     "y": 7,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Angelic Raiment",
+     "name": "Angelic Mantle",
+     "grid": "Stash",
+     "x": 1,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Angelic Raiment",
+     "name": "Angelic Sickle",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Angelic Raiment",
+     "name": "Angelic Wings",
+     "grid": "Stash",
+     "x": 2,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "Angelic Raiment",
+     "name": "Angelic Halo",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "Arcanna's Tricks",
+     "name": "Arcanna's Deathwand",
+     "grid": "Stash",
+     "x": 3,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "set": "Arcanna's Tricks",
+     "name": "Arcanna's Flesh",
+     "grid": "Stash",
+     "x": 3,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Arcanna's Tricks",
+     "name": "Arcanna's Head",
+     "grid": "Stash",
+     "x": 3,
+     "y": 7,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Arcanna's Tricks",
+     "name": "Arcanna's Sign",
+     "grid": "Stash",
+     "x": 2,
+     "y": 5,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "Arctic Gear",
+     "name": "Arctic Furs",
+     "grid": "Stash",
+     "x": 5,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Arctic Gear",
+     "name": "Arctic Horn",
+     "grid": "Stash",
+     "x": 5,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Arctic Gear",
+     "name": "Arctic Mitts",
+     "grid": "Stash",
+     "x": 5,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Arctic Gear",
+     "name": "Arctic Binding",
+     "grid": "Stash",
+     "x": 3,
+     "y": 9,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Bane's Garments",
+     "name": "Bane's Wraithskin",
+     "grid": "Stash",
+     "x": 7,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Bane's Garments",
+     "name": "Bane's Oathmaker",
+     "grid": "Stash",
+     "x": 7,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Bane's Garments",
+     "name": "Bane's Authority",
+     "grid": "Stash",
+     "x": 5,
+     "y": 8,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Berserker's Arsenal",
+     "name": "Berserker's Hauberk",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Berserker's Arsenal",
+     "name": "Berserker's Hatchet",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Berserker's Arsenal",
+     "name": "Berserker's Headgear",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Bul-Kathos' Children",
+     "name": "Bul-Kathos' Sacred Charge",
+     "grid": "Stash",
+     "x": 7,
+     "y": 6,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "set": "Bul-Kathos' Children",
+     "name": "Bul-Kathos' Tribal Guardian",
+     "grid": "Stash",
+     "x": 8,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Cathan's Traps",
+     "name": "Cathan's Mesh",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Cathan's Traps",
+     "name": "Cathan's Rule",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "set": "Cathan's Traps",
+     "name": "Cathan's Visage",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Cathan's Traps",
+     "name": "Cathan's Sigil",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "Cathan's Traps",
+     "name": "Cathan's Seal",
+     "grid": "Inventory",
+     "x": 1,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    }
+   ]
+  },
+  {
+   "mule": 2,
+   "range": "Civerb's Vestments – Hsarus' Defense",
+   "sets": [
+    "Civerb's Vestments",
+    "Cleglaw's Brace",
+    "Cow King's Leathers",
+    "Death's Disguise",
+    "Griswold's Legacy",
+    "Heaven's Brethren",
+    "Horazon's Splendor",
+    "Hsarus' Defense"
+   ],
+   "cells_used": {
+    "Stash": 88,
+    "Inventory": 32
+   },
+   "placements": [
+    {
+     "set": "Civerb's Vestments",
+     "name": "Civerb's Ward",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Civerb's Vestments",
+     "name": "Civerb's Cudgel",
+     "grid": "Stash",
+     "x": 0,
+     "y": 3,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Civerb's Vestments",
+     "name": "Civerb's Icon",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "Cleglaw's Brace",
+     "name": "Cleglaw's Tooth",
+     "grid": "Stash",
+     "x": 0,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Cleglaw's Brace",
+     "name": "Cleglaw's Claw",
+     "grid": "Stash",
+     "x": 1,
+     "y": 3,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Cleglaw's Brace",
+     "name": "Cleglaw's Pincers",
+     "grid": "Stash",
+     "x": 1,
+     "y": 5,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Cow King's Leathers",
+     "name": "Cow King's Hide",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Cow King's Leathers",
+     "name": "Cow King's Horns",
+     "grid": "Stash",
+     "x": 2,
+     "y": 7,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Cow King's Leathers",
+     "name": "Cow King's Hooves",
+     "grid": "Stash",
+     "x": 3,
+     "y": 3,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Death's Disguise",
+     "name": "Death's Hand",
+     "grid": "Stash",
+     "x": 3,
+     "y": 5,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Death's Disguise",
+     "name": "Death's Touch",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Death's Disguise",
+     "name": "Death's Guard",
+     "grid": "Stash",
+     "x": 2,
+     "y": 9,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Griswold's Legacy",
+     "name": "Griswold's Heart",
+     "grid": "Stash",
+     "x": 4,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Griswold's Legacy",
+     "name": "Griswold's Redemption",
+     "grid": "Stash",
+     "x": 5,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Griswold's Legacy",
+     "name": "Griswold's Valor",
+     "grid": "Stash",
+     "x": 5,
+     "y": 3,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Griswold's Legacy",
+     "name": "Griswold's Honor",
+     "grid": "Stash",
+     "x": 5,
+     "y": 5,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Heaven's Brethren",
+     "name": "Taebaek's Glory",
+     "grid": "Stash",
+     "x": 7,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "set": "Heaven's Brethren",
+     "name": "Haemosu's Adamant",
+     "grid": "Stash",
+     "x": 6,
+     "y": 7,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Heaven's Brethren",
+     "name": "Ondal's Almighty",
+     "grid": "Stash",
+     "x": 7,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Heaven's Brethren",
+     "name": "Dangoon's Teaching",
+     "grid": "Stash",
+     "x": 8,
+     "y": 6,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Horazon's Splendor",
+     "name": "Horazon's Dominion",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Horazon's Splendor",
+     "name": "Horazon's Countenance",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Horazon's Splendor",
+     "name": "Horazon's Secrets",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Horazon's Splendor",
+     "name": "Horazon's Hold",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Horazon's Splendor",
+     "name": "Horazon's Legacy",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Hsarus' Defense",
+     "name": "Hsarus' Iron Fist",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Hsarus' Defense",
+     "name": "Hsarus' Iron Heel",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Hsarus' Defense",
+     "name": "Hsarus' Iron Stay",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 3,
+     "width": 2,
+     "height": 1
+    }
+   ]
+  },
+  {
+   "mule": 3,
+   "range": "Hwanin's Majesty – Isenhart's Armory",
+   "sets": [
+    "Hwanin's Majesty",
+    "Immortal King",
+    "Infernal Tools",
+    "Iratha's Finery",
+    "Isenhart's Armory"
+   ],
+   "cells_used": {
+    "Stash": 67,
+    "Inventory": 24
+   },
+   "placements": [
+    {
+     "set": "Hwanin's Majesty",
+     "name": "Hwanin's Justice",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "set": "Hwanin's Majesty",
+     "name": "Hwanin's Refuge",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Hwanin's Majesty",
+     "name": "Hwanin's Splendor",
+     "grid": "Stash",
+     "x": 0,
+     "y": 7,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Hwanin's Majesty",
+     "name": "Hwanin's Blessing",
+     "grid": "Stash",
+     "x": 0,
+     "y": 9,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Immortal King",
+     "name": "Immortal King's Stone Crusher",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "set": "Immortal King",
+     "name": "Immortal King's Soul Cage",
+     "grid": "Stash",
+     "x": 2,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Immortal King",
+     "name": "Immortal King's Will",
+     "grid": "Stash",
+     "x": 2,
+     "y": 7,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Immortal King",
+     "name": "Immortal King's Forge",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Immortal King",
+     "name": "Immortal King's Pillar",
+     "grid": "Stash",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Immortal King",
+     "name": "Immortal King's Detail",
+     "grid": "Stash",
+     "x": 2,
+     "y": 9,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Infernal Tools",
+     "name": "Infernal Cranium",
+     "grid": "Stash",
+     "x": 4,
+     "y": 4,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Infernal Tools",
+     "name": "Infernal Torch",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "set": "Infernal Tools",
+     "name": "Infernal Sign",
+     "grid": "Stash",
+     "x": 4,
+     "y": 8,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Iratha's Finery",
+     "name": "Iratha's Coil",
+     "grid": "Stash",
+     "x": 5,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Iratha's Finery",
+     "name": "Iratha's Cuff",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Iratha's Finery",
+     "name": "Iratha's Cord",
+     "grid": "Stash",
+     "x": 4,
+     "y": 9,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Iratha's Finery",
+     "name": "Iratha's Collar",
+     "grid": "Stash",
+     "x": 6,
+     "y": 2,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "Isenhart's Armory",
+     "name": "Isenhart's Parry",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "set": "Isenhart's Armory",
+     "name": "Isenhart's Case",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Isenhart's Armory",
+     "name": "Isenhart's Lightbrand",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Isenhart's Armory",
+     "name": "Isenhart's Horns",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    }
+   ]
+  },
+  {
+   "mule": 4,
+   "range": "M'avina's Battle Hymn – Sazabi's Grand Tribute",
+   "sets": [
+    "M'avina's Battle Hymn",
+    "Milabrega's Regalia",
+    "Naj's Ancient Vestige",
+    "Natalya's Odium",
+    "Orphan's Call",
+    "Sander's Folly",
+    "Sazabi's Grand Tribute"
+   ],
+   "cells_used": {
+    "Stash": 91,
+    "Inventory": 30
+   },
+   "placements": [
+    {
+     "set": "M'avina's Battle Hymn",
+     "name": "M'avina's Caster",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "set": "M'avina's Battle Hymn",
+     "name": "M'avina's Embrace",
+     "grid": "Stash",
+     "x": 0,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "M'avina's Battle Hymn",
+     "name": "M'avina's True Sight",
+     "grid": "Stash",
+     "x": 0,
+     "y": 7,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "M'avina's Battle Hymn",
+     "name": "M'avina's Icy Clutch",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "M'avina's Battle Hymn",
+     "name": "M'avina's Tenet",
+     "grid": "Stash",
+     "x": 0,
+     "y": 9,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Milabrega's Regalia",
+     "name": "Milabrega's Robe",
+     "grid": "Stash",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Milabrega's Regalia",
+     "name": "Milabrega's Rod",
+     "grid": "Stash",
+     "x": 2,
+     "y": 5,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Milabrega's Regalia",
+     "name": "Milabrega's Orb",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Milabrega's Regalia",
+     "name": "Milabrega's Diadem",
+     "grid": "Stash",
+     "x": 2,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Naj's Ancient Vestige",
+     "name": "Naj's Light Plate",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Naj's Ancient Vestige",
+     "name": "Naj's Puzzler",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 1,
+     "height": 4
+    },
+    {
+     "set": "Naj's Ancient Vestige",
+     "name": "Naj's Circlet",
+     "grid": "Stash",
+     "x": 5,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Natalya's Odium",
+     "name": "Natalya's Shadow",
+     "grid": "Stash",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Natalya's Odium",
+     "name": "Natalya's Totem",
+     "grid": "Stash",
+     "x": 5,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Natalya's Odium",
+     "name": "Natalya's Soul",
+     "grid": "Stash",
+     "x": 6,
+     "y": 3,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Natalya's Odium",
+     "name": "Natalya's Mark",
+     "grid": "Stash",
+     "x": 7,
+     "y": 5,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Orphan's Call",
+     "name": "Guillaume's Face",
+     "grid": "Stash",
+     "x": 7,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Orphan's Call",
+     "name": "Whitstan's Guard",
+     "grid": "Stash",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Orphan's Call",
+     "name": "Magnus' Skin",
+     "grid": "Stash",
+     "x": 8,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Orphan's Call",
+     "name": "Wilhelm's Pride",
+     "grid": "Stash",
+     "x": 8,
+     "y": 4,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Sander's Folly",
+     "name": "Sander's Paragon",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Sander's Folly",
+     "name": "Sander's Taboo",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Sander's Folly",
+     "name": "Sander's Riprap",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Sander's Folly",
+     "name": "Sander's Superstition",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 2,
+     "width": 1,
+     "height": 2
+    },
+    {
+     "set": "Sazabi's Grand Tribute",
+     "name": "Sazabi's Ghost Liberator",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Sazabi's Grand Tribute",
+     "name": "Sazabi's Cobalt Redeemer",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Sazabi's Grand Tribute",
+     "name": "Sazabi's Mental Sheath",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    }
+   ]
+  },
+  {
+   "mule": 5,
+   "range": "Sigon's Complete Steel – Vidala's Rig",
+   "sets": [
+    "Sigon's Complete Steel",
+    "Tal Rasha's Wrappings",
+    "Tancred's Battlegear",
+    "The Disciple",
+    "Trang-Oul's Avatar",
+    "Vidala's Rig"
+   ],
+   "cells_used": {
+    "Stash": 80,
+    "Inventory": 39
+   },
+   "placements": [
+    {
+     "set": "Sigon's Complete Steel",
+     "name": "Sigon's Shelter",
+     "grid": "Stash",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Sigon's Complete Steel",
+     "name": "Sigon's Guard",
+     "grid": "Stash",
+     "x": 0,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Sigon's Complete Steel",
+     "name": "Sigon's Visor",
+     "grid": "Stash",
+     "x": 0,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Sigon's Complete Steel",
+     "name": "Sigon's Gage",
+     "grid": "Stash",
+     "x": 0,
+     "y": 8,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Sigon's Complete Steel",
+     "name": "Sigon's Sabot",
+     "grid": "Stash",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Sigon's Complete Steel",
+     "name": "Sigon's Wrap",
+     "grid": "Stash",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Tal Rasha's Wrappings",
+     "name": "Tal Rasha's Guardianship",
+     "grid": "Stash",
+     "x": 2,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Tal Rasha's Wrappings",
+     "name": "Tal Rasha's Horadric Crest",
+     "grid": "Stash",
+     "x": 2,
+     "y": 6,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Tal Rasha's Wrappings",
+     "name": "Tal Rasha's Lidless Eye",
+     "grid": "Stash",
+     "x": 4,
+     "y": 0,
+     "width": 1,
+     "height": 3
+    },
+    {
+     "set": "Tal Rasha's Wrappings",
+     "name": "Tal Rasha's Fine-Spun Cloth",
+     "grid": "Stash",
+     "x": 2,
+     "y": 8,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Tal Rasha's Wrappings",
+     "name": "Tal Rasha's Adjudication",
+     "grid": "Stash",
+     "x": 2,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "Tancred's Battlegear",
+     "name": "Tancred's Spine",
+     "grid": "Stash",
+     "x": 4,
+     "y": 3,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Tancred's Battlegear",
+     "name": "Tancred's Crowbill",
+     "grid": "Stash",
+     "x": 4,
+     "y": 6,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Tancred's Battlegear",
+     "name": "Tancred's Skull",
+     "grid": "Stash",
+     "x": 5,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Tancred's Battlegear",
+     "name": "Tancred's Hobnails",
+     "grid": "Stash",
+     "x": 6,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Tancred's Battlegear",
+     "name": "Tancred's Weird",
+     "grid": "Stash",
+     "x": 3,
+     "y": 9,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "The Disciple",
+     "name": "Dark Adherent",
+     "grid": "Stash",
+     "x": 6,
+     "y": 4,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "The Disciple",
+     "name": "Laying of Hands",
+     "grid": "Stash",
+     "x": 6,
+     "y": 7,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "The Disciple",
+     "name": "Rite of Passage",
+     "grid": "Stash",
+     "x": 7,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "The Disciple",
+     "name": "Credendum",
+     "grid": "Stash",
+     "x": 4,
+     "y": 9,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "The Disciple",
+     "name": "Telling of Beads",
+     "grid": "Stash",
+     "x": 5,
+     "y": 2,
+     "width": 1,
+     "height": 1
+    },
+    {
+     "set": "Trang-Oul's Avatar",
+     "name": "Trang-Oul's Scales",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Trang-Oul's Avatar",
+     "name": "Trang-Oul's Guise",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Trang-Oul's Avatar",
+     "name": "Trang-Oul's Wing",
+     "grid": "Inventory",
+     "x": 2,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Trang-Oul's Avatar",
+     "name": "Trang-Oul's Claws",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 0,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Trang-Oul's Avatar",
+     "name": "Trang-Oul's Girth",
+     "grid": "Inventory",
+     "x": 0,
+     "y": 3,
+     "width": 2,
+     "height": 1
+    },
+    {
+     "set": "Vidala's Rig",
+     "name": "Vidala's Barb",
+     "grid": "Inventory",
+     "x": 6,
+     "y": 0,
+     "width": 2,
+     "height": 4
+    },
+    {
+     "set": "Vidala's Rig",
+     "name": "Vidala's Ambush",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 0,
+     "width": 2,
+     "height": 3
+    },
+    {
+     "set": "Vidala's Rig",
+     "name": "Vidala's Fetlock",
+     "grid": "Inventory",
+     "x": 4,
+     "y": 2,
+     "width": 2,
+     "height": 2
+    },
+    {
+     "set": "Vidala's Rig",
+     "name": "Vidala's Snare",
+     "grid": "Inventory",
+     "x": 8,
+     "y": 3,
+     "width": 1,
+     "height": 1
+    }
+   ]
+  }
+ ]
+}

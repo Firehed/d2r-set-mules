@@ -1,0 +1,285 @@
+<title>Set Item Mules</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Source+Sans+3:wght@400;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: sticky search bar over a stack of mule cards; each card puts the
+   10x10 stash beside the 10x4 inventory, drawn to the game's cell grid. */
+:root {
+  --bg: #f3f2ee;
+  --panel: #ffffff;
+  --well: #e4e3dc;
+  --line: #cfcdc3;
+  --fg: #1d1f1b;
+  --muted: #62655c;
+  --set: #1c7a2a;          /* D2 set-item green, darkened for light ground */
+  --item-l: 82%;
+  --item-c: 0.09;
+  --item-fg: #14160f;
+  --hit: #b8860b;
+  --font-display: "Cinzel", "Trajan Pro", Georgia, serif;
+  --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  --cell: min(34px, calc((100vw - 48px) / 10));
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121311; --panel: #1b1c19; --well: #0b0c0a; --line: #34362f;
+    --fg: #e6e4dc; --muted: #9a9b90; --set: #3fdc4f;
+    --item-l: 38%; --item-c: 0.08; --item-fg: #f1efe6; --hit: #f2c14e;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121311; --panel: #1b1c19; --well: #0b0c0a; --line: #34362f;
+  --fg: #e6e4dc; --muted: #9a9b90; --set: #3fdc4f;
+  --item-l: 38%; --item-c: 0.08; --item-fg: #f1efe6; --hit: #f2c14e;
+  color-scheme: dark;
+}
+
+body {
+  background: var(--bg); color: var(--fg);
+  font: 15px/1.5 var(--font-body);
+}
+body::before {
+  content: ""; position: fixed; inset: 0 0 auto;
+  height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg);
+}
+.wrap {
+  max-width: 1080px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 64px;
+  display: grid; gap: 28px;
+}
+h1, h2 { font-family: var(--font-display); font-weight: 700; text-wrap: balance; margin: 0; }
+h1 { font-size: 1.9rem; letter-spacing: 0.02em; color: var(--set); }
+h2 { font-size: 1.25rem; }
+p { margin: 0; max-width: 68ch; }
+.lede { color: var(--muted); }
+.mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+
+/* Summary index */
+.index { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; }
+.index a {
+  display: grid; gap: 2px; padding: 10px 12px; text-decoration: none; color: inherit;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 4px;
+}
+.index a:hover, .index a:focus-visible { border-color: var(--set); outline: none; }
+.index b { font-family: var(--font-display); }
+.index span { font-size: 0.85rem; color: var(--muted); }
+
+/* Sticky search */
+.search {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--bg); padding-block: 10px; display: grid; gap: 8px;
+  border-bottom: 1px solid var(--line);
+}
+.search input {
+  width: 100%; box-sizing: border-box; font: inherit; font-size: 1rem;
+  padding: 9px 12px; border: 1px solid var(--line); border-radius: 4px;
+  background: var(--panel); color: var(--fg);
+}
+.search input:focus-visible { outline: 2px solid var(--set); outline-offset: 1px; }
+.status { font-size: 0.9rem; color: var(--muted); min-height: 1.5em; }
+.status strong { color: var(--fg); }
+
+/* Mule cards */
+.mule { display: grid; gap: 14px; padding: 18px; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; scroll-margin-top: 120px; }
+.mule-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; }
+.mule-head .range { color: var(--muted); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px; }
+.legend button {
+  font: inherit; font-size: 0.82rem; cursor: pointer; border-radius: 3px;
+  padding: 2px 8px; border: 1px solid transparent; color: var(--item-fg);
+  background: oklch(var(--item-l) var(--item-c) var(--h));
+}
+.legend button:focus-visible { outline: 2px solid var(--hit); }
+.grids { display: flex; flex-wrap: wrap; gap: 18px; align-items: flex-start; }
+.grid-box { display: grid; gap: 4px; }
+.grid-box .label { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.grid {
+  position: relative; display: grid;
+  grid-template-columns: repeat(10, var(--cell));
+  grid-auto-rows: var(--cell);
+  background-color: var(--well);
+  background-image:
+    linear-gradient(var(--line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--line) 1px, transparent 1px);
+  background-size: var(--cell) var(--cell);
+  border: 1px solid var(--line);
+}
+.item {
+  margin: 1px; border-radius: 2px; overflow: hidden; cursor: pointer;
+  background: oklch(var(--item-l) var(--item-c) var(--h));
+  color: var(--item-fg); border: 1px solid oklch(calc(var(--item-l) - 18%) var(--item-c) var(--h));
+  font-size: 0.62rem; line-height: 1.1; padding: 2px; box-sizing: border-box;
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  hyphens: auto; word-break: break-word;
+  transition: opacity 120ms;
+}
+.item:focus-visible { outline: 2px solid var(--hit); outline-offset: 1px; z-index: 1; }
+.dim .item:not(.match) { opacity: 0.18; }
+.item.match { box-shadow: 0 0 0 2px var(--hit); z-index: 1; }
+.item.picked { box-shadow: 0 0 0 3px var(--hit); z-index: 2; }
+.mule.nohit { display: none; }
+
+/* Item table */
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); }
+table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+th { font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); position: sticky; top: 0; background: var(--panel); }
+td.name { color: var(--set); font-weight: 600; }
+tr.set-start td { border-top: 2px solid var(--line); }
+tr.excluded td { color: var(--muted); }
+tr.excluded td.name { color: var(--muted); font-weight: 400; }
+.pill { font-size: 0.72rem; padding: 1px 6px; border-radius: 99px; border: 1px solid var(--line); color: var(--muted); }
+@media (prefers-reduced-motion: reduce) { .item { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header style="display:grid;gap:8px">
+    <h1>Set Item Mules</h1>
+    <p class="lede" id="lede"></p>
+  </header>
+
+  <nav class="index" id="index" aria-label="Mules"></nav>
+
+  <div class="search">
+    <input id="q" type="search" placeholder="Find an item, set, or base (e.g. Tal Rasha, amulet, Shako)" autocomplete="off">
+    <div class="status" id="status" aria-live="polite"></div>
+  </div>
+
+  <main id="mules" style="display:grid;gap:18px"></main>
+
+  <section style="display:grid;gap:10px">
+    <h2>Every set item</h2>
+    <p class="lede">Sizes are inventory cells, width × height, from the game's base item data.</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Item</th><th>Set</th><th>Base</th><th>Slot</th><th>Size</th><th>Req</th><th>Location</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </section>
+</div>
+
+<script>
+const ITEMS = /*ITEMS*/;
+const PLAN = /*PLAN*/;
+
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+// Index items by name and attach their spot in the plan.
+const byName = new Map(ITEMS.map(i => [i.name, { ...i }]));
+for (const m of PLAN.mules) for (const p of m.placements) Object.assign(byName.get(p.name), { mule: m.mule, grid: p.grid, x: p.x, y: p.y });
+
+const where = i => i.mule ? `Mule ${i.mule} · ${i.grid} · col ${i.x + 1}, row ${i.y + 1}` : "Not placed (cannot drop)";
+const nSets = new Set(ITEMS.map(i => i.set)).size;
+$("#lede").textContent =
+  `${ITEMS.length} set items across ${nSets} sets, packed onto ${PLAN.mules.length} mules ` +
+  `(${PLAN.grids.map(g => `${g.width}×${g.height} ${g.name.toLowerCase()}`).join(" + ")}). ` +
+  `Sets run in alphabetical order and each set stays whole in one grid.` +
+  (PLAN.excluded.length ? ` ${PLAN.excluded.join(", ")} is in the game files but has no drop source, so it is listed but not given space.` : "");
+
+// Short label: drop the set-owner prefix ("Tal Rasha's Lidless Eye" -> "Lidless Eye").
+function shortName(name) {
+  const m = name.match(/^(.+?'s?)\s+(.+)$/);
+  return m ? m[2] : name;
+}
+function abbrev(name) {
+  return shortName(name).split(/[\s-]+/).map(w => w[0]).join("").slice(0, 3);
+}
+
+// Index cards
+$("#index").innerHTML = PLAN.mules.map(m =>
+  `<a href="#mule${m.mule}"><b>Mule ${m.mule}</b><span>${esc(m.range)}</span></a>`).join("");
+
+// Mule cards
+const mulesEl = $("#mules");
+for (const m of PLAN.mules) {
+  const hue = {};
+  m.sets.forEach((s, i) => hue[s] = Math.round((i * 360 / m.sets.length + 140) % 360));
+  const card = document.createElement("section");
+  card.className = "mule"; card.id = `mule${m.mule}`;
+  card.innerHTML = `
+    <div class="mule-head"><h2>Mule ${m.mule}</h2><span class="range">${esc(m.range)}</span></div>
+    <div class="legend">${m.sets.map(s => `<button type="button" style="--h:${hue[s]}" data-set="${esc(s)}">${esc(s)}</button>`).join("")}</div>
+    <div class="grids">${PLAN.grids.map(g => {
+      const used = m.cells_used[g.name];
+      const cells = m.placements.filter(p => p.grid === g.name).map(p => {
+        const label = p.width * p.height > 1 ? shortName(p.name) : abbrev(p.name);
+        return `<div class="item" tabindex="0" role="button" data-name="${esc(p.name)}"
+          style="--h:${hue[p.set]};grid-column:${p.x + 1}/span ${p.width};grid-row:${p.y + 1}/span ${p.height}"
+          title="${esc(p.name)}">${esc(label)}</div>`;
+      }).join("");
+      return `<div class="grid-box"><div class="label">${g.name} · <span class="mono">${used}/${g.width * g.height}</span> cells</div>
+        <div class="grid" style="grid-template-rows:repeat(${g.height},var(--cell))">${cells}</div></div>`;
+    }).join("")}</div>`;
+  mulesEl.append(card);
+}
+
+// Table
+let prevSet = null;
+$("#rows").innerHTML = [...byName.values()].map(i => {
+  const start = i.set !== prevSet; prevSet = i.set;
+  return `<tr class="${start ? "set-start" : ""} ${i.obtainable ? "" : "excluded"}" data-name="${esc(i.name)}">
+    <td class="name">${esc(i.name)}</td><td>${esc(i.set)}${i.expansion ? "" : ' <span class="pill">Classic</span>'}</td>
+    <td>${esc(i.base)}</td><td>${i.slot}</td><td class="mono">${i.width}×${i.height}</td>
+    <td class="mono">${i.req_level ?? ""}</td><td>${esc(where(i))}</td></tr>`;
+}).join("");
+
+// Search + selection
+const q = $("#q"), status = $("#status");
+const norm = s => s.toLowerCase().replace(/[’']/g, "");
+function matches(i, t) { return norm(`${i.name} ${i.set} ${i.base} ${i.slot}`).includes(t); }
+
+function render() {
+  const t = norm(q.value.trim());
+  document.querySelectorAll(".item.picked").forEach(e => e.classList.remove("picked"));
+  if (!t) {
+    mulesEl.classList.remove("dim");
+    document.querySelectorAll(".mule").forEach(e => e.classList.remove("nohit"));
+    document.querySelectorAll(".item.match").forEach(e => e.classList.remove("match"));
+    document.querySelectorAll("#rows tr").forEach(r => r.hidden = false);
+    status.textContent = "Tap an item for its details, or a set name to highlight the whole set.";
+    return;
+  }
+  const hits = [...byName.values()].filter(i => matches(i, t));
+  const names = new Set(hits.map(i => i.name));
+  mulesEl.classList.add("dim");
+  document.querySelectorAll(".item").forEach(e => e.classList.toggle("match", names.has(e.dataset.name)));
+  document.querySelectorAll(".mule").forEach(e => e.classList.toggle("nohit", !e.querySelector(".item.match")));
+  document.querySelectorAll("#rows tr").forEach(r => r.hidden = !names.has(r.dataset.name));
+  if (hits.length === 1) {
+    const i = hits[0];
+    status.innerHTML = `<strong>${esc(i.name)}</strong> — ${esc(i.base)}, ${i.width}×${i.height} — ${esc(where(i))}`;
+  } else {
+    const ms = [...new Set(hits.filter(i => i.mule).map(i => i.mule))];
+    status.innerHTML = hits.length
+      ? `<strong>${hits.length}</strong> items` + (ms.length ? ` on mule ${ms.join(", ")}` : "")
+      : "No set item matches that.";
+  }
+}
+q.addEventListener("input", render);
+
+function pick(name, scroll) {
+  q.value = name; render();
+  const el = document.querySelector(`.item[data-name="${CSS.escape(name)}"]`);
+  if (el) { el.classList.add("picked"); if (scroll) el.closest(".mule").scrollIntoView({ behavior: "smooth", block: "start" }); }
+}
+mulesEl.addEventListener("click", e => {
+  const it = e.target.closest(".item"); if (it) return pick(it.dataset.name);
+  const b = e.target.closest(".legend button"); if (b) { q.value = b.dataset.set; render(); }
+});
+mulesEl.addEventListener("keydown", e => {
+  const it = e.target.closest(".item");
+  if (it && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); pick(it.dataset.name); }
+});
+$("#rows").addEventListener("click", e => {
+  const r = e.target.closest("tr"); if (r && byName.get(r.dataset.name).mule) pick(r.dataset.name, true);
+});
+render();
+</script>
